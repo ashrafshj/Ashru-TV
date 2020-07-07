@@ -5,7 +5,7 @@ https://suntv.skandha.tv/SuryaTV/SuryaTV.isml/SuryaTV-audio_1=64000-video=149996
 http://mhdworld.fun:80/delta/yuppp.m3u8?id=25796&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Y2GcBQz/" group-title="INDIA",ASIANET HD
-http://jiocdn.fun/mymhdtvworld/xxx1.php?c=asianethd&e=.m3u8
+https://jiocdn.fun/my/hitz.php?c=asianethd&e=.m3u8
 
 
  #EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/" group-title="INDIA",ZEE KERALAM
@@ -20,33 +20,55 @@ https://suntv.skandha.tv/SuryaMovies/SuryaMovies.isml/SuryaMovies-audio_1=64000-
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ILVKTeI/" group-title="INDIA",KCL TV
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png" group-title="INDIA",Amrita
+http://mhdworld.fun/delta/yupp.m3u8?id=53595397611&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png" group-title="INDIA",Flowers 
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",Kairali TV 
+http://mhdworld.fun/delta/yupp.m3u8?id=484636576&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="INDIA",Kairali We 
+http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png" group-title="INDIA",Jeevan TV 
 https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="INDIA",Darshana
+#EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/" group-title="INDIA",Darshana
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZ79rhU.png" group-title="INDIA",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",     MEDIA ONE
+#EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="INDIA",MEDIA ONE
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="INDIA",  24 NEWS
+EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA", 24 NEWS
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="INDIA",Manorama News (New!)
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",  NEWS 18
+#EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="INDIA",  NEWS 18
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1593701904~acl=%2f*~data=hdntl~hmac=a87cab4fc8077bc631430077faa110d603ef9963bff6b7273651dd670474368f
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="INDIA",Mathrubhumi News
-http://tiny.cc/bs2or
+https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742227023001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jAMKVwM.png" group-title="INDIA",KITE-VICTERS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="INDIA",Mangalam 
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U94l665.png" group-title="INDIA",Reporter
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/" group-title="INDIA",KITE-VICTERS
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",  KERALA VISION
 http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",  KERALA VISION
 http://103.199.161.254:80/Content/keralvisionst/Live/Channel(KeralvisionST)/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png" group-title="INDIA",M4 Malayalam
@@ -55,33 +77,23 @@ https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="INDIA",Jaihind TV
 http://cdn.asianetmobiletvplus.com:80/channels/jaihindtv_zyawlevutjmgcqjuvdllxdrnbpfwegxs/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",  SOORYAN TAMIL
+#EXTINF:-1 tvg-logo="https://imgur.com/download/8UjKU8Z/" group-title="INDIA",Sooriyan Tamil
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MFFYFeG.png" group-title="INDIA",Garshom News
 http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="INDIA",  SUN TV
+EXTINF:-1 tvg-logo="https://imgur.com/download/gjLsR1B/" group-title="INDIA",Sun TV
 https://suntv.skandha.tv/SunTV/SunTV.isml/SunTV-audio_1=64000-video=1499968.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png" group-title="INDIA",KTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png" group-title="INDIA",K TV
 https://suntv.skandha.tv/KTV/KTV.isml/KTV-audio_1=64000-video=1499968.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png" group-title="INDIA",  KOCHU TV
+#EXTINF:-1 tvg-logo="https://imgur.com/download/fBg2VN3/" group-title="INDIA",Kochu TV
 https://suntv.skandha.tv/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png" group-title="INDIA",  RAJ MUSIC
+#EXTINF:-1 tvg-logo="https://imgur.com/download/CrQtBry/" group-title="INDIA",Raj Music
 http://mhdworld.fun/delta/yupp.m3u8?id=911888626&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png" group-title="INDIA",Amrita
-http://mhdworld.fun/delta/yupp.m3u8?id=53595397611&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",Kairali TV 
-http://mhdworld.fun/delta/yupp.m3u8?id=484636576&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="INDIA",Kairali We 
-http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="INDIA",Mazhavil Manorama HD
 http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
@@ -89,10 +101,10 @@ http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="INDIA",Surya Music
 https://suntv.skandha.tv/SuryaMusic/SuryaMusic.isml/SuryaMusic-audio_1=64000-video=1499968.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="INDIA",SURYA HD
+#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/" group-title="INDIA",Surya HD
 https://suntv.skandha.tv/SuryaTVHD/SuryaTVHD.isml/SuryaTVHD-audio_1=64000-video=5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png" group-title="INDIA",  SUN MUSIC
+#EXTINF:-1 tvg-logo="https://imgur.com/download/rlLIanW/" group-title="INDIA",Sun Music
 https://suntv.skandha.tv/SunMusic/SunMusic.isml/SunMusic-audio_1=64000-video=699968.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2oUBtd.png" group-title="INDIA",Kappa 
@@ -101,15 +113,38 @@ http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HJ2FppC.png" group-title="INDIA",Magna Vision 
 http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="INDIA",Manorama News (New!)
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zTBgiNx.png" group-title="INDIA",TCV
 http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="INDIA",Mangalam 
-http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png" group-title="INDIA",DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/stream(2)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U94l665.png" group-title="INDIA",Reporter
-http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="INDIA",B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png" group-title="INDIA",B4U Plus (New!)
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA",Akaram Galatta
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA",Akaram Mix
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHFmUw1.png" group-title="INDIA",MN TV Music
+http://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QN0koGL.png" group-title="INDIA",Vanavil Plus
+http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whta3Il.png" group-title="INDIA",Vendhar TV
+http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="INDIA",7S Music 
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1HOUzgr.png" group-title="INDIA",Raj TV
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="INDIA",Kalaignar TV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(2)/index.m3u8
