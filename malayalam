@@ -3,10 +3,13 @@ http://103.199.161.254/Content/we/Live/Channel(We)/Stream(01)/index.m3u8
 
 DARSHANA
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
-ASIANET NEWS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fZ79rhU.png" group-title="INDIA",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
-JEEVAN TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png" group-title="INDIA",Jeevan TV 
 https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
+
 MEDIA ONE
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 MAZHAVIL MANORAMA
@@ -25,34 +28,47 @@ MATHRUBHUMI NEWS
 http://tiny.cc/bs2orz
 FLOWERS TV
 http://live.asianetmobiletvplus.com:80/channels/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_hls/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_profile1.m3u8
-VICTERS TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jAMKVwM.png" group-title="INDIA",KITE-VICTERS
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
+
 KERALA VISION
 http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
 http://103.199.161.254:80/Content/keralvisionst/Live/Channel(KeralvisionST)/Stream(02)/index.m3u8
-M4 TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png" group-title="INDIA",M4 Malayalam
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
+
 ASIANET
 http://jiocdn.fun/mymhdtvworld/xxx1.php?c=asianethd&e=.m3u8
-JAIHIND
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="INDIA",Jaihind TV
 http://cdn.asianetmobiletvplus.com:80/channels/jaihindtv_zyawlevutjmgcqjuvdllxdrnbpfwegxs/chunks.m3u8
+
 SOORYAN TAMIL
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 UBL TV
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 KCL TV
 https://kcltv.livebox.co.in/kclhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFFYFeG.png" group-title="INDIA",Garshom News
+http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
 SUN TV
 https://suntv.skandha.tv/SunTV/SunTV.isml/SunTV-audio_1=64000-video=1499968.m3u8
-K TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png" group-title="INDIA",KTV
 https://suntv.skandha.tv/KTV/KTV.isml/KTV-audio_1=64000-video=1499968.m3u8
+
 24 NEWS
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 KOCHU TV
 https://suntv.skandha.tv/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968.m3u8
 RAJ MUSIC
 http://mhdworld.fun/delta/yupp.m3u8?id=911888626&e=.m3u8
-AMIRTA TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png" group-title="INDIA",Amrita
 http://mhdworld.fun/delta/yupp.m3u8?id=53595397611&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",Kairali TV 
@@ -68,11 +84,20 @@ SURYA HD
 https://suntv.skandha.tv/SuryaTVHD/SuryaTVHD.isml/SuryaTVHD-audio_1=64000-video=5000000.m3u8
 SUN MUSIC
 https://suntv.skandha.tv/SunMusic/SunMusic.isml/SunMusic-audio_1=64000-video=699968.m3u8
-KAPPA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2oUBtd.png" group-title="INDIA",Kappa 
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-MAGNAVISION
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJ2FppC.png" group-title="INDIA",Magna Vision 
 http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
-MANGALAM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="INDIA",Manorama News (New!)
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="INDIA",Mangalam 
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+
 Rosebowl
 https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
