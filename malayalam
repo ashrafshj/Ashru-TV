@@ -2,7 +2,7 @@
 https://suntv.skandha.tv/SuryaTV/SuryaTV.isml/SuryaTV-audio_1=64000-video=1499968.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="INDIA",Mazhavil Manorama
-http://mhdworld.fun:80/delta/yuppp.m3u8?id=25796&e=.m3u8
+http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1594309228&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=3b4b5b6e18052c745770ca09606a4fe1&user=13810
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Y2GcBQz/" group-title="INDIA",Asianet HD
 https://jiocdn.fun/my/hitz.php?c=asianethd&e=.m3u8
