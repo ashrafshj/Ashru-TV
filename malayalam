@@ -43,11 +43,11 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3
 #EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="INDIA",MEDIA ONE
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA", 24 NEWS
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA",24 NEWS
+http://tiny.cc/9is4rz
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="INDIA",Manorama News (New!)
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+http://tiny.cc/jts4rz
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="INDIA",  NEWS 18
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1593701904~acl=%2f*~data=hdntl~hmac=a87cab4fc8077bc631430077faa110d603ef9963bff6b7273651dd670474368f
@@ -74,7 +74,7 @@ http://103.199.161.254:80/Content/keralvisionst/Live/Channel(KeralvisionST)/Stre
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="INDIA",Jaihind TV
-http://cdn.asianetmobiletvplus.com:80/channels/jaihindtv_zyawlevutjmgcqjuvdllxdrnbpfwegxs/chunks.m3u8
+http://tiny.cc/h0s4rz
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/8UjKU8Z/" group-title="INDIA",Sooriyan Tamil
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
