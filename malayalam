@@ -7,8 +7,7 @@ http://mhdworld.fun:80/delta/yuppp.m3u8?id=25796&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Y2GcBQz/" group-title="INDIA",ASIANET HD
 https://jiocdn.fun/my/hitz.php?c=asianethd&e=.m3u8
 
-
- #EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/" group-title="INDIA",ZEE KERALAM
+#EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/" group-title="INDIA",ZEE KERALAM
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/" group-title="INDIA",UBL TV
@@ -27,7 +26,7 @@ http://mhdworld.fun/delta/yupp.m3u8?id=53595397611&e=.m3u8
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",Kairali TV 
-http://mhdworld.fun/delta/yupp.m3u8?id=484636576&e=.m3u8
+http://inygoms.inygo.in/kairali.m3u8?bandwidth=956&e=1594266172&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=d7d092e8b073d0cbef0c5b7455eb073d&user=13810
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="INDIA",Kairali We 
 http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
