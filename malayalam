@@ -4,10 +4,10 @@ https://suntv.skandha.tv/SuryaTV/SuryaTV.isml/SuryaTV-audio_1=64000-video=149996
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="INDIA",Mazhavil Manorama
 http://mhdworld.fun:80/delta/yuppp.m3u8?id=25796&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/Y2GcBQz/" group-title="INDIA",ASIANET HD
+#EXTINF:-1 tvg-logo="https://imgur.com/download/Y2GcBQz/" group-title="INDIA",Asianet HD
 https://jiocdn.fun/my/hitz.php?c=asianethd&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/" group-title="INDIA",ZEE KERALAM
+#EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/" group-title="INDIA",Zee Keralam
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/" group-title="INDIA",UBL TV
@@ -37,19 +37,19 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/" group-title="INDIA",Darshana
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fZ79rhU.png" group-title="INDIA",Asianet News
+#EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="INDIA",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="INDIA",MEDIA ONE
+#EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="INDIA",Media One
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA",24 NEWS
+EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA",24 News
 http://tiny.cc/9is4rz
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="INDIA",Manorama News (New!)
 http://tiny.cc/jts4rz
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="INDIA",  NEWS 18
+#EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="INDIA",News 18
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1593701904~acl=%2f*~data=hdntl~hmac=a87cab4fc8077bc631430077faa110d603ef9963bff6b7273651dd670474368f
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="INDIA",Mathrubhumi News
@@ -61,13 +61,13 @@ http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U94l665.png" group-title="INDIA",Reporter
 http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/" group-title="INDIA",KITE-VICTERS
+#EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/" group-title="INDIA",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",  KERALA VISION
+#EXTINF:-1 tvg-logo="https://imgur.com/download/qGwmD6J/" group-title="INDIA",Kerala Vision
 http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",  KERALA VISION
+#EXTINF:-1 tvg-logo="https://imgur.com/download/4hkY7vU/" group-title="INDIA",Kerala Vision
 http://103.199.161.254:80/Content/keralvisionst/Live/Channel(KeralvisionST)/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png" group-title="INDIA",M4 Malayalam
@@ -121,11 +121,8 @@ http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/stream(2)/i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="INDIA",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png" group-title="INDIA",B4U Plus (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png" group-title="INDIA",B4U Plus 
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA",Akaram Galatta
-http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA",Akaram Mix
 http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
@@ -135,9 +132,6 @@ http://mntv.livebox.co.in/musichls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QN0koGL.png" group-title="INDIA",Vanavil Plus
 http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/whta3Il.png" group-title="INDIA",Vendhar TV
-http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="INDIA",7S Music 
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
