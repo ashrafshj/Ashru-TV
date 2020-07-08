@@ -44,10 +44,10 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA",24 News
-http://tiny.cc/9is4rz
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="INDIA",Manorama News
-http://tiny.cc/jts4rz
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1594248067/ei/I_cFX_bwIaT3sALYsa6YBw/ip/217.165.144.126/id/jjH6v95z3Nw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPYnDAaBkl8tD94_Iv5IufbPptuwZ56MH-FbLNE6BKbMCIAgE3Ib38Te9sY2Xsb84MNpgw9odgBKMmZi_0NjapUl_/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="INDIA",News 18
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1593701904~acl=%2f*~data=hdntl~hmac=a87cab4fc8077bc631430077faa110d603ef9963bff6b7273651dd670474368f
@@ -74,7 +74,7 @@ http://103.199.161.254:80/Content/keralvisionst/Live/Channel(KeralvisionST)/Stre
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="INDIA",Jaihind TV
-http://tiny.cc/h0s4rz
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1594248293/ei/BfgFX4CNI82h1waYsbnwCg/ip/217.165.144.126/id/Yn7K5ai0C30.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfmO2WiBC5rzmapgka-ayHBB-iAbogHS80qaUTMh-o6MCIQCFiA1CyU_vHuk85pf-9nRgre5NJtHaTPs3Ym69MQp1RA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/8UjKU8Z/" group-title="INDIA",Sooriyan Tamil
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
