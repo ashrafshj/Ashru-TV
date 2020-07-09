@@ -20,18 +20,18 @@ https://suntv.skandha.tv/SuryaMovies/SuryaMovies.isml/SuryaMovies-audio_1=64000-
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png" group-title="INDIA",Amrita
-http://mhdworld.fun/delta/yupp.m3u8?id=53595397611&e=.m3u8
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png" group-title="INDIA",Flowers 
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/stream(2)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",Kairali TV 
-http://inygoms.inygo.in/kairali.m3u8?bandwidth=956&e=1594266172&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=d7d092e8b073d0cbef0c5b7455eb073d&user=13810
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",Kairali 
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/stream(2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="INDIA",Kairali We 
 http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png" group-title="INDIA",Jeevan TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png" group-title="INDIA",Jeevan  
 https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/" group-title="INDIA",Darshana
@@ -47,7 +47,7 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA",24 News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="INDIA",Manorama News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1594248067/ei/I_cFX_bwIaT3sALYsa6YBw/ip/217.165.144.126/id/jjH6v95z3Nw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPYnDAaBkl8tD94_Iv5IufbPptuwZ56MH-FbLNE6BKbMCIAgE3Ib38Te9sY2Xsb84MNpgw9odgBKMmZi_0NjapUl_/file/index.m3u8
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="INDIA",News 18
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1593701904~acl=%2f*~data=hdntl~hmac=a87cab4fc8077bc631430077faa110d603ef9963bff6b7273651dd670474368f
@@ -74,7 +74,7 @@ http://103.199.161.254:80/Content/keralvisionst/Live/Channel(KeralvisionST)/Stre
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="INDIA",Jaihind TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1594248293/ei/BfgFX4CNI82h1waYsbnwCg/ip/217.165.144.126/id/Yn7K5ai0C30.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfmO2WiBC5rzmapgka-ayHBB-iAbogHS80qaUTMh-o6MCIQCFiA1CyU_vHuk85pf-9nRgre5NJtHaTPs3Ym69MQp1RA%3D%3D/file/index.m3u8
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/stream(2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/8UjKU8Z/" group-title="INDIA",Sooriyan Tamil
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
@@ -134,7 +134,7 @@ http://mntv.livebox.co.in/musichls/live.m3u8
 http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="INDIA",7S Music 
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1HOUzgr.png" group-title="INDIA",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(02)/index.m3u8
