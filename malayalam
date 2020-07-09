@@ -58,8 +58,11 @@ https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="INDIA",Mangalam 
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U94l665.png" group-title="INDIA",Reporter
-http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/" group-title="INDIA",Asianet Movies
+https://jiocdn.fun/my/hitz.php?c=asianetmovies&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/00fNIYK/" group-title="INDIA",Asianet Plus
+https://jiocdn.fun/my/hitz.php?c=asianetplus&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/" group-title="INDIA",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
