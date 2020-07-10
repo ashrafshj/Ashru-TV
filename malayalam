@@ -139,8 +139,8 @@ http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="INDIA",7S Music 
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(2)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1HOUzgr.png" group-title="INDIA",Raj TV
-http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/qVv6zNW/" group-title="INDIA",Surya Comedy
+https://suntv.skandha.tv/SuryaComedy/SuryaComedy.isml/SuryaComedy-audio_1=64000-video=1499968.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="INDIA",Kalaignar TV
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(2)/index.m3u8
