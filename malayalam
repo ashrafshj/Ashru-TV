@@ -26,7 +26,7 @@ http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(2)/index.m3u8
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/stream(2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",Kairali 
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/stream(1)/index.m3u8
+http://inygoms.inygo.in/kairali.m3u8?bandwidth=956&e=1594530955&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=b759b47944dc7818b34bade140e25a99&user=13810
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="INDIA",Kairali We 
 http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
@@ -67,6 +67,9 @@ https://jiocdn.fun/my/hitz.php?c=asianetplus&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/" group-title="INDIA",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="INDIA",Mazhavil Manorama
+http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1594531049&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=8a16e6964ac38558eb83764c5b6be482&user=13810
+
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qGwmD6J/" group-title="INDIA",Kerala Vision
 http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
 
@@ -96,9 +99,6 @@ https://suntv.skandha.tv/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CrQtBry/" group-title="INDIA",Raj Music
 http://mhdworld.fun/delta/yupp.m3u8?id=911888626&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="INDIA",Mazhavil Manorama
-http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1594309228&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=3b4b5b6e18052c745770ca09606a4fe1&user=13810
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="INDIA",Surya Music
 https://suntv.skandha.tv/SuryaMusic/SuryaMusic.isml/SuryaMusic-audio_1=64000-video=1499968.m3u8
