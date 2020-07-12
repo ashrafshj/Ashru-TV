@@ -150,3 +150,6 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(2)/i
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png" group-title="INDIA",Kaumudy
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star1 Sports
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1340962868.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
