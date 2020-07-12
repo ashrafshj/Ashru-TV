@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="https://imgur.com/download/ohltKgh/" group-title="INDIA",Surya 
+#EXTINF:-1 tvg-logo="https://imgur.com/download/ohltKgh/" group-title="INDIA",Surya                                                                      Ashru TV
 https://suntv.skandha.tv/SuryaTV/SuryaTV.isml/SuryaTV-audio_1=64000-video=1499968.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="INDIA",Mazhavil Manorama HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="INDIA",Mazhavil Manorama HD                                                           Ashru TV
 http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Y2GcBQz/" group-title="INDIA",Asianet HD
@@ -115,7 +115,7 @@ https://suntv.skandha.tv/SuryaTVHD/SuryaTVHD.isml/SuryaTVHD-audio_1=64000-video=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rlLIanW/" group-title="INDIA",Sun Music
 https://suntv.skandha.tv/SunMusic/SunMusic.isml/SunMusic-audio_1=64000-video=699968.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w2oUBtd.png" group-title="INDIA",Kappa 
+#EXTINF:-1 tvg-logo="v" group-title="INDIA",Kappa 
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HJ2FppC.png" group-title="INDIA",Magna Vision 
@@ -154,7 +154,7 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(2)/i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png" group-title="INDIA",Kaumudy
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Sony Sports
+#EXTINF:-1 tvg-logo="https://imgur.com/download/ozTlRw5/" group-title="SPORTS",Sony Six
 https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/hdntl=exp=1594653248~acl=%2f*~data=hdntl~hmac=7d13e8aa954d87e2b984200df346712e9042938b5485bc2aed7b82215525da09/master_1428.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Sports
