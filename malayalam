@@ -100,6 +100,9 @@ https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master02.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/fBg2VN3/" group-title="INDIA",Kochu TV
 https://suntv.skandha.tv/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/download/GV2KDPY/" group-title="INDIA",Sony Pix
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1594653597~acl=%2f*~data=hdntl~hmac=66b743aeda1edcc26cd862fb50dbe0c90b4029a7af84cf94b197d9cf6fad7151/master_1300.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CrQtBry/" group-title="INDIA",Raj Music
 http://mhdworld.fun/delta/yupp.m3u8?id=911888626&e=.m3u8
 
@@ -151,8 +154,8 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(2)/i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png" group-title="INDIA",Kaumudy
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png" group-title="INDIA",Kaumudy
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1594653597~acl=%2f*~data=hdntl~hmac=66b743aeda1edcc26cd862fb50dbe0c90b4029a7af84cf94b197d9cf6fad7151/master_1300.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Sony Sports
+https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/hdntl=exp=1594653248~acl=%2f*~data=hdntl~hmac=7d13e8aa954d87e2b984200df346712e9042938b5485bc2aed7b82215525da09/master_1428.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star1 Sports
+#EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Sports
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1340962868.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
