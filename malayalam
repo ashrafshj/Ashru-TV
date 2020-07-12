@@ -23,7 +23,7 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 http://34.65.195.99:4747/south2019/MalaAmritaTV/chunks.m3u8?nimblesessionid=1283969&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDY6MTA6NDQgQU0maGFzaF92YWx1ZT1DckZib01oZ1JvYnozSlJTNDNhY0xBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png" group-title="INDIA",Flowers 
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/stream(2)/index.m3u8
+http://34.65.195.99:4747/south2019/FlowersTV/chunks.m3u8?nimblesessionid=1285258&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIwIDY6MTY6MDUgQU0maGFzaF92YWx1ZT1IZmdHd2UxcUJMb2p4VUd4OEFNZWpRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",Kairali 
 http://inygoms.inygo.in/kairali.m3u8?bandwidth=956&e=1594570565&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=21091ad6752cf0f871687edefb26fe4b&user=13810
