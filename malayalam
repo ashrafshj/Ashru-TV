@@ -29,7 +29,7 @@ http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/stream(2)/index.m3u
 http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1594735200&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=6617ed7197994cba4e58e15318ca32b6&user=13810
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",Kairali 
-http://inygoms.inygo.in/kairali.m3u8?bandwidth=956&e=1594658353&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=9df5e733b1bbc531f17fc110feb38bbe&user=13810
+http://inygoms.inygo.in/kairali.m3u8?bandwidth=956&e=1594744697&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=0c6d857a7632f6cf16ffba31addb4cb7&user=13810
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="INDIA",Kairali We 
 http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
@@ -102,9 +102,6 @@ https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master02.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4RLYmkk/" group-title="INDIA",Kochu TV
 https://suntv.skandha.tv/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/GV2KDPY/" group-title="INDIA",Sony Pix
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1594653597~acl=%2f*~data=hdntl~hmac=66b743aeda1edcc26cd862fb50dbe0c90b4029a7af84cf94b197d9cf6fad7151/master_1300.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/download/z0LHXYG/" group-title="INDIA",Manoranjan
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_144p/index.m3u8
 
@@ -155,9 +152,6 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(2)/i
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png" group-title="INDIA",Kaumudy
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/ozTlRw5/" group-title="SPORTS",Sony Six
-https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/hdntl=exp=1594653248~acl=%2f*~data=hdntl~hmac=7d13e8aa954d87e2b984200df346712e9042938b5485bc2aed7b82215525da09/master_1428.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
 https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/hdntl=exp=1594713723~acl=%2f*~data=hdntl~hmac=656bb1d85fd139c73737cb2d4f916ba47d6447cd054eca43a6c8b505c68ac25f/master_1428.m3u8
