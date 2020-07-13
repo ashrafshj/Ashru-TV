@@ -25,6 +25,9 @@ http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png" group-title="INDIA",Flowers 
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/stream(2)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="INDIA",Mazhavil Manorama
+http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1594735200&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=6617ed7197994cba4e58e15318ca32b6&user=13810
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",Kairali 
 http://inygoms.inygo.in/kairali.m3u8?bandwidth=956&e=1594658353&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=9df5e733b1bbc531f17fc110feb38bbe&user=13810
 
@@ -67,8 +70,7 @@ http://jiocdn.fun/mymhdtvworld/xxx1x.php?c=asianetplus&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/" group-title="INDIA",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="INDIA",Mazhavil Manorama
-http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1594570565&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=ee3729ebdbbe5cd565d1e0762ab8063a&user=13810
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qGwmD6J/" group-title="INDIA",Kerala Vision
 http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
