@@ -105,8 +105,8 @@ https://suntv.skandha.tv/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968
 #EXTINF:-1 tvg-logo="https://imgur.com/download/GV2KDPY/" group-title="INDIA",Sony Pix
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1594653597~acl=%2f*~data=hdntl~hmac=66b743aeda1edcc26cd862fb50dbe0c90b4029a7af84cf94b197d9cf6fad7151/master_1300.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/CrQtBry/" group-title="INDIA",Raj Music
-http://mhdworld.fun/delta/yupp.m3u8?id=911888626&e=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/z0LHXYG/" group-title="INDIA",Manoranjan
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_144p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="INDIA",Surya Music
 https://suntv.skandha.tv/SuryaMusic/SuryaMusic.isml/SuryaMusic-audio_1=64000-video=1499968.m3u8
