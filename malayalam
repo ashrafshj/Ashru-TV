@@ -157,7 +157,7 @@ https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
 https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/hdntl=exp=1594713723~acl=%2f*~data=hdntl~hmac=656bb1d85fd139c73737cb2d4f916ba47d6447cd054eca43a6c8b505c68ac25f/master_1428.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Six
+#EXTINF:-1 tvg-logo="https://imgur.com/download/Ye9kg2h/" group-title="SPORTS",Sony Six
 http://163.172.85.133:8080/TenS/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star 1 Sports
