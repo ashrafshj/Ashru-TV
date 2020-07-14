@@ -115,12 +115,6 @@ https://suntv.skandha.tv/SuryaTVHD/SuryaTVHD.isml/SuryaTVHD-audio_1=64000-video=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CdKbSyP/",Vasantham Tamil
 https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master02.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/4RLYmkk/" group-title="KIDS",Kochu TV
-https://suntv.skandha.tv/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/CoANZJx/" group-title="KIDS",TOM & Jerry
-http://tiny.cc/d0egsz
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HJ2FppC.png",Magna Vision 
 http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
 
@@ -159,6 +153,12 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(2)/i
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/4RLYmkk/" group-title="KIDS",Kochu TV
+https://suntv.skandha.tv/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/CoANZJx/" group-title="KIDS",TOM & Jerry
+http://tiny.cc/d0egsz
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
 https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/hdntl=exp=1594817250~acl=%2f*~data=hdntl~hmac=107fc57dd982f30a47dc1f416b5413c123a55a829bc3620888ee7089a5bb8b4e/master_1428.m3u8
