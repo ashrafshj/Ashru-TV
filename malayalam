@@ -130,14 +130,14 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png" group-title="INDIA",B4U Plus 
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png" group-title="INDIA",AXN
+#EXTINF:-1 tvg-logo="https://imgur.com/download/lCVssDB/" group-title="INDIA",AXN
 http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA",Akaram Mix
-http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F2NjQ17/" group-title="INDIA",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA",Akaram Mix
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QN0koGL.png" group-title="INDIA",Vanavil Plus
 http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
