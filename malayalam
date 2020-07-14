@@ -94,6 +94,9 @@ https://suntv.skandha.tv/SunTV/SunTV.isml/SunTV-audio_1=64000-video=1499968.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",K TV
 https://suntv.skandha.tv/KTV/KTV.isml/KTV-audio_1=64000-video=1499968.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya HD
+https://suntv.skandha.tv/SuryaTVHD/SuryaTVHD.isml/SuryaTVHD-audio_1=64000-video=5000000.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CdKbSyP/",Vasantham Tamil
 https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master02.m3u8
 
@@ -103,14 +106,8 @@ https://suntv.skandha.tv/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CoANZJx/" group-title="KIDS",TOM & Jerry
 http://tiny.cc/d0egsz
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/V5Itsri/",Mnoranjan Movies
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_144p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="MUSIC",Surya Music
 https://suntv.skandha.tv/SuryaMusic/SuryaMusic.isml/SuryaMusic-audio_1=64000-video=1499968.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya HD
-https://suntv.skandha.tv/SuryaTVHD/SuryaTVHD.isml/SuryaTVHD-audio_1=64000-video=5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music
 https://suntv.skandha.tv/SunMusic/SunMusic.isml/SunMusic-audio_1=64000-video=699968.m3u8
@@ -132,6 +129,9 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png",B4U Plus 
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/V5Itsri/",Mnoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_144p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1594817427~acl=%2f*~data=hdntl~hmac=4cf7842513fffa2cca5fbb530ee3ec0c9e4c9b8c2508a6b08f44b6206276ae5a/master_1300.m3u8
