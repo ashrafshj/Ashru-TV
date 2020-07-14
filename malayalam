@@ -26,7 +26,7 @@ http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(2)/index.m3u8
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/stream(2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="INDIA",Mazhavil Manorama
-http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1594735200&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=6617ed7197994cba4e58e15318ca32b6&user=13810
+http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1594823825&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=1d25c8443a374252701629afa561bffc&user=13810
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",Kairali TV
 http://inygoms.inygo.in/kairali.m3u8?bandwidth=956&e=1594744697&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=0c6d857a7632f6cf16ffba31addb4cb7&user=13810
