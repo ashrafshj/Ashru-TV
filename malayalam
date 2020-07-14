@@ -40,6 +40,24 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
+https://jiocdn.fun/my/hitz.php?c=asianetmovies&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/00fNIYK/",Asianet Plus
+http://jiocdn.fun/mymhdtvworld/xxx1x.php?c=asianetplus&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
+https://live.wmncdn.net/victers/live.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/qGwmD6J/" ,Kerala Vision
+http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/4hkY7vU/" ,Kerala Vision
+http://103.199.161.254:80/Content/keralvisionst/Live/Channel(KeralvisionST)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png" ,M4 Malayalam
+https://app.m4stream.live/mfourmalayalamhls/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
 
@@ -64,23 +82,6 @@ http://tiny.cc/jhnd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam News
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
-https://jiocdn.fun/my/hitz.php?c=asianetmovies&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/00fNIYK/",Asianet Plus
-http://jiocdn.fun/mymhdtvworld/xxx1x.php?c=asianetplus&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
-https://live.wmncdn.net/victers/live.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/qGwmD6J/" ,Kerala Vision
-http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/4hkY7vU/" ,Kerala Vision
-http://103.199.161.254:80/Content/keralvisionst/Live/Channel(KeralvisionST)/Stream(02)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png" ,M4 Malayalam
-https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/8UjKU8Z/" group-title="MUSIC",Sooriyan Tamil
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
