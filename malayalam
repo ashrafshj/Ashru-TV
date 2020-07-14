@@ -130,6 +130,9 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png" group-title="INDIA",B4U Plus 
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/" group-title="INDIA",Sony Pix
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1594817427~acl=%2f*~data=hdntl~hmac=4cf7842513fffa2cca5fbb530ee3ec0c9e4c9b8c2508a6b08f44b6206276ae5a/master_1300.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/download/lCVssDB/" group-title="INDIA",AXN
 http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
 
@@ -155,10 +158,10 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(2)/i
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
-https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/hdntl=exp=1594713723~acl=%2f*~data=hdntl~hmac=656bb1d85fd139c73737cb2d4f916ba47d6447cd054eca43a6c8b505c68ac25f/master_1428.m3u8
+https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/hdntl=exp=1594817250~acl=%2f*~data=hdntl~hmac=107fc57dd982f30a47dc1f416b5413c123a55a829bc3620888ee7089a5bb8b4e/master_1428.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Ye9kg2h/" group-title="SPORTS",Sony Six
-http://163.172.85.133:8080/TenS/1/index.m3u8
+https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/hdntl=exp=1594817743~acl=%2f*~data=hdntl~hmac=d2994d4c6973968bc12a0c92ccbc42b353f7f8cd1c51c0ced25a64e0353cdc35/master_696.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star 1 Sports
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1340962868.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
