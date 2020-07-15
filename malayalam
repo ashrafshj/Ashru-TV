@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="https://imgur.com/download/ohltKgh/",Surya TV                                                                    
+#EXTINF:-1 tvg-logo="https://imgur.com/download/ohltKgh/", Surya TV                                                                    
 https://suntv.skandha.tv/SuryaTV/SuryaTV.isml/SuryaTV-audio_1=64000-video=1499968.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD                                                           
+#EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/", Mazhavil Manorama HD                                                           
 http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Y2GcBQz/",Asianet HD
@@ -145,6 +145,9 @@ https://suntv.skandha.tv/SunMusic/SunMusic.isml/SunMusic-audio_1=64000-video=699
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C8ywBgI/" group-title="MUSIC",Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/download/LpRJF4U/" group-title="MUSIC",Metro TV
+https://j78dp37jyq5r-hls-live.5centscdn.com/metromalayalam/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/download/8UjKU8Z/" group-title="MUSIC",Sooriyan Tamil
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 
@@ -164,10 +167,13 @@ https://suntv.skandha.tv/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968
 http://tiny.cc/d0egsz
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
-https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/hdntl=exp=1594817250~acl=%2f*~data=hdntl~hmac=107fc57dd982f30a47dc1f416b5413c123a55a829bc3620888ee7089a5bb8b4e/master_1428.m3u8
+http://tiny.cc/sonyten
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/SI4cflZ/" group-title="SPORTS",Sony Ten 3
+http://163.172.85.133:8080/TenS/3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
-https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/hdntl=exp=1594817743~acl=%2f*~data=hdntl~hmac=d2994d4c6973968bc12a0c92ccbc42b353f7f8cd1c51c0ced25a64e0353cdc35/master_696.m3u8
+http://tiny.cc/sonysx
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star 1 Sports
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1340962868.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
