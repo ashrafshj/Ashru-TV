@@ -83,7 +83,7 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_144p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1594817427~acl=%2f*~data=hdntl~hmac=4cf7842513fffa2cca5fbb530ee3ec0c9e4c9b8c2508a6b08f44b6206276ae5a/master_1300.m3u8
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1594908513~acl=%2f*~data=hdntl~hmac=7639c2e2d6a2ec6ae686e26485464a2b052e807bac8ceb031744b3d8803a065a/master_3500.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/lCVssDB/",AXN
 http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
@@ -114,6 +114,9 @@ https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",Bharat Kerala
+https://etvbharatlive7.akamaized.net/hls/live/710673/kerala/index_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
 http://tiny.cc/mnrm
