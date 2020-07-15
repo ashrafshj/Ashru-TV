@@ -58,51 +58,6 @@ http://103.199.161.254:80/Content/keralvisionst/Live/Channel(KeralvisionST)/Stre
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png" ,M4 Malayalam
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="NEWS",Media One
-https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
-http://tiny.cc/mnrm
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="NEWS",News 18
-https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1593701904~acl=%2f*~data=hdntl~hmac=a87cab4fc8077bc631430077faa110d603ef9963bff6b7273651dd670474368f
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
-https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742227023001/profile_0/chunklist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="NEWS",Jaihind TV
-http://tiny.cc/jhnd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam News
-http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="MUSIC",Surya Music
-https://suntv.skandha.tv/SuryaMusic/SuryaMusic.isml/SuryaMusic-audio_1=64000-video=1499968.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music
-https://suntv.skandha.tv/SunMusic/SunMusic.isml/SunMusic-audio_1=64000-video=699968.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/C8ywBgI/" group-title="MUSIC",Kappa TV
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/8UjKU8Z/" group-title="MUSIC",Sooriyan Tamil
-http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MFFYFeG.png" group-title="MUSIC",Garshom News
-http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="MUSIC",7S Music 
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(2)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="MUSIC",B4U Music
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun TV
 https://suntv.skandha.tv/SunTV/SunTV.isml/SunTV-audio_1=64000-video=1499968.m3u8
 
@@ -114,9 +69,6 @@ https://suntv.skandha.tv/SuryaTVHD/SuryaTVHD.isml/SuryaTVHD-audio_1=64000-video=
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CdKbSyP/",Vasantham Tamil
 https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HJ2FppC.png",Magna Vision 
-http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zTBgiNx.png",TCV
 http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
@@ -153,6 +105,54 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(2)/i
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="NEWS",Media One
+https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
+http://tiny.cc/mnrm
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="NEWS",News 18
+https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1593701904~acl=%2f*~data=hdntl~hmac=a87cab4fc8077bc631430077faa110d603ef9963bff6b7273651dd670474368f
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
+https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742227023001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="NEWS",Jaihind TV
+http://tiny.cc/jhnd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam News
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJ2FppC.png" group-title="MUSIC",Magna Vision 
+http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="MUSIC",Surya Music
+https://suntv.skandha.tv/SuryaMusic/SuryaMusic.isml/SuryaMusic-audio_1=64000-video=1499968.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music
+https://suntv.skandha.tv/SunMusic/SunMusic.isml/SunMusic-audio_1=64000-video=699968.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/C8ywBgI/" group-title="MUSIC",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/8UjKU8Z/" group-title="MUSIC",Sooriyan Tamil
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFFYFeG.png" group-title="MUSIC",Garshom News
+http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="MUSIC",7S Music 
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(2)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="MUSIC",B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4RLYmkk/" group-title="KIDS",Kochu TV
 https://suntv.skandha.tv/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968.m3u8
