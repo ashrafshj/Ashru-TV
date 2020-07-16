@@ -172,8 +172,8 @@ http://tiny.cc/d0egsz
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
 http://tiny.cc/sonyten
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/SI4cflZ/" group-title="SPORTS",Sony Ten 3
-http://163.172.85.133:8080/TenS/3/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest/scale-to-width-down/340?cb=20190322143848" group-title="SPORTS",Sony Ten 2
+https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/hdntl=exp=1594971976~acl=%2f*~data=hdntl~hmac=cc63db6d08e25af74dcb5df00272fc6bd43af4486e114115f7627780dbcdf7e6/master_1428.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
 http://tiny.cc/sonysx
