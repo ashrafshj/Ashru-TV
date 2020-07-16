@@ -25,8 +25,8 @@ http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/stream(2)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png",Mazhavil Manorama
-http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1594908991&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=285fe0b85746398cfac798af53b8c793&user=13810
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png",Mazhavil Manoram
+http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1594995901&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=35dd8d8ae207a7f37da251e32d755f2d&user=13810
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/stream(2)/index.m3u8
@@ -89,7 +89,7 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_144p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1594908513~acl=%2f*~data=hdntl~hmac=7639c2e2d6a2ec6ae686e26485464a2b052e807bac8ceb031744b3d8803a065a/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1595003752~acl=%2f*~data=hdntl~hmac=2889cef2f685494f0a17e1e55ce433c0259cf952c07cb601e93f69fc574f1c1c/master_3500.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/lCVssDB/",AXN
 http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
