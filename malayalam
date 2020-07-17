@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="https://imgur.com/download/ohltKgh/", Surya TV                                                                    
+#EXTINF:-1 tvg-logo="https://imgur.com/download/ohltKgh/",Surya TV                                                                    
 https://suntv.skandha.tv/SuryaTV/SuryaTV.isml/SuryaTV-audio_1=64000-video=1499968.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/", Mazhavil Manorama HD                                                           
+#EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD                                                           
 http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Y2GcBQz/",Asianet HD
@@ -49,13 +49,13 @@ http://jiocdn.fun/mymhdtvworld/xxx1x.php?c=asianetplus&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/qGwmD6J/" ,Kerala Vision
+#EXTINF:-1 tvg-logo="https://imgur.com/download/qGwmD6J/",Kerala Vision
 http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/4hkY7vU/" ,Kerala Vision
+#EXTINF:-1 tvg-logo="https://imgur.com/download/4hkY7vU/",Kerala Vision
 http://103.199.161.254:80/Content/keralvisionst/Live/Channel(KeralvisionST)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png" ,M4 Malayalam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png",M4 Malayalam
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun TV
@@ -119,13 +119,13 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+https://youtu.be/zcrUCvBD16k
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/EXavUTu/" group-title="NEWS",Bharat Kerala
 https://etvbharatlive7.akamaized.net/hls/live/710673/kerala/index_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
-http://tiny.cc/mnrm
+https://youtu.be/jjH6v95z3Nw
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="NEWS",News 18
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1593701904~acl=%2f*~data=hdntl~hmac=a87cab4fc8077bc631430077faa110d603ef9963bff6b7273651dd670474368f
@@ -134,7 +134,7 @@ https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=1
 https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742227023001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="NEWS",Jaihind TV
-http://tiny.cc/jhnd
+https://youtu.be/Yn7K5ai0C30
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam News
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
@@ -170,7 +170,7 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 https://suntv.skandha.tv/KochuTV/KochuTV.isml/KochuTV-audio_1=64000-video=699968.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CoANZJx/" group-title="KIDS",TOM & Jerry
-http://tiny.cc/tomjery
+https://youtu.be/BRkQ-ZGiNbc
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
 http://tiny.cc/sonyten
