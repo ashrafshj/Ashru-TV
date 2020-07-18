@@ -91,8 +91,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png",Akaram Mix
 http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QN0koGL.png",Vanavil Plus
-http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/262-2628468_starvijay-vijay-tv-logo-png.png",Star Vijay
+http://jiocdn.fun/mymhdtvworld/xxx1x.php?c=starvijay&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qVv6zNW/",Surya Comedy
 https://suntv.skandha.tv/SuryaComedy/SuryaComedy.isml/SuryaComedy-audio_1=64000-video=1499968.m3u8
@@ -169,10 +169,13 @@ http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1340962868.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
 http://tiny.cc/sonyten
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest/scale-to-width-down/340?cb=20190322143848" group-title="SPORTS",Sony Ten 2
-https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/hdntl=exp=1594971976~acl=%2f*~data=hdntl~hmac=cc63db6d08e25af74dcb5df00272fc6bd43af4486e114115f7627780dbcdf7e6/master_1428.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/NPnWxMP/" group-title="SPORTS",Sony Ten 3
+http://163.172.85.133:8080/TenS/3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
-http://tiny.cc/sonysx
+http://163.172.85.133:8080/TenS/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZ7lXO7.png" group-title="INDIA",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 
 
