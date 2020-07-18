@@ -26,7 +26,7 @@ http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(1)/index.m3u8
 http://live.asianetmobiletvplus.com:80/channels/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_hls/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_profile1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png",Mazhavil Manoram
-http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1595081439&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=770d65a3c21bddad297580c2d5f2ba64&user=13810
+http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1595168690&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=9866ee96b811dee41f140de6268d71f7&user=13810
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/stream(2)/index.m3u8
