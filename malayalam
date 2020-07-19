@@ -56,8 +56,8 @@ https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun HD
 http://45.120.188.195:80/0.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",K TV
-https://suntv.skandha.tv/KTV/KTV.isml/KTV-audio_1=64000-video=1499968.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV HD
+http://45.120.188.198:80/0.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya HD
 http://mottatv.com/sunnxt/sun.php?id=26574&=.m3u8
