@@ -147,7 +147,7 @@ http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
 http://mottatv.com/sunnxt/sun.php?id=26575&=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music
-https://suntv.skandha.tv/SunMusic/SunMusic.isml/SunMusic-audio_1=64000-video=699968.m3u8
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/733
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C8ywBgI/" group-title="MUSIC",Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
