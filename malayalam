@@ -20,13 +20,13 @@ http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
-http://34.78.172.4:4747/south2019/MalaAmritaTV/chunks.m3u8?nimblesessionid=2266411&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDExOjQ5OjQ1IEFNJmhhc2hfdmFsdWU9OTU4TmhGWk02TSt2bTRhZkFMZmxwQT09JnZhbGlkbWludXRlcz0y
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
 http://live.asianetmobiletvplus.com:80/channels/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_hls/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_profile1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png",Mazhavil Manoram
-http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1595168690&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=9866ee96b811dee41f140de6268d71f7&user=13810
+http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1595255501&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=29c4bb797c87c25b1ee29b3191dec6eb&user=13810
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/stream(2)/index.m3u8
@@ -122,7 +122,7 @@ http://tiny.cc/24mlm
 https://youtu.be/jjH6v95z3Nw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="NEWS",Jaihind TV
-http://34.78.172.4:4747/south2019/JaihindTV/chunks.m3u8?nimblesessionid=2325212&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDEyOjQ0OjUwIFBNJmhhc2hfdmFsdWU9TmN6aEpzQTl6Q3hFQzNVRHg4cnNQdz09JnZhbGlkbWludXRlcz0y
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/stream(2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam News
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
