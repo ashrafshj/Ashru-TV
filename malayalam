@@ -68,7 +68,7 @@ https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/stream(2)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/TewMulx/",Zee
+#EXTINF:-1 tvg-logo="https://imgur.com/download/TewMulx/",Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/9NubtyY/",Zee Cinema
