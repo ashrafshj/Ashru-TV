@@ -1,7 +1,8 @@
-#EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/",Surya                                               
+#EXTINF:-1,ASHRU TV
+#EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/",Surya TV                                             
 http://mottatv.com/sunnxt/sun.php?id=9018&=.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD                                                     
+#EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD                                                    
 http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Y2GcBQz/",Asianet HD
