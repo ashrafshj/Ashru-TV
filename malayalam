@@ -1,5 +1,5 @@
 #EXTINF:-1,ASHRU TV
-#EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/",Surya TV                                             
+#EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/",Surya TV                                          
 http://mottatv.com/sunnxt/sun.php?id=9018&=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD                                                    
@@ -67,6 +67,12 @@ https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/stream(2)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/TewMulx/",Zee
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/9NubtyY/",Zee Cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP",Sony Max
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index.m3u8
@@ -168,7 +174,7 @@ http://tiny.cc/tomjery
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1340962868.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
-http://34.78.172.4:4747/sports2020/ten1hd/chunks.m3u8?nimblesessionid=2150785&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDk6MDE6NTcgQU0maGFzaF92YWx1ZT1JeUdIMjNSWDFJUkJUcGM1RnA5Q0F3PT0mdmFsaWRtaW51dGVzPTI=
+http://tiny.cc/sonyten
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/NPnWxMP/" group-title="SPORTS",Sony Ten 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
