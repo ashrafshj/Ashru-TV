@@ -20,7 +20,7 @@ http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
-http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(1)/index.m3u8
+http://34.78.172.4:4747/south2019/MalaAmritaTV/chunks.m3u8?nimblesessionid=2266411&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDExOjQ5OjQ1IEFNJmhhc2hfdmFsdWU9OTU4TmhGWk02TSt2bTRhZkFMZmxwQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
 http://live.asianetmobiletvplus.com:80/channels/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_hls/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_profile1.m3u8
@@ -41,7 +41,7 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
-https://jiocdn.fun/my/hitz.php?c=asianetmovies&e=.m3u8
+http://34.78.172.4:4747/south2019/MalaAsianetMovies/chunks.m3u8?nimblesessionid=2268948&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDExOjUyOjM4IEFNJmhhc2hfdmFsdWU9bmhVZUZrcklDR2xWWExSdmhpZ1NMdz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/00fNIYK/",Asianet Plus
 http://jiocdn.fun/mymhdtvworld/xxx1x.php?c=asianetplus&e=.m3u8
