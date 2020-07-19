@@ -21,16 +21,16 @@ http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
-http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(2)/index.m3u8
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1014
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
-http://live.asianetmobiletvplus.com:80/channels/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_hls/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_profile1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers HD
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1012
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png",Mazhavil Manoram
 http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1595255501&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=29c4bb797c87c25b1ee29b3191dec6eb&user=13810
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/stream(2)/index.m3u8
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/995
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We 
 http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
@@ -42,10 +42,10 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
-http://34.78.172.4:4747/south2019/MalaAsianetMovies/chunks.m3u8?nimblesessionid=2268948&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDExOjUyOjM4IEFNJmhhc2hfdmFsdWU9bmhVZUZrcklDR2xWWExSdmhpZ1NMdz09JnZhbGlkbWludXRlcz0y
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/992
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/00fNIYK/",Asianet Plus
-http://jiocdn.fun/mymhdtvworld/xxx1x.php?c=asianetplus&e=.m3u8
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/991
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
@@ -111,7 +111,7 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(2)/i
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/993
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="NEWS",Media One
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
@@ -129,10 +129,10 @@ https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742
 http://tiny.cc/24mlm
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
-https://youtu.be/jjH6v95z3Nw
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1006
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="NEWS",Jaihind TV
-http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/stream(2)/index.m3u8
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1011
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam News
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
@@ -141,7 +141,7 @@ http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 http://itpolly.iptv.digijadoo.net/live/zoom/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HJ2FppC.png" group-title="MUSIC",Magna Vision 
-http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1015
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="MUSIC",Surya Music
 http://mottatv.com/sunnxt/sun.php?id=26575&=.m3u8
