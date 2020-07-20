@@ -1,5 +1,5 @@
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/",Surya TV                                          
+#EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/",Surya TV                                        
 http://mottatv.com/sunnxt/sun.php?id=9018&=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD                                                    
@@ -139,6 +139,9 @@ http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4NKKzKM/" group-title="MUSIC",ZoOm
 http://itpolly.iptv.digijadoo.net/live/zoom/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/gTcwjmY/" group-title="MUSIC",Music India
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/920
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HJ2FppC.png" group-title="MUSIC",Magna Vision 
 http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
