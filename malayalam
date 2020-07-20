@@ -83,8 +83,8 @@ https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/hdntl=exp=1595268
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png",B4U Plus 
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/V5Itsri/",Mnoranjan Movies
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_144p/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/nOf7AJD/",BBO
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/908
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1595339060~acl=%2f*~data=hdntl~hmac=54042fff75590e1a13d0f23da9124d6d412a634aa8b3c1b0f285e70b90b323e8/master_3500.m3u8
