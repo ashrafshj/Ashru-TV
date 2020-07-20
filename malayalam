@@ -1,4 +1,4 @@
-#EXTINF:-1,ASHRU TV
+
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/",Surya TV                                          
 http://mottatv.com/sunnxt/sun.php?id=9018&=.m3u8
 
@@ -53,11 +53,11 @@ https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png",M4 Malayalam
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun HD
-http://45.120.188.195:80/0.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun TV
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/731
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV HD
-http://45.120.188.198:80/0.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/742
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya HD
 http://mottatv.com/sunnxt/sun.php?id=26574&=.m3u8
@@ -105,7 +105,7 @@ http://jiocdn.fun/mymhdtvworld/xxx1x.php?c=starvijay&e=.m3u8
 http://mottatv.com/sunnxt/sun.php?id=30835&=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png",Kalaignar TV
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(2)/index.m3u8
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/773
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
@@ -149,6 +149,9 @@ http://mottatv.com/sunnxt/sun.php?id=26575&=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/733
 
+#EXTINF:-1 tvg-logo="https://imgur.com/download/cPWnCVi/" group-title="MUSIC",Isai Aruvi
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/746
+
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C8ywBgI/" group-title="MUSIC",Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 
@@ -171,7 +174,10 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 http://mottatv.com/sunnxt/sun.php?id=26573&=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CoANZJx/" group-title="KIDS",TOM & Jerry
-http://tiny.cc/tomjery 
+http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",STAR SPORTS 1
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/894
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star 1 Sports
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1340962868.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
