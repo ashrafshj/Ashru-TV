@@ -23,11 +23,11 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://watchindia.net:8443/live/88237/30994/284.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
 https://watchindia.net:8443/live/88237/30994/2.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png",Mazhavil Manoram
-http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1595341614&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=a1770bce9d3b1bdc67730d0217e9e51e&user=13810
+http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1595429093&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=5af2500a789e42bfca8ab9be863c0c4b&user=13810
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
 https://watchindia.net:8443/live/88237/30994/307.ts
@@ -90,7 +90,7 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/908
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1595339060~acl=%2f*~data=hdntl~hmac=54042fff75590e1a13d0f23da9124d6d412a634aa8b3c1b0f285e70b90b323e8/master_3500.m3u8
+http://tiny.cc/sonypix
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/lCVssDB/",AXN
 http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
