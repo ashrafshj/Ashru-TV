@@ -1,24 +1,14 @@
+#EXTINF:0 tvg-id="https://imgur.com/download/xl5ICfJ/" group-title="Channels",Surya TV HD          
+https://watchindia.net:8443/live/88237/30994/279.ts
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/",Surya TV                                        
-http://mottatv.com/sunnxt/sun.php?id=9018&=.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD                                                    
-http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
+#EXTINF:0 tvg-id="MazhavilManorama.in" group-title="Channels",Mazhavil Manorama HD
+https://watchindia.net:8443/live/88237/30994/280.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Y2GcBQz/",Asianet HD
 https://watchindia.net:8443/live/88237/30994/276.ts
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/",Zee Keralam
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
-https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
-http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/ILVKTeI/",KCL TV
-https://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF:0 tvg-id="https://imgur.com/download/4wzBsxx/" group-title="Channels",Zee Keralam
+https://watchindia.net:8443/live/88237/30994/287.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://watchindia.net:8443/live/88237/30994/284.ts
@@ -26,11 +16,20 @@ https://watchindia.net:8443/live/88237/30994/284.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
 https://watchindia.net:8443/live/88237/30994/2.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png",Mazhavil Manoram
-http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1595429093&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=5af2500a789e42bfca8ab9be863c0c4b&user=13810
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
 https://watchindia.net:8443/live/88237/30994/307.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
+https://watchindia.net:8443/live/88237/30994/298.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
+https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/ILVKTeI/",KCL TV
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png",Mazhavil Manoram
+http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1595429093&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=5af2500a789e42bfca8ab9be863c0c4b&user=13810
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We 
 http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
