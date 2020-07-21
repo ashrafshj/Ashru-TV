@@ -21,7 +21,7 @@ http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1014
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers HD
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1012
@@ -74,11 +74,14 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/9NubtyY/",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/download/F8poNA2/",Sony TV
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18176
+
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP",Sony Max
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2016/06/SONY-WAH-LOGO.jpg",Sony Wah
-https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/hdntl=exp=1595268379~acl=%2f*~data=hdntl~hmac=29733118923ff9f403891b4e15c70016dd54f08e9fb7db1f3bd6abdccae49a80/master_3500.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png",B4U Plus 
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
@@ -132,7 +135,7 @@ https://www.youtube.com/watch?v=zcrUCvBD16k
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="NEWS",Jaihind TV
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1011
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/stream(2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam News
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
@@ -178,6 +181,9 @@ http://mottatv.com/sunnxt/sun.php?id=26573&=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CoANZJx/" group-title="KIDS",TOM & Jerry
 http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Disney_XD.png?raw=true" group-title="KIDS",Mr Bean
+http://ws.flv.nimo.tv/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",STAR SPORTS 1
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/894
