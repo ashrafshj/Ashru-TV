@@ -2,7 +2,7 @@
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/986
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1006
+http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Y2GcBQz/",Asianet HD
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/988
@@ -14,10 +14,10 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingf
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1014
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
-https://watchindia.net:8443/live/88237/30994/2.ts
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1012
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
-https://watchindia.net:8443/live/88237/30994/307.ts
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/995
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
 http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8
@@ -113,7 +113,7 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/773
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
-https://watchindia.net:8443/live/88237/30994/268.ts
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="NEWS",Media One
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
@@ -122,7 +122,8 @@ https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.
 https://watchindia.net:8443/live/88237/30994/1064.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
-https://watchindia.net:8443/live/88237/30994/281.ts
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/EXavUTu/" group-title="NEWS",Bharat Kerala
 https://etvbharatlive7.akamaized.net/hls/live/710673/kerala/index_540p.m3u8
