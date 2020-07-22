@@ -202,4 +202,5 @@ http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZ7lXO7.png" group-title="INDIA",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 
-
+#EXTINF:0 tvg-logo="https://imgur.com/download/27KiaZU/" group-title="Videos",Anjaam Pathiraa (2020)
+https://watchindia.net:8443/movie/88237/30994/1076.mkv
