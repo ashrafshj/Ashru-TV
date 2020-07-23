@@ -85,8 +85,8 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/nOf7AJD/",BBO
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/908
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix
-http://tiny.cc/sonypix
+#EXTINF:-1 tvg-logo="https://imgur.com/download/V1uISw6/",HBO HD
+https://watchindia.net:8443/live/79204/63480/2081.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/lCVssDB/",AXN
 http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
@@ -159,9 +159,6 @@ http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LpRJF4U/" group-title="MUSIC",Metro TV
 https://j78dp37jyq5r-hls-live.5centscdn.com/metromalayalam/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/8UjKU8Z/" group-title="MUSIC",Sooriyan Tamil
-http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MFFYFeG.png" group-title="MUSIC",Garshom News
 http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
