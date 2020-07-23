@@ -5,19 +5,19 @@ http://45.120.188.200:80/0.ts
 http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Y2GcBQz/",Asianet HD
-https://jiocdn.fun/my/hitz.php?c=asianethd&e=.m3u8
+https://watchindia.net:8443/live/79204/63480/276.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/",Zee Keralam
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
-http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(1)/index.m3u8
+https://watchindia.net:8443/live/79204/63480/284.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1012
+https://watchindia.net:8443/live/79204/63480/2.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/995
+https://watchindia.net:8443/live/79204/63480/307.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
 http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8
@@ -41,7 +41,7 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/992
+https://watchindia.net:8443/live/79204/63480/278.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
@@ -55,14 +55,14 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/731
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV HD
 http://45.120.188.198:80/0.ts
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV
-http://mottatv.com/sunnxt/sun.php?id=9018&=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV US
+https://watchindia.net:8443/live/79204/63480/1938.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CdKbSyP/",Vasantham Tamil
 https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",DD Malayalam
-http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+https://watchindia.net:8443/live/79204/63480/303.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/TewMulx/",Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
@@ -116,11 +116,10 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+https://watchindia.net:8443/live/79204/63480/1064.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-
+https://watchindia.net:8443/live/79204/63480/281.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/EXavUTu/" group-title="NEWS",Bharat Kerala
 https://etvbharatlive7.akamaized.net/hls/live/710673/kerala/index_540p.m3u8
@@ -132,7 +131,7 @@ https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=1
 https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742227023001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="NEWS",Jaihind TV
-http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/stream(2)/index.m3u8
+https://watchindia.net:8443/live/79204/63480/293.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam News
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
@@ -195,10 +194,9 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18192
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18196
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
-http://163.172.85.133:8080/TenS/1/index.m3u8
+https://watchindia.net:8443/live/79204/63480/1763.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZ7lXO7.png" group-title="SPORTS",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/download/27KiaZU/" group-title="Videos",Anjaam Pathiraa (2020)
-https://watchindia.net:8443/movie/88237/30994/1076.mkv
+
