@@ -2,8 +2,8 @@
 http://45.120.188.200:80/0.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/Y2GcBQz/",Asianet HD
-https://watchindia.net:8443/live/79204/63480/276.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet 
+http://mhdworld.fun/delta/yuppp.m3u8?id=6666&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/",Zee Keralam
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -19,7 +19,7 @@ https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ILVKTeI/",KCL TV
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png",Mazhavil Manorama
-http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1595514838&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=77f44c70ec358414029e4ac2edbd298a&user=13810
+http://mhdworld.fun/delta/yuppp.m3u8?id=257965&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We 
 http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
@@ -27,7 +27,9 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
-https://watchindia.net:8443/live/79204/63480/278.ts
+http://mhdworld.fun/delta/yuppp.m3u8?id=6667&e=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
+http://mhdworld.fun/delta/yuppp.m3u8?id=6668&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png",M4 Malayalam
