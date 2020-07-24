@@ -2,8 +2,8 @@
 http://45.120.188.200:80/0.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet 
-http://mhdworld.fun/delta/yuppp.m3u8?id=6666&e=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD
+https://watchindia.net:8443/live/79204/63480/276.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/",Zee Keralam
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -21,13 +21,13 @@ http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ILVKTeI/",KCL TV
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png",Mazhavil Manorama
-http://mhdworld.fun/delta/yuppp.m3u8?id=257965&e=.m3u8
+http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1595643776&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=e6bae0efacc7eb556ad988f370271db3&user=13810
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
 https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
-http://mhdworld.fun/delta/yuppp.m3u8?id=6667&e=.m3u8
+https://watchindia.net:8443/live/79204/63480/278.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
 http://mhdworld.fun/delta/yuppp.m3u8?id=6668&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
@@ -60,7 +60,7 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/908
 #EXTINF:-1 tvg-logo="https://imgur.com/download/V1uISw6/",HBO HD
 https://watchindia.net:8443/live/79204/63480/2081.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/download/lCVssDB/",AXN
+#EXTINF:-1 tvg-logo="https://imgur.com/download/22lPuK7/",AXN
 http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F2NjQ17/",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
