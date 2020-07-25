@@ -2,8 +2,8 @@
 http://45.120.188.200:80/0.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/988
+#EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet 
+http://mhdworld.fun/delta/yuppp.m3u8?id=666655&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/",Zee Keralam
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -11,7 +11,7 @@ http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
 http://live.asianetmobiletvplus.com:80/channels/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_hls/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_profile1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/995
+http://inygoms.inygo.in/kairali.m3u8?bandwidth=956&e=1595697134&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=d39c6f0961c3e65571ad2fb6febcee52&user=13810
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
 http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
@@ -21,7 +21,7 @@ http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ILVKTeI/",KCL TV
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png",Mazhavil Manorama
-http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1595643776&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=e6bae0efacc7eb556ad988f370271db3&user=13810
+http://inygoms.inygo.in/mazhavilmanorama.m3u8?bandwidth=956&e=1595688665&playlistlength=5&shift=662&sid=Inygo_Ernakulam&token=33b13848f2b443b25221ce1867ec0556&user=13810
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
 https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
