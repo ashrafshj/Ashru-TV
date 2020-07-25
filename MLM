@@ -58,6 +58,8 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_dvr.m3u8
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/nOf7AJD/",BBO
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/908
+#EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix 
+http://indtv.online/Sony_Pix_HD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/V1uISw6/",HBO HD
 https://watchindia.net:8443/live/79204/63480/2081.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/22lPuK7/",AXN
@@ -76,7 +78,7 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/773
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
+http://indtv.online/0-9-200.m3u8 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="NEWS",Media One
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
