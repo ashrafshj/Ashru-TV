@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD          
-http://45.120.188.200:80/0.ts
+http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80336
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet 
@@ -7,13 +7,13 @@ http://mhdworld.fun/delta/yuppp.m3u8?id=666655&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/",Zee Keralam
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
-http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(1)/index.m3u8
+http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80322
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
-http://live.asianetmobiletvplus.com:80/channels/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_hls/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_profile1.m3u8
+http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80326
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
-http://inygoms.inygo.in/kairali.m3u8?bandwidth=956&e=1595697134&playlistlength=5&shift=0&sid=Inygo_Ernakulam&token=d39c6f0961c3e65571ad2fb6febcee52&user=13810
+http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80327
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
-http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8 
+http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80335
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We 
@@ -27,15 +27,15 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/992
+http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80324
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
-http://mhdworld.fun/delta/yuppp.m3u8?id=6668&e=.m3u8
+http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80325
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png",M4 Malayalam
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun TV HD
-http://45.120.188.195:80/0.ts
+http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/77774
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV HD
 http://45.120.188.198:80/0.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV US
@@ -43,7 +43,7 @@ https://watchindia.net:8443/live/79204/63480/1938.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CdKbSyP/",Vasantham Tamil
 https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",DD Malayalam
-https://watchindia.net:8443/live/79204/63480/303.ts
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/stream(2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/TewMulx/",Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/9NubtyY/",Zee Cinema
@@ -67,7 +67,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png",Akaram Mix
 http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/",Star Vijay
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/730
+http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/77769
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qVv6zNW/",Surya Comedy
 https://watchindia.net:8443/live/79204/63480/299.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png",Kalaignar TV
@@ -82,7 +82,7 @@ https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80340
 #EXTINF:-1 tvg-logo="https://imgur.com/download/EXavUTu/" group-title="NEWS",Bharat Kerala
 https://etvbharatlive7.akamaized.net/hls/live/710673/kerala/index_540p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="NEWS",News 18
@@ -101,16 +101,16 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/920
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HJ2FppC.png" group-title="MUSIC",Magna Vision 
 http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="MUSIC",Surya Music
-https://watchindia.net:8443/live/79204/63480/285.ts
+http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80339
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/733
+http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/77772
 #EXTINF:-1 tvg-logo="https://imgur.com/download/cPWnCVi/" group-title="MUSIC",Isai Aruvi
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/746
+http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/77758
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C8ywBgI/" group-title="MUSIC",Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LpRJF4U/" group-title="MUSIC",Metro TV
 https://j78dp37jyq5r-hls-live.5centscdn.com/metromalayalam/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MFFYFeG.png" group-title="MUSIC",Garshom News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFFYFeG.png" group-title="MUSIC",Garshom TV
 http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="MUSIC",7S Music 
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(2)/index.m3u8
