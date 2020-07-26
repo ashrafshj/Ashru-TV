@@ -2,16 +2,16 @@
 http://mottatv.com/sunnxt/sun.php?id=9018&=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD
-http://45.120.188.194:80/0.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet 
+http://mhdworld.fun/delta/yuppp.m3u8?id=666655&e=.m3u8 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/",Zee Keralam
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1014
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1012
+http://live.asianetmobiletvplus.com:80/channels/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_hls/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_profile1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/995
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/stream(2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
 http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
@@ -131,7 +131,7 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/894
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1340962868.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18192
+http://103.205.133.19/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/NPnWxMP/" group-title="SPORTS",Sony Ten 3
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18196
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
