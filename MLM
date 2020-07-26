@@ -7,11 +7,11 @@ http://mhdworld.fun/delta/yuppp.m3u8?id=666655&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/",Zee Keralam
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
-http://indtv.online/Amrita_TV.m3u8
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
 http://indtv.online/Flower_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
-http://indtv.online/Kairali_TV.m3u8
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/stream(2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
 http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
@@ -38,8 +38,8 @@ https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 http://sun.indtv.online/SunNXT/SunTVHD/SunTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV HD
 http://sun.indtv.online/SunNXT/KTVHD/KTVHD.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV US
-https://watchindia.net:8443/live/79204/63480/1938.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
+http://mottatv.com/sunnxt/sun.php?id=26574&=.m3u8 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CdKbSyP/",Vasantham Tamil
 https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",DD Malayalam
@@ -71,7 +71,7 @@ http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/",Star Vijay
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/730
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qVv6zNW/",Surya Comedy
-https://watchindia.net:8443/live/79204/63480/299.ts
+http://mottatv.com/sunnxt/sun.php?id=30835&=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png",Kalaignar TV
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/773
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
@@ -84,7 +84,7 @@ https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
-http://indtv.online/Manorama_News.m3u8
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/EXavUTu/" group-title="NEWS",Bharat Kerala
 https://etvbharatlive7.akamaized.net/hls/live/710673/kerala/index_540p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="NEWS",News 18
@@ -92,7 +92,7 @@ https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
 https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742227023001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="NEWS",Jaihind TV
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1011
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/stream(2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam News
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 
@@ -103,7 +103,7 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/920
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HJ2FppC.png" group-title="MUSIC",Magna Vision 
 http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="MUSIC",Surya Music
-http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80339
+http://mottatv.com/sunnxt/sun.php?id=26575&=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music
 http://sun.indtv.online/SunNXT/SunMusicHD/SunMusicHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/cPWnCVi/" group-title="MUSIC",Isai Aruvi
