@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD          
-http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80336
+#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV          
+http://mottatv.com/sunnxt/sun.php?id=9018&=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet 
@@ -7,13 +7,13 @@ http://mhdworld.fun/delta/yuppp.m3u8?id=666655&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/",Zee Keralam
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
-http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80322
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1014
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
-http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80326
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
-http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80327
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/995
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
-http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80335
+http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We 
@@ -27,15 +27,15 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
-http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80324
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/992
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
-http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/80325
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/991
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png",M4 Malayalam
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun TV HD
-http://sansatplus.net:25461/MAG9245343766/9XFBNNYEOk/77774
+http://45.120.188.195:80/0.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV HD
 http://45.120.188.198:80/0.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV US
