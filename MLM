@@ -9,7 +9,7 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
-http://live.asianetmobiletvplus.com:80/channels/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_hls/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_profile1.m3u8
+http://run.iptv.cab:80/live/demehok711/demehok711/23956.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/stream(2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
@@ -20,16 +20,16 @@ https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ILVKTeI/",KCL TV
 https://kcltv.livebox.co.in/kclhls/live.m3u8
-#EXTINF:-1 tvg-id="648" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="Malayalam",Mazhavil Manorama
+#EXTINF:-1 tvg-id="648" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama
 http://indtv.online/Mazhavil_Manorama.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
 https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/992
+http://run.iptv.cab:80/live/demehok711/demehok711/23953.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/991
+http://run.iptv.cab:80/live/demehok711/demehok711/23954.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png",M4 Malayalam
@@ -59,7 +59,7 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/nOf7AJD/",BBO
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/908
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix 
-http://indtv.online/Sony_Pix_HD.m3u8
+http://run.iptv.cab:80/live/demehok711/demehok711/23981.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/V1uISw6/",HBO HD
 http://indtv.online/HBO_HD.m3u8 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/22lPuK7/",AXN
@@ -69,7 +69,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png",Akaram Mix
 http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/",Star Vijay
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/730
+http://run.iptv.cab:80/live/demehok711/demehok711/23884.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qVv6zNW/",Surya Comedy
 http://mottatv.com/sunnxt/sun.php?id=30835&=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png",Kalaignar TV
