@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV          
-http://mottatv.com/sunnxt/sun.php?id=9018&=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV
+http://run.iptv.cab:80/live/demehok711/demehok711/23957.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 http://mhdworld.fun/delta/yuppp.m3u8?id=2462&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet 
@@ -13,7 +13,7 @@ http://run.iptv.cab:80/live/demehok711/demehok711/23956.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/stream(2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
-http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8 
+http://run.iptv.cab:80/live/demehok711/demehok711/23959.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We 
@@ -103,7 +103,7 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/920
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HJ2FppC.png" group-title="MUSIC",Magna Vision 
 http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="MUSIC",Surya Music
-http://mottatv.com/sunnxt/sun.php?id=26575&=.m3u8
+http://run.iptv.cab:80/live/demehok711/demehok711/23958.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music
 http://sun.indtv.online/SunNXT/SunMusicHD/SunMusicHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/cPWnCVi/" group-title="MUSIC",Isai Aruvi
