@@ -1,5 +1,3 @@
-#EXTINF:-1 tvg-logo="https://imgur.com/download/aYaQ9jg/",മഹ്ളറതുൽ ബദ്‌രിയ്യ ആത്മീയ സദസ്സ്
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1596060200/ei/yJ0hX4qZCZj6WZ3TgOAF/ip/217.165.144.44/id/Vkc56Xz1qRE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883098/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJPbqYLmuhH2wQN8l7W5vaP2BwdLmOzPE8LDWFKU_iwEAiAF1VbO-Moh9czgSmRpc-ui39SnvbIT1Pwxng5nVGC4lA%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
 https://watchindia.net:8443/live/43935/53512/279.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
@@ -7,11 +5,11 @@ http://mhdworld.fun/delta/yuppp.m3u8?id=24625&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD
 https://watchindia.net:8443/live/43935/53512/276.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
-https://watchindia.net:8443/live/43935/53512/287.ts
+http://run.iptv.cab:80/live/demehok711/demehok711/23951.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://watchindia.net:8443/live/43935/53512/284.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
-https://watchindia.net:8443/live/43935/53512/2.ts
+http://run.iptv.cab:80/live/demehok711/demehok711/23956.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
 https://watchindia.net:8443/live/43935/53512/307.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
@@ -84,7 +82,7 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/773
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
-https://watchindia.net:8443/live/43935/53512/2035.ts
+http://run.iptv.cab:80/live/demehok711/demehok711/23955.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="NEWS",Media One
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
