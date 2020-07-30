@@ -3,9 +3,9 @@ https://watchindia.net:8443/live/47422/70175/279.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 https://watchindia.net:8443/live/47422/70175/280.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD
-https://watchindia.net:8443/live/47422/70175/276.ts
+http://run.iptv.cab:80/live/demehok711/demehok711/23952.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
-http://run.iptv.cab:80/live/demehok711/demehok711/23951.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://watchindia.net:8443/live/47422/70175/284.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
@@ -25,7 +25,7 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
-https://watchindia.net:8443/live/47422/70175/278.ts
+http://mhdworld.fun/delta/yuppp.m3u8?id=66679018&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
 https://watchindia.net:8443/live/47422/70175/277.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
@@ -43,13 +43,11 @@ http://run.iptv.cab:80/live/demehok711/demehok711/23875.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CdKbSyP/",Vasantham Tamil
 https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master02.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet
-https://watchindia.net:8443/live/47422/70175/1300.ts
+http://mhdworld.fun/delta/yuppp.m3u8?id=6666551&e=.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama
 http://mhdworld.fun/delta/yuppp.m3u8?id=25796565&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/",Surya TV
 http://run.iptv.cab:80/live/demehok711/demehok711/23957.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/4wzBsxx/",Zee Keralam
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/TewMulx/",Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/9NubtyY/",Zee Cinema
@@ -139,7 +137,7 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18196
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18197
 #EXTINF:0 tvg-logo="https://imgur.com/download/YEmTRlV/" group-title="Movie",Android Kunjappan Version 5.25 (2019)
-https://watchindia.net:8443/movie/43935/47422/70175/1223.mkv
+https://watchindia.net:8443/movie/47422/70175/1223.mkv
 
 
 
