@@ -21,11 +21,11 @@ http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ILVKTeI/",KCL TV
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
-https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
+https://watchindia.net:8443/live/47422/70175/300.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
-http://mhdworld.fun/delta/yuppp.m3u8?id=66679018&e=.m3u8
+https://watchindia.net:8443/live/47422/70175/278.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
 https://watchindia.net:8443/live/47422/70175/277.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
@@ -34,12 +34,12 @@ https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",DD Malayalam
 https://watchindia.net:8443/live/47422/70175/303.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun TV HD
-http://run.iptv.cab:80/live/demehok711/demehok711/23880.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun TV 
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/731
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/",Star Vijay
 http://run.iptv.cab:80/live/demehok711/demehok711/23884.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV HD
-http://run.iptv.cab:80/live/demehok711/demehok711/23875.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV 
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/742
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CdKbSyP/",Vasantham Tamil
 https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master02.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet
@@ -80,7 +80,7 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/773
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
-http://run.iptv.cab:80/live/demehok711/demehok711/23955.m3u8
+https://watchindia.net:8443/live/47422/70175/268.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="NEWS",Media One
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
