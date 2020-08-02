@@ -3,11 +3,11 @@ http://mottatv.com/sunnxt/sun.php?id=26574&=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 http://webo.asia:80/+923008565775/+923458565775/20772
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD
-http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23952.m3u8
+https://watchindia.net:8443/live/77569/29061/276.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
-https://watchindia.net:8443/live/15761/90585/284.ts
+https://watchindia.net:8443/live/77569/29061/284.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
 http://run.iptv.cab:80/live/nbknripni/106646nbk/23956.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
@@ -82,7 +82,7 @@ https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+https://watchindia.net:8443/live/77569/29061/281.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/EXavUTu/" group-title="NEWS",Bharat Kerala
 https://etvbharatlive7.akamaized.net/hls/live/710673/kerala/index_540p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="NEWS",News 18
@@ -90,7 +90,7 @@ https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
 https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742227023001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="NEWS",Jaihind TV
-https://watchindia.net:8443/live/15761/90585/293.ts
+https://watchindia.net:8443/live/77569/29061/293.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam News
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 
