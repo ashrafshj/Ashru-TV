@@ -126,12 +126,18 @@ https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/download/a0QnsZ9/" group-title="KIDS",Mr Bean
 http://ws.flv.nimo.tv/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
 
-#EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",STAR SPORTS 1
+#EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/894
+#EXTINF:-1 tvg-logo="https://img.favpng.com/10/17/10/star-sports-star-india-television-channel-sony-ten-2-png-favpng-uuyETKtmMTCbpZD1eCcrqWShh.jpg" group-title="SPORTS",Star Sports 2
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/200
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1340962868.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+#EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/198
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
 http://103.205.133.19/hls/ten1.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/196
 #EXTINF:-1 tvg-logo="https://imgur.com/download/NPnWxMP/" group-title="SPORTS",Sony Ten 3
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18196
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
