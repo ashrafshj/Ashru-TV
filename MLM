@@ -99,9 +99,11 @@ https://watchindia.net:8443/live/39429/01219/293.ts
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4NKKzKM/" group-title="MUSIC",ZoOm
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/926
+http://itpolly.iptv.digijadoo.net/live/zoom/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/gTcwjmY/" group-title="MUSIC",Music India
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/920
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="MUSIC",B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="MUSIC",Surya Music
 http://mottatv.com/sunnxt/sun.php?id=26575&=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music
@@ -116,8 +118,7 @@ https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="MUSIC",7S Music 
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(2)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="MUSIC",B4U Music
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4RLYmkk/" group-title="KIDS",Kochu TV
 http://mottatv.com/sunnxt/sun.php?id=26573&=.m3u8
@@ -131,22 +132,22 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/901
 http://ws.flv.nimo.tv/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18182
+http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/17/10/star-sports-star-india-television-channel-sony-ten-2-png-favpng-uuyETKtmMTCbpZD1eCcrqWShh.jpg" group-title="SPORTS",Star Sports 2
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18183
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18195
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/NPnWxMP/" group-title="SPORTS",Sony Ten 3
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18196
+http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/download/aeEWpon/" group-title="RELIGION",Makka TV
+http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/aeEWpon/" group-title="RELIGION",Makkah TV
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/download/YEmTRlV/" group-title="Movie",Varane Avashyamund (2020)
 https://watchindia.net:8443/movie/39429/01219/1078.mkv
