@@ -39,7 +39,7 @@ https://watchindia.net:8443/live/62672/29937/843.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/",Star Vijay 
 http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV HD 
-http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23875.m3u8
+https://watchindia.net:8443/live/62672/29937/845.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CdKbSyP/",Vasantham 
 https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master02.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD Tamil 
@@ -121,7 +121,7 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(2)/index.m3u
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4RLYmkk/" group-title="KIDS",Kochu TV
-http://mottatv.com/sunnxt/sun.php?id=26573&=.m3u8
+https://watchindia.net:8443/live/62672/29937/290.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",Cartoon Network HD+
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CoANZJx/" group-title="KIDS",TOM & Jerry
@@ -136,7 +136,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/17/10/star-sports-star-india-television-channel-sony-ten-2-png-favpng-uuyETKtmMTCbpZD1eCcrqWShh.jpg" group-title="SPORTS",Star Sports 2
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
-http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
@@ -150,7 +150,7 @@ http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/aeEWpon/" group-title="RELIGION",Makkah TV
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/download/YEmTRlV/" group-title="Movie",Varane Avashyamund (2020)
-https://watchindia.net:8443/movie/39429/01219/1078.mkv
+https://watchindia.net:8443/live/62672/29937/1078.ts
 
 
 
