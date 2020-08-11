@@ -66,7 +66,7 @@ http://216.144.250.174/Star_Plus_HD_IndIa/tracks-v1a1/mono.m3u8
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/nOf7AJD/",BBO
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/908
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png", &flix
+#EXTINF:-1 tvg-logo="https://imgur.com/download/BEwp4Mj/", &flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix 
 http://run.iptv.cab:80/live/nbknripni/106646nbk/23981.m3u8
@@ -132,15 +132,15 @@ http://run.iptv.cab:80/live/nbknripni/106646nbk/23891.m3u8
 http://ws.flv.nimo.tv/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1
-http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/17/10/star-sports-star-india-television-channel-sony-ten-2-png-favpng-uuyETKtmMTCbpZD1eCcrqWShh.jpg" group-title="SPORTS",Star Sports 2
-http://run.iptv.cab:80/live/nbknripni/106646nbk/1466.m3u8
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
-http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/NPnWxMP/" group-title="SPORTS",Sony Ten 3
