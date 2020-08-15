@@ -38,14 +38,16 @@ http://indtv.online/zee5/zee5/0-9-ddmalayalam.m3u8
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23880.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/",Star Vijay 
 http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV 
-http://indtv.online/sunnxt/sunnxt/KTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV HD
+https://watchindia.net:8443/live/53920/63216/845.ts
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD 
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD 
 https://watchindia.net:8443/live/53920/63216/276.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 https://watchindia.net:8443/live/53920/63216/280.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya HD
+https://watchindia.net:8443/live/53920/63216/279.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya HD USA
 https://watchindia.net:8443/live/53920/63216/1938.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/TewMulx/",Zee TV HD
