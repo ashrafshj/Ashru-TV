@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/",Surya TV
-http://run.iptv.cab:80/live/nbknripni/106646nbk/23957.m3u8
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23957.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama
 http://mhdworld.fun/delta/yuppp.m3u8?id=25796565&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD
@@ -9,13 +9,13 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://watchindia.net:8443/live/53920/63216/284.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers 
-http://run.iptv.cab:80/live/nbknripni/106646nbk/23956.m3u8
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23956.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We 
 http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
 https://watchindia.net:8443/live/53920/63216/307.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
-http://run.iptv.cab:80/live/nbknripni/106646nbk/23959.m3u8
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23959.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ILVKTeI/",KCL TV
@@ -42,8 +42,8 @@ http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 https://watchindia.net:8443/live/53920/63216/845.ts
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD 
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23887.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet  
-http://95.216.101.151:8081/master_leno/Malaasianethd/chunks.m3u8?nimblesessionid=11561158&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDIwIDEyOjQyOjI2IFBNJmhhc2hfdmFsdWU9SXM2aFEwZ0xEU3FOWFBWUWhuNmhJZz09JnZhbGlkbWludXRlcz01
+#EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD 2 
+https://watchindia.net:8443/live/53920/63216/276.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 https://watchindia.net:8443/live/53920/63216/280.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya HD
