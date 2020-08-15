@@ -9,7 +9,7 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://watchindia.net:8443/live/53920/63216/284.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers 
-http://95.216.101.151:8081/master_leno/Malaflowersweb/chunks.m3u8?nimblesessionid=11565559&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDIwIDU6MzM6MDYgUE0maGFzaF92YWx1ZT1KYWlkYk9xM3BxL2s5Q1lDS3pkOWpBPT0mdmFsaWRtaW51dGVzPTU=
+https://watchindia.net:8443/live/53920/63216/2.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We 
 http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
@@ -25,7 +25,7 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
-http://run.iptv.cab:80/live/nbknripni/106646nbk/23953.m3u8
+https://watchindia.net:8443/live/53920/63216/278.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
 https://watchindia.net:8443/live/53920/63216/277.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
