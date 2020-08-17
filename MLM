@@ -9,7 +9,7 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://watchindia.net:8443/live/46887/80074/284.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers 
-https://watchindia.net:8443/live/46887/80074/2.ts
+http://95.216.101.151:8081/master_leno/Malaflowersweb/chunks.m3u8?nimblesessionid=11585596&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIwIDI6NDA6MDcgUE0maGFzaF92YWx1ZT1jdjNUNUYza2l0YkxqYVU2V2N3MnFRPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We 
 http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
