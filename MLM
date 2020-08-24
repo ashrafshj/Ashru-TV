@@ -84,7 +84,7 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3
 #EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="NEWS",Media One
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+http://witv.live:8880/live/41222/71143/1064.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
 http://dragoniptv.club:8080/csfgpjYggr/5gzVWKng8q/26706
 #EXTINF:-1 tvg-logo="https://imgur.com/download/EXavUTu/" group-title="NEWS",Bharat Keralam
