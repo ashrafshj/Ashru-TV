@@ -34,8 +34,8 @@ https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",DD Malayalam
 http://witv.live:8880/live/66044/25795/303.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun TV HD
-http://witv.live:8880/live/66044/25795/843.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun TV 
+http://mottatv.com/sunnxt/sun.php?id=9016&=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/",Star Vijay 
 http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV HD
@@ -46,6 +46,8 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 http://witv.live:8880/live/66044/25795/276.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 http://witv.live:8880/live/66044/25795/280.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/",Surya TV     
+http://mottatv.com/sunnxt/sun.php?id=9018&=.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png",Surya TV HD USA
 http://witv.live:8880/live/66044/25795/1938.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/TewMulx/",Zee TV HD
@@ -58,8 +60,6 @@ http://216.144.250.174/Star_Plus_HD_IndIa/tracks-v1a1/mono.m3u8
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/9NubtyY/",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/nOf7AJD/",BBO
-http://dragoniptv.club:8080/csfgpjYggr/5gzVWKng8q/34180
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP",Sony Max HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2016/06/SONY-WAH-LOGO.jpg",Sony Wah
@@ -109,7 +109,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="MUSIC",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="MUSIC",Surya Music
-http://witv.live:8880/live/66044/25795/285.ts
+http://mottatv.com/sunnxt/sun.php?id=26575&=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C8ywBgI/" group-title="MUSIC",Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LpRJF4U/" group-title="MUSIC",Metro TV
@@ -118,19 +118,17 @@ https://j78dp37jyq5r-hls-live.5centscdn.com/metromalayalam/d0dbe915091d400bd8ee7
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 #EXTINF:-1 tvg-name="Garshom TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Garshom_TV.png" group-title="MUSIC",Garshom TV
 http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/cPWnCVi/" group-title="MUSIC",Isai Aruvi
-http://dragoniptv.club:8080/csfgpjYggr/5gzVWKng8q/34266
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music
-http://witv.live:8880/live/51134/13404/844.ts
+http://witv.live:8880/live/66044/25795/844.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="MUSIC",7S Music 
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4RLYmkk/" group-title="KIDS",Kochu TV
-http://witv.live:8880/live/51134/13404/290.ts
+http://mottatv.com/sunnxt/sun.php?id=26573&=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rvpMAcx/" group-title="KIDS",Cartoon Network HD+
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/CoANZJx/" group-title="KIDS",TOM & Jerry
-http://witv.live:8880/live/51134/13404/1293.ts
+http://witv.live:8880/live/66044/25795/1293.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="KIDS",Nick
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/download/a0QnsZ9/" group-title="KIDS",Mr Bean
@@ -139,7 +137,7 @@ http://ws.flv.nimo.tv/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png" group-title="SPORTS",Star Sports 2
-http://witv.live:8880/live/51134/13404/1069.ts
+http://witv.live:8880/live/66044/25795/1069.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
@@ -147,16 +145,16 @@ http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-http://witv.live:8880/live/51134/13404/1757.ts
+http://witv.live:8880/live/66044/25795/1757.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/NPnWxMP/" group-title="SPORTS",Sony Ten 3
-http://witv.live:8880/live/51134/13404/1758.ts
+http://witv.live:8880/live/66044/25795/1758.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
 http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/aeEWpon/" group-title="RELIGION",Makkah TV
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwTYD3Ek0fwGr0RFY18goqmxpHi.jpg" group-title="MOVIE",Fancy Dress (2019)
-http://witv.live:8880/movie/51134/13404/1081.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuQkrOP64krc9h0DAEAgjtiA0Ao.jpg" group-title="MOVIE",Pranaya Meenukalude Kadal (2019)
+http://witv.live:8880/movie/66044/25795/1083.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrL91M6xyak6yM7dCgYpyklKe37.jpg" group-title="MOVIE",World Famous Lover (2020)
-http://witv.live:8880/movie/51134/13404/1082.mkv
+http://witv.live:8880/movie/66044/25795/1082.mkv
 
 
