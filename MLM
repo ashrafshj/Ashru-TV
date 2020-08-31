@@ -131,8 +131,6 @@ http://mottatv.com/sunnxt/sun.php?id=26573&=.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="KIDS",Nick
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/kids/Booba_TV.png" group-title="KIDS",Booba TV
-http://witv.live:8880/live/32913/49212/1294.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
