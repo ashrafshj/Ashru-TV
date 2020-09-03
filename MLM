@@ -23,7 +23,7 @@ http://witv.live:8880/live/55674/86091/293.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
 https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
-http://mottatv.com/sunnxt/sun.php?id=9019&&=.m3u8
+http://witv.live:8880/live/55674/86091/298.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
 http://mhdworld.fun/delta/yuppp.m3u8?id=8796585&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
@@ -49,7 +49,7 @@ http://185.246.210.55:2200/R-EX/MALAYALAM_ASIANET_HD-in/tracks-v1a1/mono.m3u8?to
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 http://witv.live:8880/live/55674/86091/280.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
-http://mottatv.com/sunnxt/sun.php?id=26574&=.m3u8
+http://witv.live:8880/live/55674/86091/279.ts
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png",Surya TV HD USA
 http://witv.live:8880/live/55674/86091/1938.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/TewMulx/",Zee TV HD
@@ -113,7 +113,7 @@ https://load.airtel.tv/9xjalwa/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="MUSIC",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="MUSIC",Surya Music
-http://mottatv.com/sunnxt/sun.php?id=26575&=.m3u8
+https://load.airtel.tv/suryamusic/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C8ywBgI/" group-title="MUSIC",Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LpRJF4U/" group-title="MUSIC",Metro TV
@@ -125,7 +125,7 @@ http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/i
 #EXTINF:-1 tvg-logo="https://imgur.com/download/cPWnCVi/" group-title="MUSIC",Isai Aruvi
 https://load.airtel.tv/isaiaruvi/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music
-http://mottatv.com/sunnxt/sun.php?id=9013&=.m3u8
+https://load.airtel.tv/sunmusic/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="MUSIC",7S Music 
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(2)/index.m3u8
 
