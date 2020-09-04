@@ -49,7 +49,7 @@ http://185.246.210.55:2200/R-EX/MALAYALAM_ASIANET_HD-in/tracks-v1a1/mono.m3u8?to
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 http://witv.live:8880/live/31622/92459/280.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
-http://mottatv.com/sunnxt/sun.php?id=26574&=.m3u8
+http://witv.live:8880/live/31622/92459/279.ts
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png",Surya TV HD USA
 http://witv.live:8880/live/31622/92459/1938.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/TewMulx/",Zee TV HD
@@ -61,7 +61,7 @@ http://216.144.250.174/Star_Plus_HD_IndIa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png",B4U Plus 
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/9NubtyY/",Zee Cinema
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+http://216.144.250.174/Zee_Cinema_HD/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP",Sony Max HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2016/06/SONY-WAH-LOGO.jpg",Sony Wah
@@ -80,6 +80,8 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F2NjQ17/",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
+https://jiocdn.fun/jio/jiotv/live1xX.php?c=Animal_Planet_HD&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
@@ -101,7 +103,7 @@ http://witv.live:8880/live/31622/92459/291.ts
 http://livecdnh1.tvanywhere.ae:80/hls/reporter/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4NKKzKM/" group-title="MUSIC",ZoOm
-http://itpolly.iptv.digijadoo.net/live/zoom/chunks.m3u8
+http://witv.live:8880/live/31622/92459/842.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/gTcwjmY/" group-title="MUSIC",Music India
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.ts
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" group-title="MUSIC",MTV
@@ -130,7 +132,7 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(2)/index.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS.",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidseng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4RLYmkk/" group-title="KIDS",Kochu TV
-http://mottatv.com/sunnxt/sun.php?id=26573&=.m3u8
+http://witv.live:8880/live/31622/92459/290.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rvpMAcx/" group-title="KIDS",Cartoon Network HD+
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="KIDS",Nick Jr
