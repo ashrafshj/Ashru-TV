@@ -159,10 +159,11 @@ https://streamitv.multitvsolution.in/idvo/discoverykidseng_540p/index.m3u8
 http://mottatv.com/sunnxt/sun.php?id=26573&=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
 http://randomserver.site:2086/live/Bria/Bria/17914.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/download/rvpMAcx/" group-title="KIDS",Cartoon Network HD+
-http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/rvpMAcx/" group-title="KIDS",Cartoon Network 
+http://195.154.156.28:80/live/7654321/1234567/74259.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="KIDS",Nick Jr
-http://iptv.mirrorace.net/?channelid=544
+#EXTINF:-1 tvg-id="546" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="KIDS",Nick HD+
+http://195.154.156.28:80/live/7654321/1234567/74270.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="KIDS",Mr Bean Show
 http://randomserver.site:2086/live/Bria/Bria/15973.ts
 
