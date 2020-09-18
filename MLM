@@ -63,7 +63,7 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F8poNA2/",Sony TV
 http://iptv.mirrorace.net/?channelid=291 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png", Colors HD
-http://f.ok2.se:8000/victor1/victor123/6902
+http://104.218.60.145:83/WILLIE@/4047585326@/379950
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg",Star Plus HD
 http://randomserver.site:2086/live/Bria/Bria/91828.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png",B4U Plus 
@@ -71,7 +71,7 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/9NubtyY/",Zee Cinema
 http://z5amshls.akamaized.net/zeecinemame/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP",Sony Max HD
-http://195.154.156.28:80/live/7654321/1234567/74369.ts
+http://randomserver.site:2086/live/Bria/Bria/94766.ts
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2016/06/SONY-WAH-LOGO.jpg",Sony Wah
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png",& Pictures
@@ -93,7 +93,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild
-http://195.154.156.28:80/live/7654321/1234567/73904.ts
+http://randomserver.site:2086/live/Bria/Bria/91852.ts
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP 
 http://iptv.mirrorace.net/?channelid=562 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
@@ -124,10 +124,10 @@ http://203.162.235.41:16917
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",9XM
 https://load.airtel.tv/9xm/smil:common.smil/chunklist_b364000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/4NKKzKM/" group-title="MUSIC",ZoOm
-http://195.154.156.28:80/live/7654321/1234567/74355.ts
+#EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI"" ,ZEE SMILE
+http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="MUSIC",Zing
-http://195.154.156.28:80/live/7654321/1234567/74377.ts
+http://randomserver.site:2086/live/Bria/Bria/91914.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/gTcwjmY/" group-title="MUSIC",Music India
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.ts
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" group-title="MUSIC",MTV
@@ -173,7 +173,7 @@ https://jiocdn.fun/jio/jiotv/liv990x1.php?c=MI_TV&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1
 http://ok2.se:8000/victor1/victor123/201
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png" group-title="SPORTS",Star Sports 2
-http://195.154.156.28:80/live/7654321/1234567/74428.ts
+http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87301
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
 http://randomserver.site:2086/live/Bria/Bria/94789.ts
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
