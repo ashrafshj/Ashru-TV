@@ -169,7 +169,7 @@ http://195.154.156.28:80/live/7654321/1234567/74270.ts
 http://randomserver.site:2086/live/Bria/Bria/15973.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/bOKDjl7/" group-title="SPORTS",IPL LIVE
-https://jiocdn.fun/jio/jiotv/liv990x1.php?c=MI_TV&q=1200&e=.m3u8
+https://jiocdn.fun/jio/jiotv/livz.php?c=MI_TV&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1
 http://ok2.se:8000/victor1/victor123/201
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png" group-title="SPORTS",Star Sports 2
