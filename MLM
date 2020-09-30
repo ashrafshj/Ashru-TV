@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD 
-http://185.246.210.55:2200/R-EX/MALAYALAM_ASIANET_HD-in/tracks-v1a1/mono.m3u8?token=RED_7d1RcuqFGLnmeAAh84SX8w%3D%3D%2C1598036698.0316535914
+http://199.66.92.35:8080/sw_ASIANET_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 https://load.airtel.tv/mazhavilmanoramahd/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
@@ -21,7 +21,7 @@ http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87479
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87476
+http://89.187.169.203:2200/R-EX/MALAYALAM_JAIHIND_TV-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
@@ -29,11 +29,11 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/pnxKniI/",Kerala Vision
 http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87438
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
-http://89.187.169.200:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/tracks-v1a1/mono.m3u8?token=
+http://rv.therevenge.co:80/307231215061/307231215061/83884
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies 
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87353
+http://85.203.33.33:80/FJrwquU09/dNjJbF70/6251
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87351
+http://89.187.169.203:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
@@ -48,12 +48,12 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 http://85.203.33.33:80/FJrwquU09/dNjJbF70/10175
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/",Star Vijay HD
 http://uk4.zecast.com:1935/star-live/vijayhd1/chunklist_w1085146887.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV 
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87349
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV HD
+http://89.187.169.203:2200/R-EX/TAMIL_KTV_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png",Kalaignar TV
 https://load.airtel.tv/kalaignartv/smil:common.smil/chunklist_b364000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/jaya_tv.jpg",Jaya TV HD
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87370
+http://rv.therevenge.co:80/307231215061/307231215061/83960
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet 
 http://mytv.fun:8080/bastian321/qg9iiqbtv/5575
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama
@@ -95,7 +95,7 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild
 http://89.187.169.203:2200/R-EX/ENGLISH_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87261
+http://rv.therevenge.co:80/307231215061/307231215061/83952
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
 http://89.187.169.203:2200/R-EX/ENGLISH_TRAVEL_XP_HD-in/tracks-v1a1/mono.m3u8?token=
 
@@ -113,8 +113,8 @@ https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_5_av-p.m3u8
 https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742227023001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/malayalam/Reporter_TV.png" group-title="NEWS",Reporter TV
 http://livecdnh1.tvanywhere.ae:80/hls/reporter/04.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" group-title="NEWS",Raj News 
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87398
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" group-title="NEWS",Raj News
+http://89.187.169.203:2200/R-EX/MALAYALAM_RAJ_NEWS_MALAYALAM-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam TV 
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/EXavUTu/" group-title="NEWS",Bharat Keralam
@@ -130,8 +130,8 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 http://89.187.169.200:2200/R-EX/HINDI_ZING-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/gTcwjmY/" group-title="MUSIC",Music India
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.ts
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" group-title="MUSIC",MTV
-http://f.ok2.se:8000/victor1/victor123/3840
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSk9UsvPzN09hPZ26EevOy7csdCu-kjDU1lgQ&usqp=CAU" group-title="MUSIC",MTV HD+
+http://195.181.172.83:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="MTVBeats.in" tvg-name="MTV Beats HD IN" tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="MUSIC",MTV Beats HD 
 http://85.203.33.33:80/FJrwquU09/dNjJbF70/18798
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="MUSIC",9X Jalwa
@@ -158,15 +158,17 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(2)/index.m3u
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="KIDS" ,Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidseng_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/75786
+http://randomserver.site:2086/wickeduk/etqyhww45e/17914
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rvpMAcx/" group-title="KIDS",Cartoon Network 
-http://84.22.43.246:8000/play/a064
+http://185.246.210.54:2200/R-EX/KIDS_CARTOON_NETWORK-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-id="546" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="KIDS",Nick HD+
 http://89.187.169.203:2200/R-EX/KIDS_NICK_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="KIDS",Nick Jr
-http://85.203.33.205:8080/aF416sLqb138/ihO0g177/27456
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="KIDS",Mr Bean Show
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/74598
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CanalDisneyJuniorLA.png" group-title="KIDS",DISNEY Jr.
+http://185.246.210.56:2200/R-EX/KIDS_DISNEY_XD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="KIDS",Sony YAY
+http://198.255.87.59:8080/INDIA_HINDI/SONY_YAY/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="KIDS",Mr Bean 
+http://randomserver.site:2086/wickeduk/etqyhww45e/15973
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 IPL
 http://89.187.169.203:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=
