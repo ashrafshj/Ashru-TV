@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD 
-http://199.66.92.35:8080/sw_ASIANET_HD/tracks-v1a1/mono.m3u8?token=test
+http://85.203.33.33:80/FJrwquU09/dNjJbF70/10183
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 https://load.airtel.tv/mazhavilmanoramahd/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
@@ -47,7 +47,7 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun TV HD
 http://85.203.33.33:80/FJrwquU09/dNjJbF70/10175
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/",Star Vijay HD
-http://uk4.zecast.com:1935/star-live/vijayhd1/chunklist_w1085146887.m3u8
+http://85.203.33.33:80/FJrwquU09/dNjJbF70/10174
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV HD
 http://89.187.169.203:2200/R-EX/TAMIL_KTV_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png",Kalaignar TV
