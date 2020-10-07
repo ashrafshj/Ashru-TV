@@ -26,8 +26,6 @@ http://89.187.169.203:2200/R-EX/MALAYALAM_JAIHIND_TV-in/tracks-v1a1/mono.m3u8?to
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
 https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/pnxKniI/",Kerala Vision
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87438
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
 http://rv.therevenge.co:80/307231215061/307231215061/83884
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies 
@@ -42,8 +40,6 @@ https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 http://three.somee.com/web.php?c=out/v1/50ca90ede1dc421ca67fe1392721587f/&e.m3u8&I=2
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/malayalam/Safari_TV.png",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live.stream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/ILVKTeI/",KCL TV
-https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun TV HD
 http://89.187.169.203:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/",Star Vijay HD
@@ -55,7 +51,7 @@ https://load.airtel.tv/kalaignartv/smil:common.smil/chunklist_b364000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/jaya_tv.jpg",Jaya TV HD
 http://rv.therevenge.co:80/307231215061/307231215061/83960
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet 
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87260
+https://watchindia.net:8443/live/15843/56625/1300.ts
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama
 https://load.airtel.tv/mazhavilmanorama/smil:common.smil/chunklist_b564000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/",Surya TV 
@@ -92,7 +88,7 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
 http://89.187.169.203:2200/R-EX/ENGLISH_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 http://rv.therevenge.co:80/307231215061/307231215061/83952
