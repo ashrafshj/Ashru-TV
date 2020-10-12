@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD 
-http://185.246.210.55:2200/R-EX/MALAYALAM_ASIANET_HD-in/tracks-v1a1/mono.m3u8?token=RED_7d1RcuqFGLnmeAAh84SX8w%3D%3D%2C1598036698.0316535914
+http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87260
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 https://load.airtel.tv/mazhavilmanoramahd/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
@@ -37,7 +37,7 @@ https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",DD Malayalam
-http://three.somee.com/web.php?c=out/v1/50ca90ede1dc421ca67fe1392721587f/&e.m3u8&I=2
+https://load.airtel.tv/ddmalayalam/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/malayalam/Safari_TV.png",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live.stream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/",Sun TV HD
