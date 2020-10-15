@@ -46,8 +46,6 @@ http://89.187.169.203:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=
 http://89.187.169.203:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png",KTV HD
 http://89.187.169.203:2200/R-EX/TAMIL_KTV_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png",Kalaignar TV
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87435
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/jaya_tv.jpg",Jaya TV HD
 http://89.187.169.203:2200/R-EX/TAMIL_JAYA_TV_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet 
