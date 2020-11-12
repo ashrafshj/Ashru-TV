@@ -26,6 +26,8 @@ http://185.246.210.55:2200/R-EX/MALAYALAM_JAIHIND_TV-in/tracks-v1a1/mono.m3u8?to
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="jeevan.in" tvg-name="Jeevan TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Jeevan_TV.png",Jeevan TV  
 https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
+#EXTINF:-1 tvg-id="MBO.in" tvg-name="MBO" tvg-logo="https://watchindia.net/images/channels/malayalam/box_office.png",MBO
+https://watchindia.net:8443/live/09268/06095/2156.m3u8
 #EXTINF:-1 tvg-id="surya.movies.in" tvg-name="Surya Movies" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Movies.png",Surya Movies
 http://185.246.210.55:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="asianet.movies.in" tvg-name="Asianet Movies" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Movies.png",Asianet Movies 
@@ -141,7 +143,7 @@ http://89.187.169.203:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mo
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
 https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-http://iptvbest.org:80/rajat/netee/3998
+http://iptvtree.net:8080/test-edd59f/329a/197743
 #EXTINF:-1 tvg-logo="https://imgur.com/download/NPnWxMP/" group-title="SPORTS",Sony Ten 3
 https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
