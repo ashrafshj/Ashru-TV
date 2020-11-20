@@ -7,7 +7,7 @@ https://load.airtelxstream.in/mazhavilmanoramahd/smil:common.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="zeekeralamhd.in" tvg-name="Zee Keralam" tvg-logo="https://watchindia.net/images/channels/malayalam/Zee_Keralam_HD.png",Zee Keralam HD
 http://z5amshls.akamaized.net/livingfoodzhd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="amrita.in" tvg-name="Amrita" tvg-logo="https://watchindia.net/images/channels/malayalam/Amrita.png",Amrita TV
-https://load.airtelxstream.in/amritatv/smil:common.smil/chunklist_b896000_sleng.m3u8
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1 tvg-id="flowers.in" tvg-name="Flowers TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Flowers.png",Flowers
 https://load.airtelxstream.in/flowerstv/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-id="kairali.in" tvg-name="Kairali TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Kairali_TV.png",Kairali TV
@@ -15,7 +15,7 @@ http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali Arabia
 https://streamitv.multitvsolution.in/idvo/kairaliarabia_540p/index.m3u8
 #EXTINF:-1 tvg-id="kairali.we.in" tvg-name="Kairali We" tvg-logo="https://watchindia.net/images/channels/malayalam/WE_TV.png",Kairali We 
-https://load.airtelxstream.in/kairaliwe/smil:common.smil/chunklist_b896000_sleng.m3u8
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/",Middle East
 http://rv.therevenge.co:80/307231215061/307231215061/83894
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
@@ -25,7 +25,7 @@ http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="jeevan.in" tvg-name="Jeevan TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Jeevan_TV.png",Jeevan TV  
-https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
+https://watchindia.net:8443/live/59346/02058/300.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/NRL3tDO/",MBO
 https://watchindia.net:8443/live/59346/02058/2156.m3u8
 #EXTINF:-1 tvg-id="surya.movies.in" tvg-name="Surya Movies" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Movies.png",Surya Movies
