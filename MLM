@@ -3,7 +3,7 @@ https://watchindia.net:8443/live/76860/76402/276.m3u8
 #EXTINF:-1 tvg-id="suryahd.in" tvg-name="Surya TV HD" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png",Surya TV HD
 https://watchindia.net:8443/live/76860/76402/279.m3u8
 #EXTINF:-1 tvg-id="mazhavil.manorama.in" tvg-name="Mazhavil Manorama HD" tvg-logo="https://watchindia.net/images/channels/malayalam/Mazhavil_Manorama_HD.png",Mazhavil Manorama HD
-http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/Stream(01)/index.m3u8
+https://watchindia.net:8443/live/76860/76402/280.m3u8
 #EXTINF:-1 tvg-id="zeekeralamhd.in" tvg-name="Zee Keralam" tvg-logo="https://watchindia.net/images/channels/malayalam/Zee_Keralam_HD.png",Zee Keralam HD
 http://z5amshls.akamaized.net/livingfoodzhd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="amrita.in" tvg-name="Amrita" tvg-logo="https://watchindia.net/images/channels/malayalam/Amrita.png",Amrita TV
