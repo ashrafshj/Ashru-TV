@@ -53,9 +53,9 @@ https://watchindia.net:8443/live/76860/76402/851.m3u8
 #EXTINF:-1 tvg-id="asianet.in" tvg-name="Asianet" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet.png",Asianet
 https://watchindia.net:8443/live/76860/76402/1300.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama
-https://load.airtelxstream.in/mazhavilmanorama/smil:common.smil/chunklist_b364000_sleng.m3u8
+http://185.246.210.55:2200/R-EX/MALAYALAM_MAZAVIL_MANORAMA_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/",Surya TV
-https://load.airtelxstream.in/suryatv/smil:common.smil/chunklist_b896000_sleng.m3u8
+http://185.246.210.51:2200/R-EX/MALAYALAM_SURYA_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/TewMulx/",Zee TV HD
 http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F8poNA2/",Sony TV
