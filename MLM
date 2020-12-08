@@ -57,7 +57,7 @@ http://rv.therevenge.co:80/live/307250115144/307250115144/83883.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/TewMulx/",Zee TV HD
 http://z5amshls.akamaized.net/apacsea/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F8poNA2/",Sony TV
-http://89.187.169.200:2200/R-EX/HINDI_SONY_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/1518144333_MALtTY_unnamed.jpg",Star Plus HD
 http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/9NubtyY/",Zee Cinema
@@ -72,6 +72,8 @@ http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 http://156.146.43.241:2200/R-EX/HINDI_SONY_PIX_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/V1uISw6/",HBO 
 http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg",Discovery HD
+https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F2NjQ17/",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
@@ -111,7 +113,7 @@ http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/gTcwjmY/" group-title="MUSIC",Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="MTVBeats.in" tvg-name="MTV Beats HD IN" tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="MUSIC",MTV Beats HD 
-http://185.246.210.55:2200/R-EX/HINDI_MTV_BEATS_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://dx3.gcdn.co/hindi-MTVBEATSHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="MUSIC",9X Jalwa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="MUSIC",Surya Music
@@ -133,19 +135,19 @@ https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w5730415
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
-http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=
+http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png" group-title="SPORTS",Star Sports 2
-http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=
+http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
-http://156.146.43.241:2200/R-EX/SPORTS_TEN_1_HD-in/tracks-v1a1/mono.m3u8?token=
+http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-http://156.146.43.241:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/mono.m3u8?token=
+http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/NPnWxMP/" group-title="SPORTS",Sony Ten 3
-http://156.146.43.241:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/mono.m3u8?token=
+http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="RELIGION",Quran TV	
