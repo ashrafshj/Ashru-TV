@@ -73,9 +73,9 @@ http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png",Star Movies  HD 
 http://rv.therevenge.co:80/live/307220751221/307220751221/83604.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix HD
-http://rv.therevenge.co:80/live/307220751221/307220751221/83703.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/V1uISw6/",HBO 
-http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/sonypixhd/chunks.m3u8?nimblesessionid=23733881&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMCA0OjU5OjE2IFBNJmhhc2hfdmFsdWU9TVh4WjZRV3R2T2hldkhzd1pONUZvdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-logo="https://imgur.com/download/V1uISw6/",HBO Hits
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg",Discovery HD
 https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F2NjQ17/",National Geographic
@@ -99,6 +99,8 @@ http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 http://rv.therevenge.co:80/live/307220751221/307220751221/83880.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="NEWS",News 18
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/l6xLEMH/" group-title="NEWS",Real News Kerala
+https://m-c010-j2apps.s.llnwi.net/hls/7082.RealNewskerela.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
 https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742227023001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/malayalam/Reporter_TV.png" group-title="NEWS",Reporter TV
