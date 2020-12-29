@@ -73,7 +73,7 @@ http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png",Star Movies  HD 
 http://rv.therevenge.co:80/live/307220751221/307220751221/83604.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix HD
-https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/indialpc@!2/sonypixhd/chunks.m3u8?nimblesessionid=23733881&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMCA0OjU5OjE2IFBNJmhhc2hfdmFsdWU9TVh4WjZRV3R2T2hldkhzd1pONUZvdz09JnZhbGlkbWludXRlcz0y
+http://rv.therevenge.co:80/live/307220751221/307220751221/83703.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/V1uISw6/",HBO Hits
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg",Discovery HD
@@ -83,7 +83,7 @@ http://rv.therevenge.co:80/live/307220751221/307220751221/83956.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
-http://rv.therevenge.co:80/live/307220751221/307220751221/83646.m3u8
+http://rv.therevenge.co:80/live/307220751221/307220751221/83646.ts
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 http://rv.therevenge.co:80/live/307220751221/307220751221/83702.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
