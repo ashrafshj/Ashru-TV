@@ -18,6 +18,8 @@ https://streamitv.multitvsolution.in/idvo/kairaliarabia_540p/index.m3u8
 http://89.187.169.202:2200/R-EX/MALAYALAM_WE_TV-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/",Middle East
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/610
 #EXTINF:-1 tvg-id="jaihind.in" tvg-name="Jaihind" tvg-logo="https://watchindia.net/images/channels/malayalam/Jaihind.png",Jaihind TV
 http://89.187.169.202:2200/R-EX/MALAYALAM_JAIHIND_TV-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
