@@ -13,17 +13,17 @@ http://rv.imax.re:80/live/307220751221/307220751221/83892.m3u8
 #EXTINF:-1 tvg-id="kairali.in" tvg-name="Kairali TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Kairali_TV.png",Kairali TV
 http://rv.imax.re:80/live/307220751221/307220751221/83891.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali Arabia
-https://streamitv.multitvsolution.in/idvo/kairaliarabia_540p/index.m3u8
+https://itvorigin.multitvsolution.com/idvo/kairaliarabia_360p/index.m3u8
 #EXTINF:-1 tvg-id="kairali.we.in" tvg-name="Kairali We" tvg-logo="https://watchindia.net/images/channels/malayalam/WE_TV.png",Kairali We 
 http://rv.imax.re:80/live/307220751221/307220751221/83882.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/",Middle East
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17499.ts
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17499.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17460.ts
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17460.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg",Surya TV
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17314.ts
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17314.m3u8
 #EXTINF:-1 tvg-id="jaihind.in" tvg-name="Jaihind" tvg-logo="https://watchindia.net/images/channels/malayalam/Jaihind.png",Jaihind TV
 http://rv.imax.re:80/live/307220751221/307220751221/83875.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
