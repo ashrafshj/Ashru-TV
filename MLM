@@ -5,11 +5,11 @@ https://dr1zhpsuem5f4.cloudfront.net/03.m3u8
 #EXTINF:-1 tvg-id="asianethd.in" tvg-name="Asianet HD" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_HD.png"",Asianet HD
 http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47946&output=m3u8
 #EXTINF:-1 tvg-id="suryahd.in" tvg-name="Surya TV HD" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png",Surya TV HD
-http://95.216.199.23:8081/master_leno/Malasuryasd/chunks.m3u8
+http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47949&output=m3u8
 #EXTINF:-1 tvg-id="mazhavil.manorama.in" tvg-logo="https://watchindia.net/images/channels/malayalam/Mazhavil_Manorama_HD.png",Mazhavil Manorama HD
 http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6654/index.m3u8
 #EXTINF:-1 tvg-id="flowers.in" tvg-name="Flowers TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Flowers.png",Flowers
-http://95.216.199.23:8081/master_leno/Malaflowersweb/chunks.m3u8
+http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47965&output=m3u8
 #EXTINF:-1 tvg-id="kairali.in" tvg-name="Kairali TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Kairali_TV.png",Kairali TV
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/",Middle East
@@ -105,7 +105,7 @@ http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.03165359
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya TV
 http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6655/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eFGSh4p/"group-title="SD",Asianet
-http://95.216.199.23:8081/master_leno/Malaasianethd/chunks.m3u8
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17260.m3u8
 
 
 
