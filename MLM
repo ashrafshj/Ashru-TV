@@ -2,11 +2,11 @@
 https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD
+#EXTINF:-1 tvg-logo="https://imgur.com/download/rI7ywyz/",Asianet HD
 http://185.246.210.45:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
 http://185.246.210.45:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mazhavil_manorama.jpg",Mazhavil Manorama HD
+#EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 https://bit.ly/04mazhavil
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers
 http://185.246.210.49:2200/R-EX/MALAYALAM_FLOWER_TV-in/index.m3u8?token=
@@ -34,7 +34,7 @@ http://185.246.210.45:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=
 http://185.246.210.46:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="kaumudy.in" tvg-name="Kaumudy TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Kaumudy_TV.png",Kaumudy TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w881DVW.png",Safari
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live3/chunks.m3u8
