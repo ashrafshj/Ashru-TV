@@ -58,7 +58,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/BEwp4Mj/" group-title="ENGLISH MOVIES", &flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/" group-title="ENGLISH MOVIES",Sony Pix HD
-http://45.153.33.137:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=
+http://hitectv.live/hls/stream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
