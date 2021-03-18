@@ -3,7 +3,7 @@ https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rI7ywyz/",Asianet HD
-https://bit.ly/airtelas
+https://bit.ly/ashru5Air
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
 https://bit.ly/3exfTMm
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
@@ -27,7 +27,7 @@ http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
-https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/SuryaMoviesMal.m3u8
+https://bit.ly/ashru5
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
 https://bit.ly/2NNcqyo
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
@@ -102,7 +102,7 @@ https://bit.ly/3bA7vde
 http://bit.ly/5gBean
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
-http://103.102.136.106:8080/cmcltv/livesports.m3u8
+http://hitectv.live/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/DEZEAPb/" group-title="SPORTS",Star Sports 2
 http://hitectv.live/hls/stream16.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
@@ -115,6 +115,8 @@ http://hitectv.live/hls/stream39.m3u8
 http://hitectv.live/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rWVNyUo/" group-title="SPORTS",Ten Sports
 http://hitectv.live/hls/stream34.m3u8
+#EXTINF:-1 tvg-id="ASTRO CRICKET FHD" tvg-logo="http://webo.asia/logos/a257.png" group-title="SPORTS",Astro Cricket
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/71109
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMYdQAj.png"group-title="SPORTS",beIN Sport 1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
