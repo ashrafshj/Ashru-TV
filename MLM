@@ -3,11 +3,9 @@ https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rI7ywyz/",Asianet HD
 https://bit.ly/airtelas
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
-https://bit.ly/3f0zMeO
-## https://bit.ly/ashru55
+https://bit.ly/ashru55
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
-https://bit.ly/2NHjwV0
-## https://bit.ly/ashru5m
+https://bit.ly/3lBD21M
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -49,7 +47,6 @@ http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/",Star Vijay HD
 https://bit.ly/30ZVJm9
-## https://bit.ly/2P8vkQn
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
 http://uk1.zecast.com:1935/star-live/ktv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
@@ -58,7 +55,8 @@ https://itvorigin.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8
 http://hitectv.live/hls/stream6.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
 http://bit.ly/7wild
-
+#EXTINF:-1 tvg-logo="https://imgur.com/download/a5dNM7E/",Cineplex color
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/9NubtyY/"group-title="HINDI MOVIES",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://195.154.221.171/picons/andpictureshd.png",&pictures HD
@@ -99,28 +97,28 @@ http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="KIDS" ,Discovery Kids
 https://itvorigin.multitvsolution.com/idvo/discoverykidseng_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4RLYmkk/" group-title="KIDS",Kochu TV
-https://bit.ly/3e3KGAe
+https://bit.ly/3vEvxM9
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
 https://bit.ly/3bA7vde 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/twMKgz9.png"group-title="KIDS",Mr. Bean 
 http://bit.ly/5gBean
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
-http://hitectv.live/hls/stream15.m3u8
+http://luckonline.eu:8080/17424/cnyzqDETiP/1063
 #EXTINF:-1 tvg-logo="https://imgur.com/download/DEZEAPb/" group-title="SPORTS",Star Sports 2
-http://hitectv.live/hls/stream16.m3u8
+http://luckonline.eu:8080/17424/cnyzqDETiP/1370
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
-http://hitectv.live/hls/stream12.m3u8
+http://luckonline.eu:8080/17424/cnyzqDETiP/1125
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
-http://hitectv.live/hls/stream40.m3u8
+http://luckonline.eu:8080/17424/cnyzqDETiP/497
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-http://hitectv.live/hls/stream39.m3u8
+http://luckonline.eu:8080/17424/cnyzqDETiP/513
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
-http://hitectv.live/hls/stream10.m3u8
+http://luckonline.eu:8080/17424/cnyzqDETiP/1367
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rWVNyUo/" group-title="SPORTS",Ten Sports
-http://hitectv.live/hls/stream34.m3u8
+http://luckonline.eu:8080/17424/cnyzqDETiP/1372
 #EXTINF:0 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="SPORTS",Sky Sports Cricket
-https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/SkySPCricUK.m3u8
+http://fun6.xyz:8880/UK_SKY_SPORTS_CRICKET/index.m3u8?token=0a3a900b48fac136c1f0aec629a479dd
 #EXTINF:-1 tvg-id="ASTRO CRICKET FHD" tvg-logo="http://webo.asia/logos/a257.png" group-title="SPORTS",Astro Cricket
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/71109
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMYdQAj.png"group-title="SPORTS",beIN Sport 1
@@ -132,8 +130,10 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6654/index.m3u8
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6655/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eFGSh4p/"group-title="SD",Asianet
 https://bit.ly/airtel5gas
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="RELIGION",Quran TV	
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="RELIGION",Saudi Quran TV	
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://imgur.com/download/DicUHEn/"group-title="RELIGION",Quran
+http://rv.imax.re:80/live/2075706948/8418293576/163850.ts
 
 
 
