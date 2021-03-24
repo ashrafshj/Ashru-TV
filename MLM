@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
 https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rI7ywyz/",Asianet HD
-https://bit.ly/airtelas
+https://bit.ly/3eU2IoI
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
-https://bit.ly/ashru55
+https://bit.ly/3eU8Qh2
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
-https://bit.ly/3lBD21M
+https://bit.ly/2NHjwV0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -46,7 +46,7 @@ http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
 http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/",Star Vijay HD
-https://bit.ly/30ZVJm9
+https://bit.ly/2P8vkQn
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
 http://uk1.zecast.com:1935/star-live/ktv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
@@ -68,7 +68,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH MOVIES",Star Movies  HD 
 http://hitectv.live/hls/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/" group-title="ENGLISH MOVIES",Sony Pix HD
-https://bit.ly/2PiE06F
+http://185.246.209.207/HINDI_SONY_PIX_HD_INDIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IJgKezF/" group-title="MALAYALAM MOVIE",yuvam
 https://bit.ly/313E6C4
 
@@ -104,19 +104,21 @@ https://bit.ly/3bA7vde
 http://bit.ly/5gBean
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
-http://luckonline.eu:8080/17424/cnyzqDETiP/1063
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/DEZEAPb/" group-title="SPORTS",Star Sports 2
 http://luckonline.eu:8080/17424/cnyzqDETiP/1370
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
-http://luckonline.eu:8080/17424/cnyzqDETiP/1125
+https://bit.ly/3d22mdd
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
 http://luckonline.eu:8080/17424/cnyzqDETiP/497
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-http://luckonline.eu:8080/17424/cnyzqDETiP/513
+https://bit.ly/3cZFFq4
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
 http://luckonline.eu:8080/17424/cnyzqDETiP/1367
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rWVNyUo/" group-title="SPORTS",Ten Sports
 http://luckonline.eu:8080/17424/cnyzqDETiP/1372
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="SPORTS",Sky Sports Cricket
 http://fun6.xyz:8880/UK_SKY_SPORTS_CRICKET/index.m3u8?token=0a3a900b48fac136c1f0aec629a479dd
 #EXTINF:-1 tvg-id="ASTRO CRICKET FHD" tvg-logo="http://webo.asia/logos/a257.png" group-title="SPORTS",Astro Cricket
