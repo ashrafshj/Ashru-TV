@@ -56,7 +56,7 @@ https://itvorigin.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F2NjQ17/",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
-https://itvorigin.multitvsolution.com/idvo/aphdhindi_360p/index.m3u8
+https://itvorigin.multitvsolution.com:443/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
 http://bit.ly/7wild
 #EXTINF:-1 tvg-logo="https://imgur.com/download/a5dNM7E/",Cineplex color
@@ -72,7 +72,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/job4I1s/" group-title="ENGLISH MOVIES",Movies Now HD 
 https://bit.ly/3rhZwpz
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/" group-title="ENGLISH MOVIES",Sony Pix HD
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/41.m3u8
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/46
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
