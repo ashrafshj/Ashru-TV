@@ -55,6 +55,8 @@ http://uk1.zecast.com:1935/star-live/ktv/index.m3u8
 https://itvorigin.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F2NjQ17/",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/652
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
 https://itvorigin.multitvsolution.com:443/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
@@ -72,7 +74,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/job4I1s/" group-title="ENGLISH MOVIES",Movies Now HD 
 https://bit.ly/3rhZwpz
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/" group-title="ENGLISH MOVIES",Sony Pix HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/46
+https://bit.ly/3v48zh4
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
@@ -109,17 +111,19 @@ https://bit.ly/3bA7vde
 http://bit.ly/5gBean
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
-http://luckonline.eu:8080/17424/cnyzqDETiP/1369
+https://bit.ly/31kZVgn
+#EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 Hindi
+http://185.59.223.95/STARSP_HINDI/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/DEZEAPb/" group-title="SPORTS",Star Sports 2
 http://luckonline.eu:8080/17424/cnyzqDETiP/1370
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
-https://bit.ly/3vXGqIZ
+https://bit.ly/3tQeYLg
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
-https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/TEN1HD.m3u8
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/59
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-https://bit.ly/3d1DGli
+https://bit.ly/31ikxWK
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
-https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/SIXHD.m3u8
+https://bit.ly/2NOCoBm
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rWVNyUo/" group-title="SPORTS",Ten Sports
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
