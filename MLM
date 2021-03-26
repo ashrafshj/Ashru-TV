@@ -72,7 +72,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/job4I1s/" group-title="ENGLISH MOVIES",Movies Now HD 
 https://bit.ly/3rhZwpz
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/" group-title="ENGLISH MOVIES",Sony Pix HD
-https://bit.ly/3v48zh4
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/41.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
@@ -95,7 +96,7 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music HD
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="MUSIC",Isai Aruvi
+#EXTINF:-1 tvg-logo="https://imgur.com/download/V61Dg4o/" group-title="MUSIC",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="KIDS" ,Discovery Kids
@@ -104,23 +105,23 @@ https://itvorigin.multitvsolution.com/idvo/discoverykidseng_360p/index.m3u8
 https://bit.ly/3vEvxM9
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
 https://bit.ly/3bA7vde 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/twMKgz9.png"group-title="KIDS",Mr. Bean 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="KIDS",Mr Bean 
 http://bit.ly/5gBean
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
-https://bit.ly/3lPkxGY
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/25.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/DEZEAPb/" group-title="SPORTS",Star Sports 2
 http://luckonline.eu:8080/17424/cnyzqDETiP/1370
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
 https://bit.ly/3vXGqIZ
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
-http://luckonline.eu:8080/17424/cnyzqDETiP/497
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/TEN1HD.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
 https://bit.ly/3d1DGli
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
-https://bit.ly/2NOCoBm
+https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/SIXHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rWVNyUo/" group-title="SPORTS",Ten Sports
-http://luckonline.eu:8080/17424/cnyzqDETiP/1372
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="SPORTS",Sky Sports Cricket
