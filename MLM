@@ -5,7 +5,7 @@ https://bit.ly/2OkjN0f
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
 https://bit.ly/3sbh5cm
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
-https://bit.ly/39E5wD2
+http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -37,7 +37,7 @@ https://bit.ly/3eVbJxN
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
 https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/AsianetPlus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hcp2Noi.png",ACV Plus 
-https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/chunklist_b996000.m3u8?nimblesessionid=9607724
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6aJB4HK.png",Anand TV     
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
@@ -80,7 +80,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/job4I1s/" group-title="ENGLISH MOVIES",Movies Now HD
 https://bit.ly/3rhZwpz
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/" group-title="ENGLISH MOVIES",Sony Pix HD
-http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126788&e=m3u8
+https://bit.ly/3v48zh4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
@@ -106,7 +106,7 @@ http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/V61Dg4o/" group-title="MUSIC",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AllTF2K.png" group-title="MUSIC",ACV Jukebox
-https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/chunklist.m3u8?nimblesessionid=9607672
+https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="KIDS" ,Discovery Kids
 https://itvorigin.multitvsolution.com/idvo/discoverykidseng_360p/index.m3u8
@@ -141,9 +141,9 @@ https://bit.ly/3w09y26
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png"group-title="SD",Mazhavil Manorama 
-https://bit.ly/2NHjwV0
+https://bit.ly/39E5wD2
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya TV
-http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126909&e=m3u8
+https://bit.ly/3sluZIR
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eFGSh4p/"group-title="SD",Asianet
 https://bit.ly/31dIFK4
 
