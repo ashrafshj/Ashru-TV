@@ -11,7 +11,7 @@ https://bit.ly/3mE0XxK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://bit.ly/3mGs63d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
-https://bit.ly/3uuY0m6
+http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/10123
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali Arabia
 https://itvorigin.multitvsolution.com/idvo/kairaliarabia_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We
@@ -37,7 +37,7 @@ https://bit.ly/2PzaKJr
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
 https://bit.ly/3eVbJxN
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
-https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123735
+https://bit.ly/3wOHrDu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hcp2Noi.png",ACV Plus 
 https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6aJB4HK.png",Anand TV     
@@ -65,11 +65,13 @@ https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F2NjQ17/",National Geographic
 https://bit.ly/3cLK5SF
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/652
+http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/6226
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
 https://itvorigin.multitvsolution.com:443/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
 http://bit.ly/7wild
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
+http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126747&e=m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/9NubtyY/"group-title="HINDI MOVIES",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
@@ -138,7 +140,7 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="SPORTS",Sky Sports Cricket
-http://212.8.253.172:2052/SS-CricketHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793869
+http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/5601
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMYdQAj.png"group-title="SPORTS",beIN Sport 1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
