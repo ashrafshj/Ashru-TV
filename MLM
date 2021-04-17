@@ -5,23 +5,21 @@ https://bit.ly/3g04GVe
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
 https://bit.ly/3sbh5cm
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
-https://bit.ly/3kSR3HI
+https://is.gd/mazhavilm3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers
-https://bit.ly/3mE0XxK
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
-https://bit.ly/3mGs63d
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
 http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/10123
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali Arabia
 https://itvorigin.multitvsolution.com/idvo/kairaliarabia_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We
 https://bit.ly/3a3BkBx
-#EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
-https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD UK
 https://bit.ly/3fDA0co
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
-http://cdn.asianetmobiletvplus.com:80/channels/jaihindtv_zyawlevutjmgcqjuvdllxdrnbpfwegxs/chunks.m3u8
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
@@ -101,8 +99,8 @@ http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
 https://vidgyormedia.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DilSe.png" group-title="MUSIC", Dil Se
-https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="MUSIC",Zing
+http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png" group-title="MUSIC",M4 Malayalam
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music HD
@@ -145,11 +143,11 @@ http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/5601
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png"group-title="SD",Mazhavil Manorama 
-https://bit.ly/39E5wD2
+https://bit.ly/3brx2VD
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eFGSh4p/"group-title="SD",Asianet
 https://bit.ly/2OkjN0f
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya TV
-https://bit.ly/3sluZIR
+https://bit.ly/326T9LG
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="RELIGION",Saudi Quran TV	
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
