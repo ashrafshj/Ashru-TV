@@ -1,13 +1,13 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
 https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rI7ywyz/",Asianet HD
-https://bit.ly/3g04GVe
+http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/10183
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
 https://bit.ly/3sbh5cm
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
-https://bit.ly/3wRyUjd
+https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123757
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers
-https://bit.ly/32tq4dw
+https://bit.ly/3mE0XxK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
@@ -19,7 +19,7 @@ https://bit.ly/3a3BkBx
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
-http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/Stream(01)/index.m3u8
+https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123742
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
@@ -33,21 +33,19 @@ http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=12691
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png",ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
-https://bit.ly/2PzaKJr
+https://is.gd/suryamovie
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
 http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/6251
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
 http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/21537
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hcp2Noi.png",ACV Plus 
 https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/eOFlblR/",Pulari TV     
-https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w881DVW.png",Safari
-http://bit.ly/3safari
+https://is.gd/safariott
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/pFcAsl5/",KCL
