@@ -19,7 +19,7 @@ https://bit.ly/3a3BkBx
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
-https://m3u-editor.com/serve/18c9fa30-83b2-11eb-b87e-1db42fd531a4/238123742
+https://bit.ly/3siRmxy
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
@@ -152,6 +152,6 @@ https://bit.ly/2OkjN0f
 https://is.gd/suryasd
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/aeEWpon/" group-title="RELIGION",Makkah TV
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/download/DicUHEn/"group-title="RELIGION",Quran
-https://bit.ly/39aN8BJ
+http://ip365.cx:80/591479399642519/845556651954303/189926
