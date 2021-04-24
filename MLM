@@ -96,6 +96,8 @@ http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=12691
 http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
 https://vidgyormedia.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/l6xLEMH/" group-title="NEWS",Real News Kerala 
+https://m-c010-j2apps.s.llnwi.net/hls/7082.RealNewskerela.in_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-339
 
