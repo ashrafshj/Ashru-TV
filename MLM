@@ -15,11 +15,11 @@ http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/10123
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali Arabia
 https://itvorigin.multitvsolution.com/idvo/kairaliarabia_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We
-https://bit.ly/3a3BkBx
+https://digi5.nexg.tv/live/_definst_/kairaliwe-w.smil/chunklist_w826530398_b900000_t64SFEgVmlkZW8=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
-http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126928&e=m3u8
+https://digi5.nexg.tv/live/_definst_/jaihind-w.smil/chunklist_w1373609652_b900000_t64SFEgVmlkZW8=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
@@ -87,13 +87,13 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3
 #EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="NEWS",Media One
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+http://bit.ly/24newsott
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
 https://bcovlive-a.akamaihd.net/4850ad1bd94445bfb4fa94732383dead/ap-southeast-1/5574321162001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="NEWS",News 18
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5wweZXu.png" group-title="NEWS",Kairali News
-http://evdibac.com:80/307201107607/307201107607/83869
+https://digi5.nexg.tv/live/_definst_/kairalipeople-w.smil/chunklist_w687765390_b900000_t64SFEgVmlkZW8=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
 https://vidgyormedia.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/l6xLEMH/" group-title="NEWS",Real News Kerala 
