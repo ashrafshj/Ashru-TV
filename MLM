@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
 https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rI7ywyz/",Asianet HD
-https://bit.ly/3wkjOTg
+http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/20209
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
@@ -13,7 +13,7 @@ https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
 http://cloudcdn.tk:80/JCJd0ex114/tj6BHP7630/10123
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali Arabia
-http://stariptv.xyz:8880/661562/505844/179200
+http://212.224.98.196:2200/R-EX/MALAYALAM_KAIRALI_ARABIA-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We
 http://103.199.161.254/Content/we/Live/Channel(We)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
@@ -27,7 +27,7 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w1580274030.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD UK
 https://bit.ly/3ucIpHv
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/", Middle East
-http://iptvtree.net:8080/vpngenerators/635ee5a5e7/267543
+http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_MIDDLE-EAST-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png",ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
@@ -151,9 +151,9 @@ http://85.203.33.88:80/JCJd0ex114/tj6BHP7630/5601
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png"group-title="SD",Mazhavil Manorama 
-http://stariptv.xyz:8880/661562/505844/179252
+http://212.224.98.196:2200/R-EX/MALAYALAM_MAZAVIL_MANORAMA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eFGSh4p/"group-title="SD",Asianet
-http://stariptv.xyz:8880/661562/505844/179360
+https://bit.ly/3wkjOTg
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya TV
 https://is.gd/suryasd
 
