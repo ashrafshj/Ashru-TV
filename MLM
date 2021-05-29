@@ -27,11 +27,11 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w1580274030.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD UK
 https://bit.ly/3ucIpHv
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/", Middle East
-http://iptvtree.net:8080/live/vpngenerators/635ee5a5e7/267543.m3u8
+http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_MIDDLE-EAST-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png",ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
-http://pascaltv.site:8080/F12611/b199b47b/267472
+https://bit.ly/2RiRMqU
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/6251
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
@@ -47,7 +47,7 @@ https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w881DVW.png",Safari
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",DD Malayalam
-http://pascaltv.site:8080/F12611/b199b47b/45499
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/pFcAsl5/",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
@@ -67,7 +67,7 @@ http://85.203.33.88:80/JCJd0ex114/tj6BHP7630/6226
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/7bc58dbc5a41077.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
-http://pascaltv.site:8080/F12611/b199b47b/274140
+http://bit.ly/7wild
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
