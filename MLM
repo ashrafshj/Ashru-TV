@@ -144,14 +144,14 @@ https://bit.ly/2NOCoBm
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rWVNyUo/" group-title="SPORTS",Ten Sports
 http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
-http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/tracks-v1a1/mono.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5afc8461635a6.m3u8
 #EXTINF:0 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="SPORTS",Sky Sports Cricket
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fbad66271edb1ed.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMYdQAj.png"group-title="SPORTS",beIN Sport 1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/"group-title="HD",Mazhavil Manorama HD2
-http://ztvuk.com:8080/live/younis/younis123/31991.ts
+https://bit.ly/3swYoA4
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rI7ywyz/"group-title="HD",Asianet HD2
 http://46.105.112.116/?watch=R-EX/MALAYALAM_ASIANET_HD-in&token=RED_&m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/"group-title="HD",Surya TV HD2
@@ -160,7 +160,7 @@ http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png"group-title="SD",Mazhavil Manorama 
 http://46.105.112.116/?watch=R-EX/MALAYALAM_MAZAVIL_MANORAMA_HD-in&token=RED_&m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eFGSh4p/"group-title="SD",Asianet
-http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/82579
+http://nettv.network:8000/ismail123/123ismail/83523
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya TV
 https://is.gd/suryasd
 
