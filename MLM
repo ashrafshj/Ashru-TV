@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
 https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rI7ywyz/",Asianet HD
-https://bit.ly/3gQbAva
+https://bit.ly/3wkjOTg
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
-https://bit.ly/3gGFTWg
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44919
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
-https://bit.ly/3zHvr8w
+https://bit.ly/3wRyUjd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers 
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -23,7 +23,7 @@ http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/Stream(01)/index.m3
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
-https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w1580274030.m3u8
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44738
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD UK
 https://bit.ly/3ucIpHv
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/", Middle East
@@ -33,11 +33,11 @@ http://mynxg.top:8080/live/c0:97:27:4a:80:ba/KAYODE/21794.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png",ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
-https://bit.ly/3v1bEyk
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44724
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
 https://bit.ly/3iC7Fo1
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
-https://bit.ly/3gS8BlE
+http://mains.vip:2086/live/8386592806/2543983/94827.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/0S1mXKp/",RASI MALAYALAM
 http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hcp2Noi.png",ACV Plus 
@@ -55,9 +55,9 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
 http://mains.vip:2086/live/8386592806/2543983/94794.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",Star Vijay HD 
-https://bit.ly/3gRYKMK
+http://iptv.tvmalaysia.cc:80/932633/932633/8488
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
-https://bit.ly/3zHXKn5
+https://bit.ly/3grpHXr
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033",Zee Thirai
@@ -65,7 +65,7 @@ https://bit.ly/3p1HkRy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/b4f4ac5bc4f9716.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F2NjQ17/",National Geographic
-https://bit.ly/3zJpiso
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ea42b9c4728e76e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
@@ -82,7 +82,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://195.154.221.171/picons/andpictureshd.png",&pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP"group-title="HINDI MOVIES",Sony Max HD
-http://208.115.215.42/SonY_Max_HD/index.m3u8
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/21499
 #EXTINF:-1 tvg-logo="https://imgur.com/download/BEwp4Mj/" group-title="ENGLISH MOVIES", &flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"ENGLISH MOVIES",Star Movies  HD
@@ -129,7 +129,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/f507403366b6e99.
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4RLYmkk/" group-title="KIDS",Kochu TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/4cede23d2af854d.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
-http://pascaltv.site:8080/live/F12611/b199b47b/43081.m3u8
+http://oqab.life:8080/live/321123/123321/3130.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="KIDS",Mr Bean 
 http://bit.ly/5gBean
 
