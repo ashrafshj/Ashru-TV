@@ -29,7 +29,7 @@ https://bit.ly/3ucIpHv
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/", Middle East
 http://ztvuk.com:8080/live/harris/harris123/32029.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama International
-http://mynxg.top:8080/live/c0:97:27:4a:80:ba/KAYODE/21794.ts
+https://is.gd/mazhagcin
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png",ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
@@ -37,7 +37,7 @@ http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44724
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
 http://hottest.fit:8080/itzik/itzik3/26720
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1354
+http://mains.vip:2086/live/8386592806/2543983/94827.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/0S1mXKp/",RASI MALAYALAM
 http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
@@ -51,19 +51,19 @@ http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/Stream(01)/
 #EXTINF:-1 tvg-logo="https://imgur.com/download/pFcAsl5/",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
-http://mains.vip:2086/live/8386592806/2543983/94794.ts
+https://is.gd/suntvgc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",Star Vijay 
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2855
+http://gcs2.xyz:2052/1020304050/1020304050/2455317
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4730
+http://gcs2.xyz:2052/1020304050/1020304050/2671742
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033",Zee Thirai
 http://gcs2.xyz:2052/1020304050/1020304050/2454964
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/b4f4ac5bc4f9716.m3u8
+https://idvd.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F2NjQ17/",National Geographic
-https://bit.ly/3zJpiso
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 http://iptv.tvmalaysia.cc:80/932633/932633/8209
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
@@ -116,12 +116,12 @@ https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music HD
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/V61Dg4o/" group-title="MUSIC",Isai Aruvi
-http://bit.ly/IsaiAruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="MUSIC",Rasi Music
 rtmp://singamcloud.in:1935/rasinetwork/rasimusic
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/f507403366b6e99.m3u8
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47700
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4RLYmkk/" group-title="KIDS",Kochu TV
 https://bit.ly/3vEvxM9
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
