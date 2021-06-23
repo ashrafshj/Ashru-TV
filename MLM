@@ -123,7 +123,7 @@ rtmp://singamcloud.in:1935/rasinetwork/rasimusic
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/47700
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sun_kochu_tv_in.jpg" group-title="KIDS",Kochu TV
-https://bit.ly/3e3KGAe
+https://bit.ly/3vEvxM9
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
 http://54.39.51.30:25461/5492616835156/anL45iGR5d/36642
 
@@ -141,9 +141,9 @@ http://gcs2.xyz:2052/1020304050/1020304050/2455138
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16041
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44711
-#EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six
 https://bit.ly/2NOCoBm
-#EXTINF:-1 tvg-logo="https://imgur.com/download/rWVNyUo/" group-title="SPORTS",Ten Sports
+#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports
 http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
