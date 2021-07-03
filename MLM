@@ -26,8 +26,10 @@ https://streaming37.worldbbtv.com/hls/darshana.m3u8
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg",Surya TV HD UK
 https://is.gd/suryauk17
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama International
+https://is.gd/mazhagcin
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
-http://152.89.62.111:8080/88888/99999/273228
+http://178.62.107.180/woh/index.m3u8?id=47947
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png",Asianet Movies
 http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/6251
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
@@ -49,7 +51,7 @@ http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/Stream(01)/
 #EXTINF:-1 tvg-logo="https://kcltv.com/images/logo.jpg",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9156
+http://178.62.107.180/woh/index.m3u8?id=48012
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",Star Vijay 
 http://89.41.180.253:8080/INDIA_TAMIL/STAR_VIJAY_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
@@ -63,7 +65,7 @@ http://103.153.39.34:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
-http://89.41.180.253:8080/INDIA_HINDI/BBC_EARTH_HD/tracks-v1a1/mono.m3u8
+http://178.62.107.180/woh/index.m3u8?id=48017
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
 http://103.81.104.118/hls/stream6.m3u8
 #EXTINF:-1 tvg-logo="https://is.gd/hTS1dS",Animals Live
@@ -78,13 +80,13 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://195.154.221.171/picons/andpictureshd.png",&pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP"group-title="HINDI MOVIES",Sony Max HD
-http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/21499
+http://178.62.107.180/woh/index.m3u8?id=48151
 #EXTINF:-1 tvg-logo="https://is.gd/Mbk2Se" group-title="ENGLISH MOVIES", &flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"ENGLISH MOVIES",Star Movies  HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="ENGLISH MOVIES",Sony Pix HD
-http://mantul.biz.id:8888/saye/saye/6699
+http://89.41.180.253:8080/INDIA_HINDI/SONY_PIX_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
@@ -128,15 +130,15 @@ https://is.gd/kochutv17
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/111037
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SPORTS",Star Sports 1 
-http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_1_ENGLISH_HD/tracks-v1a1/mono.m3u8
+http://178.62.107.180/woh/index.m3u8?id=48106
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2813
+http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43607
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_1.png" group-title="SPORTS",Star Select 1
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43606
+http://178.62.107.180/woh/index.m3u8?id=48110
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
-http://152.89.62.111:8080/88888/99999/273024
+http://178.62.107.180/woh/index.m3u8?id=48111
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16041
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
@@ -160,7 +162,7 @@ http://89.41.180.253:8080/INDIA_MALAYALAM/ASIANET_HD/tracks-v1a1/mono.m3u8
 http://89.41.180.253:8080/INDIA_MALAYALAM/SURYA_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png"group-title="SD",Mazhavil Manorama 
-http://tigerfights.xyz:2052/Michelle/Michelle/2671633
+http://178.62.107.180/woh/index.m3u8?id=47948
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zP1NfRN.png"group-title="SD",Asianet
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1355
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya 
