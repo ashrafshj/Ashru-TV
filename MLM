@@ -7,7 +7,7 @@ http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/20209
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png",Mazhavil Manorama HD
 http://152.89.62.111:8080/88888/99999/273083
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers 
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3u8
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/8956
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
@@ -23,7 +23,7 @@ http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/Stream(01)/index.m3
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/darshana-tv-channel-logo-300x300.jpg",Darshana TV
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
-http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/8973
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg",Surya TV HD UK
 https://is.gd/suryauk17
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama International
@@ -33,9 +33,7 @@ http://178.62.107.180/woh/index.m3u8?id=47947
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png",Asianet Movies
 http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/6251
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
-http://152.89.62.111:8080/88888/99999/273165
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tx4cb1S/newcanvas-1619629207647-1619856326448.png",RASI MALAYALAM
-http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
+https://bit.ly/3hj1Gma51
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLvsbXbt/Screenshot-2021-04-27-14-36-11-379-com-not-kcvonline-1619601499754.png",KCV MOVIES
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png",ACV
@@ -51,7 +49,7 @@ http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/Stream(01)/
 #EXTINF:-1 tvg-logo="https://kcltv.com/images/logo.jpg",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
-http://178.62.107.180/woh/index.m3u8?id=48012
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9156
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",Star Vijay 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
@@ -63,7 +61,7 @@ https://bit.ly/3xh7tvj17
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
 http://178.62.107.180/woh/index.m3u8?id=48011
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+http://178.62.107.180/woh/index.m3u8?id=48016
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 http://178.62.107.180/woh/index.m3u8?id=48017
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
@@ -71,9 +69,9 @@ https://bit.ly/3dIrAnimal17
 #EXTINF:-1 tvg-logo="https://is.gd/hTS1dS",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
-http://152.89.62.111:8080/88888/99999/273020
+http://178.62.107.180/woh/index.m3u8?id=48009
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16013
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png"group-title="HINDI MOVIES",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
@@ -86,14 +84,14 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"ENGLISH MOVIES",Star Movies  HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="ENGLISH MOVIES",Sony Pix HD
-http://152.89.62.111:8080/88888/99999/272980
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9132
 
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="NEWS",Media One
 https://live.neestream.com/neestream_01/mediaone/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9054
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
 https://bcovlive-a.akamaihd.net/4850ad1bd94445bfb4fa94732383dead/ap-southeast-1/5574321162001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/news18_kerala-1.png" group-title="NEWS",News 18
@@ -127,7 +125,7 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/3967
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sun_kochu_tv_in.jpg" group-title="KIDS",Kochu TV
 https://is.gd/kochutv17
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/111037
+http://cloudcdn.tk:80/en7oOZH298/KghPDo446/29151
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SPORTS",Star Sports 1 
 http://178.62.107.180/woh/index.m3u8?id=48106
@@ -164,7 +162,7 @@ http://178.62.107.180/woh/index.m3u8?id=47949
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png"group-title="SD",Mazhavil Manorama 
 http://178.62.107.180/woh/index.m3u8?id=47948
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zP1NfRN.png"group-title="SD",Asianet
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1355
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43598
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya 
 http://tigerfights.xyz:2052/Michelle/Michelle/2671601
 
