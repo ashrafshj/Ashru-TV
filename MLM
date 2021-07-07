@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png",Zee Keralam HD
 https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg",Asianet HD
-https://is.gd/asianetclient
+http://oqab.life:8080/streaming/clients_live.php?extension=ts&username=58585858&password=58585858&stream=260&type=m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg",Surya TV HD
-http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/20209
+https://bit.ly/3xp5Pclient154
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png",Mazhavil Manorama HD
 http://oqab.life:8080/streaming/clients_live.php?extension=ts&username=58585858&password=58585858&stream=275
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers 
@@ -19,7 +19,7 @@ http://103.199.161.254/Content/we/Live/Channel(We)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="http://ubltv.ae/images/logo/logo.png",UBL TV
 http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
-http://104.218.60.227:83/91595487/07862755/343103.ts
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154251
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/darshana-tv-channel-logo-300x300.jpg",Darshana TV
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
@@ -61,11 +61,11 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033",Zee Thirai
 https://bit.ly/3xh7tvj17
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
-http://178.62.107.180/woh/index.m3u8?id=48011
+http://103.157.237.18:8000/play/509
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+http://103.157.237.18:8000/play/502
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
-http://178.62.107.180/woh/index.m3u8?id=48017
+http://103.157.237.18:8000/play/507
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
 http://103.157.237.18:8000/play/526
 #EXTINF:-1 tvg-logo="https://is.gd/hTS1dS",Animals Live
@@ -73,7 +73,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
 http://144.48.122.22:9981/stream/channelid/337337508
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/212141
+http://oqab.life:8080/streaming/clients_live.php?extension=ts&username=58585858&password=58585858&stream=94&type=m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png"group-title="HINDI MOVIES",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
@@ -132,21 +132,21 @@ http://test.satlok.club:80/testskype1/6q60C0QwC4/56492
 http://103.153.39.34:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SPORTS",Star Sports 1 
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9178
+http://103.157.237.18:8000/play/602
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9179
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9180
+http://103.157.237.18:8000/play/604
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_1.png" group-title="SPORTS",Star Select 1
-http://178.62.107.180/woh/index.m3u8?id=48110
+http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=154049&type=hls
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154050
+http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=154050&type=hls
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
 http://209.145.58.109:25461/omohaktv/App/72
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
 https://bit.ly/3yhe90h85
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six
-http://209.145.58.109:25461/omohaktv/App/169
+http://103.157.237.18:8000/play/617
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports
 http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
