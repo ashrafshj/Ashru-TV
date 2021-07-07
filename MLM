@@ -166,7 +166,7 @@ http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png"group-title="SD",Mazhavil Manorama 
 http://test.satlok.club:80/testskype1/6q60C0QwC4/56409
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zP1NfRN.png"group-title="SD",Asianet
-http://coqtv.tv:8080/streaming/clients_live.php?extension=ts&username=admin_262664&password=22315304&stream=7932&type=hls
+http://104.218.60.227:83/91595487/07862755/343125.ts
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya 
 http://tigerfights.xyz:2052/Michelle/Michelle/2671601
 
