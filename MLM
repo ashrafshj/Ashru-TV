@@ -5,7 +5,7 @@ http://qqtv.nl:8080/streaming/clients_live.php?extension=ts&username=sword&passw
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg",Surya TV HD
 https://bit.ly/3xp5Pclient154
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png",Mazhavil Manorama HD
-http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28469&type=m3u
+http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28469&type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers 
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134233
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -31,7 +31,7 @@ http://test.satlok.club:80/testskype1/6q60C0QwC4/56428
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama International
 https://is.gd/mazhagcin
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
-http://qqtv.nl:8080/streaming/clients_live.php?extension=ts&username=9513&password=9513&stream=67527&type=m3u
+http://qqtv.nl:8080/streaming/clients_live.php?extension=ts&username=9513&password=9513&stream=67527&type=hls
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png",Asianet Movies
 http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/6251
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
@@ -73,7 +73,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
 http://144.48.122.22:9981/stream/channelid/337337508
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
-http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28422&type=m3u
+http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28422&type=hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png"group-title="HINDI MOVIES",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
@@ -132,7 +132,7 @@ http://test.satlok.club:80/testskype1/6q60C0QwC4/56492
 http://103.153.39.34:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SPORTS",Star Sports 1 
-http://qqtv.nl:8080/streaming/clients_live.php?extension=ts&username=9513&password=9513&stream=30630&type=m3u
+http://qqtv.nl:8080/streaming/clients_live.php?extension=ts&username=9513&password=9513&stream=30630&type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9179
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
@@ -157,7 +157,7 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/5601
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="HD",Mazhavil Manorama HD2
-http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=Michelle&password=Michelle&stream=2671633&type=m3u
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=Michelle&password=Michelle&stream=2671633&type=hls
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg"group-title="HD",Asianet HD2
 http://178.62.107.180/woh/index.m3u8?id=47946
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg"group-title="HD",Surya TV HD2
@@ -166,7 +166,7 @@ http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png"group-title="SD",Mazhavil Manorama 
 http://test.satlok.club:80/testskype1/6q60C0QwC4/56409
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zP1NfRN.png"group-title="SD",Asianet
-http://coqtv.tv:8080/streaming/clients_live.php?extension=ts&username=admin_262664&password=22315304&stream=7932&type=m3u8
+http://coqtv.tv:8080/streaming/clients_live.php?extension=ts&username=admin_262664&password=22315304&stream=7932&type=hls
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya 
 http://tigerfights.xyz:2052/Michelle/Michelle/2671601
 
