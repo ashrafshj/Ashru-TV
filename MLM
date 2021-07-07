@@ -134,7 +134,7 @@ http://103.153.39.34:8000/play/a06h/index.m3u8
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SPORTS",Star Sports 1 
 http://qqtv.nl:8080/streaming/clients_live.php?extension=ts&username=9513&password=9513&stream=30630&type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
-http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9179
+http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28333&type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 http://103.157.237.18:8000/play/604
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_1.png" group-title="SPORTS",Star Select 1
