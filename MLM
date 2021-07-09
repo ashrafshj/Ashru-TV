@@ -145,6 +145,8 @@ http://209.145.58.109:25461/omohaktv/App/72
 https://bit.ly/3yhe90h85
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six
 http://103.157.237.18:8000/play/617
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six Malayalam
+http://tamilbreak.com/jiotv/live.php?c=Sony_Six_HD_Malayalam&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports
 http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
