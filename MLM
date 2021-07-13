@@ -5,7 +5,7 @@ http://46.105.112.116/?watch=R-EX/MALAYALAM_ASIANET_HD-in&token=RED&m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg",Surya TV HD
 https://bit.ly/3xp5Pclient154
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png",Mazhavil Manorama HD
-http://smart.hdtv112.com:8080/flussonicperveeti/uWRmys3E6r/28469
+https://jio.instream.ml/jio.php?c=Mazavali_Manorama_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers 
 https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134233
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -31,7 +31,7 @@ http://test.satlok.club:80/testskype1/6q60C0QwC4/56428
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama International
 https://is.gd/mazhagcin
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
-http://178.62.107.180/woh/index.m3u8?id=47947
+https://suntvvodaf-live.s.llnwi.net:443/SuryaMovies/SuryaMovies.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png",Asianet Movies
 http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/6251
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
@@ -86,7 +86,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"ENGLISH MOVIES",Star Movies  HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="ENGLISH MOVIES",Sony Pix HD
-http://116.255.19.70:9981/stream/channelid/447654891?profile=pass
+http://103.153.39.34:8000/play/a05n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
@@ -123,7 +123,7 @@ http://test.satlok.club:80/testskype1/6q60C0QwC4/56481
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
 http://103.157.237.18:8000/play/401
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sun_kochu_tv_in.jpg" group-title="KIDS",Kochu TV
-https://bit.ly/3vEvx17
+https://suntvvodaf-live.s.llnwi.net:443/KochuTV/KochuTV.isml/manifest.mpd
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
 http://test.satlok.club:80/testskype1/6q60C0QwC4/56492
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
@@ -142,13 +142,13 @@ https://bit.ly/3jxu8m152
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
 http://209.145.58.109:25461/omohaktv/App/72
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-http://85.131.123.13:9981/stream/channelid/2439489?ticket=B4136DA1F17DD11EE888537580D210C155D91BE1
+http://top.funtogether.xyz:8080/tomasiptv2021/hgHgyhg12hsgZX/43595
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six
 http://103.157.237.18:8000/play/617
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports
 http://ky-tv.cc:25461/kathryn/kathryn/770479
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
-http://test.satlok.club:80/testskype1/6q60C0QwC4/6044
+http://cdn2.niazitv.pk:786/PTV-Sports/index.m3u8
 #EXTINF:0 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="SPORTS",Sky Sports Cricket
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/5601
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMYdQAj.png"group-title="SPORTS",beIN Sport 1
@@ -162,12 +162,12 @@ https://bit.ly/3r0x15231
 http://46.105.112.116/?watch=R-EX/MALAYALAM_SURYA_HD-in&token=RED&m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png"group-title="SD",Mazhavil Manorama 
-http://bosstr.net:80/cat54/DpbYpXOhHn/56409
+http://46.105.112.116/?watch=R-EX/MALAYALAM_MAZAVIL_MANORAMA_HD-in&token=RED&m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zP1NfRN.png"group-title="SD",Asianet
-http://portal.geniptv.com:8080/streaming/clients_live.php?extension=ts&username=greenpoison8&password=GZprWONABH&stream=43598&type=hls
+http://top.funtogether.xyz:8080/tomasiptv2021/hgHgyhg12hsgZX/1355
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya TV
-http://smart.hdtv112.com:8080/flussonicperveeti/uWRmys3E6r/28058
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya TV
+https://suntvvodaf-live.s.llnwi.net:443/SuryaTV/SuryaTV.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya 
 http://ky-tv.cc:25461/kathryn/kathryn/770457
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="RELIGION",Makkah TV
