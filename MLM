@@ -25,9 +25,9 @@ https://streaming37.worldbbtv.com/hls/darshana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg",Surya TV HD USA
-http://watchindia.net:8880/live/33253/72963/1938.m3u8
+https://bit.ly/3ucIpHv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg",Asianet HD USA
-http://watchindia.net:8880/live/33253/72963/1300.m3u8
+http://watchindia.net:8880/33253/72963/1300
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png",Asianet Middle East
 http://46.105.112.116/?watch=R-EX/MALAYALAM_ASIANET_MIDDLE-EAST-in&token=RED&m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama International
@@ -163,7 +163,7 @@ https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="HD",Mazhavil Manorama HD2
 https://bit.ly/3w152185
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg"group-title="HD",Asianet HD2
-http://watchindia.net:8880/live/33253/72963/2216.m3u8
+https://bit.ly/2TjyCshqip
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg"group-title="HD",Surya TV HD2
 http://46.105.112.116/?watch=R-EX/MALAYALAM_SURYA_HD-in&token=RED&m3u8
 
