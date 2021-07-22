@@ -167,7 +167,7 @@ http://rv.imax.re:80/307202026125/307202026125/83889
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg"group-title="HD",Asianet HD2
 https://bit.ly/3r0x15231
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg"group-title="HD",Surya TV HD2
-http://rv.flysat.live/307211611126/307211611126/83883
+http://rv.imax.re:80/307211611126/307211611126/83883
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png"group-title="SD",Mazhavil Manorama 
 http://tamilbreak.com/jiotv/live.php?c=Mazhavil_Manorama&q=1200&e=.m3u8
