@@ -5,7 +5,7 @@ http://212.102.60.40:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg",Surya TV HD
 http://104.218.60.227:83/91595487/07862755/343118.ts
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png",Mazhavil Manorama HD
-http://smart.hdtv112.com:8080/flussonicperveeti/uWRmys3E6r/28469
+http://185.66.90.173:8080/Tiff123/Tiff123/273083
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers 
 http://rv.imax.re/307202026125/307202026125/83892
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -59,7 +59,7 @@ https://suntvvodaf-live.s.llnwi.net:443/SunTV/SunTV.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",Star Vijay HD
 http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
-http://smart.hdtv112.com:8080/flussonicperveeti/uWRmys3E6r/28406
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4316
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033",Zee Thirai
@@ -150,27 +150,29 @@ https://bit.ly/3jxu8m152
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
 http://209.145.58.109:25461/omohaktv/App/72
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-http://199.66.95.242:80/3/3094/index.m3u8?token=test
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/40172.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six
 http://103.157.237.18:8000/play/617
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports
-http://rv.imax.re:80/307206155225/307206155225/84029
+http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4377
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 http://212.224.98.206:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=
 #EXTINF:0 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="SPORTS",Sky Sports Cricket
 http://152.89.62.111:8080/88888/99999/222612
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMYdQAj.png"group-title="SPORTS",beIN Sport 1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/12/Olympicchannel-e1515173140414.jpg"group-title="SPORTS",Olympic
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/681568.ts
 
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="HD",Mazhavil Manorama HD2
-http://rv.imax.re:80/307202026125/307202026125/83889
+http://rv.imax.re:80/307206155225/307206155225/83889
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg"group-title="HD",Asianet HD2
 https://bit.ly/3r0x15231
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg"group-title="HD",Surya TV HD2
 http://rv.imax.re:80/307211611126/307211611126/83883
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png"group-title="SD",Mazhavil Manorama 
-http://tamilbreak.com/jiotv/live.php?c=Mazhavil_Manorama&q=1200&e=.m3u8
+https://bit.ly/3lBD21M
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zP1NfRN.png"group-title="SD",Asianet
 http://smart.hdtv112.com:8080/flussonicperveeti/uWRmys3E6r/27943
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya TV
