@@ -74,7 +74,7 @@ http://103.157.237.18:8000/play/507
 http://103.157.237.18:8000/play/526
 #EXTINF:-1 tvg-logo="https://is.gd/hTS1dS",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",NAT GEO Wild HD
 http://103.157.237.18:8000/play/503
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
 http://116.255.19.70:9981/stream/channelid/1023159033?profile=pass
