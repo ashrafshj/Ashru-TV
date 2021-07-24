@@ -78,8 +78,10 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 http://103.157.237.18:8000/play/503
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
 http://116.255.19.70:9981/stream/channelid/1023159033?profile=pass
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png",Live 4K Natural 
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCyupwg56cb-DKlz8fg09Vbw
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
+http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png", Love Nature HD
+https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png"group-title="HINDI MOVIES",Zee Cinema
 https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
@@ -150,11 +152,11 @@ https://bit.ly/3jxu8m152
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
 http://209.145.58.109:25461/omohaktv/App/72
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-http://bosstr.net:80/cat54/DpbYpXOhHn/6046
+http://103.157.237.18:8000/play/613
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six
 http://103.157.237.18:8000/play/617
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports
-http://rv.imax.re:80/307206155225/307206155225/84029
+http://smart.hdtv112.com:8080/flussonicperveeti/uWRmys3E6r/28351
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 http://212.224.98.206:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=
 #EXTINF:0 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="SPORTS",Sky Sports Cricket
@@ -162,7 +164,7 @@ http://152.89.62.111:8080/88888/99999/222612
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMYdQAj.png"group-title="SPORTS",beIN Sport 1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/12/Olympicchannel-e1515173140414.jpg"group-title="SPORTS",Olympic
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/681568.ts
+http://212.224.98.209:2200/AFR-EX/SuperSport_Grandstand_FHD-dstv/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="HD",Mazhavil Manorama HD2
 http://rv.imax.re:80/307206155225/307206155225/83889
