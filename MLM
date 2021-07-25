@@ -5,7 +5,7 @@ http://212.102.60.40:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg",Surya TV HD
 http://104.218.60.227:83/91595487/07862755/343118.ts
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png",Mazhavil Manorama HD
-http://smart.hdtv112.com:8080/flussonicperveeti/uWRmys3E6r/28471
+http://185.180.15.14:2200/R-EX/MALAYALAM_MAZAVIL_MANORAMA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers 
 http://rv.imax.re/307202026125/307202026125/83892
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -172,7 +172,7 @@ https://is.gd/asianetclient
 http://rv.imax.re:80/307211611126/307211611126/83883
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png"group-title="SD",Mazhavil Manorama 
-https://bit.ly/3lBD21M
+http://smart.hdtv112.com:8080/flussonicperveeti/uWRmys3E6r/28012
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zP1NfRN.png"group-title="SD",Asianet
 http://smart.hdtv112.com:8080/flussonicperveeti/uWRmys3E6r/27943
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya TV
