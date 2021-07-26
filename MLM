@@ -144,7 +144,7 @@ http://portal.alliptvapp.com:8080/live/613607218194/666579067773/39082.m3u8
 http://103.153.39.34:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SPORTS",Star Sports 1 
-http://104.218.60.227:83/91595487/07862755/355933.ts
+http://tv.pmcon.net/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
 http://104.218.60.227:83/91595487/07862755/355934.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
