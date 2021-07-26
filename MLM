@@ -138,17 +138,17 @@ http://portal.alliptvapp.com:8080/live/613607218194/666579067773/39082.m3u8
 http://103.153.39.34:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SPORTS",Star Sports 1 
-http://103.153.39.34:8000/play/a040/index.m3u8
+http://104.218.60.227:83/91595487/07862755/355933.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
 http://104.218.60.227:83/91595487/07862755/355934.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-http://104.218.60.227:83/91595487/07862755/355933.ts
+http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_1.png" group-title="SPORTS",Star Select 1
-http://103.153.39.34:8000/play/a05p/index.m3u8
+http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
 http://104.218.60.227:83/91595487/07862755/386620.ts
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
-http://tigeriptv.vip:8080/6162/6162/147841
+http://tv.pmcon.net/hls/stream40.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
 http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six
