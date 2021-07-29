@@ -31,7 +31,7 @@ http://smart.hotfeb.xyz:80/h21041003/651032140/246107
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/darshana-tv-channel-logo-300x300.jpg",Darshana TV
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
-http://smart.hdtv112.com:8080/flussonicperveeti/uWRmys3E6r/28460
+https://5d00db0e0fcd5.streamlock.net/7332/7332/chunklist_w467830311.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg",Surya TV HD USA
 http://watchindia.net:8880/live/33253/72963/1938.rtmp
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg",Asianet HD USA
@@ -92,12 +92,12 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"ENGLISH MOVIES",Star Movies  HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="ENGLISH MOVIES",Sony Pix HD
-http://103.153.39.34:8000/play/a05n/index.m3u8
+https://is.gd/ObFrpt
 
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="NEWS",Media One
-https://live.neestream.com/neestream_01/mediaone/tracks-v1a1/mono.m3u8
+http://tiny.cc/mediaone
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
 http://tiny.cc/24newstube
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
@@ -133,7 +133,7 @@ http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
 https://suntvvodaf-live.s.llnwi.net:443/KochuTV/KochuTV.isml/manifest.mpd
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
-http://my.streamerstv.com:25461/Bob123/Bob123/2700
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/22275
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
 http://103.153.39.34:8000/play/a06h/index.m3u8
 
