@@ -39,7 +39,7 @@ http://watchindia.net:8880/live/33253/72963/1938.rtmp
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg",Asianet HD USA
 http://watchindia.net:8880/live/33253/72963/1300.rtmp
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
-https://suntvvodaf-live.s.llnwi.net:443/SuryaMovies/SuryaMovies.isml/manifest.mpd
+http://hottest.fit:8080/itzik/itzik3/26717
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png",Asianet Movies
 http://rv.imax.re:80/307202026125/307202026125/83886
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
@@ -54,12 +54,12 @@ https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://kcltv.com/images/logo.jpg",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV 
-https://suntvvodaf-live.s.llnwi.net:443/SunTV/SunTV.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/10175
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",Star Vijay HD
 http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/2855.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV 
-https://suntvvodaf-live.s.llnwi.net:443/KTV/KTV.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
+http://smart.hdtv112.com:8080/flussonicperveeti/uWRmys3E6r/28406
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033",Zee Thirai
