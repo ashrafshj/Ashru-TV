@@ -23,7 +23,7 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/10123
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali Arabia
 https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We
-http://14.199.164.20:4001/play/a0l4/index.m3u8
+http://hottest.fit:8080/itzik/itzik3/26710
 #EXTINF:-1 tvg-logo="http://ubltv.ae/images/logo/logo.png",UBL TV
 http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
@@ -71,7 +71,7 @@ http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 http://visioncable2020.com:25461/moznu43/PA2443/714
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
-http://visioncable2020.com:25461/moznu43/PA2443/2630
+https://idvd.multitvsolution.com/idvo/animalplaneteng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://is.gd/hTS1dS",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",NAT GEO Wild HD
@@ -169,8 +169,8 @@ http://104.218.60.227:83/91595487/07862755/336125.ts
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png"group-title="SD",Mazhavil Manorama 
-http://14.199.164.20:4001/play/a0pa/index.m3u8
+http://hottest.fit:8080/itzik/itzik3/26704
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya TV
-https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9018
+http://hottest.fit:8080/itzik/itzik3/26695
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_SD.png"group-title="SD",Asianet
 http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/43598.m3u8
