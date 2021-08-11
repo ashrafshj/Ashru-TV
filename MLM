@@ -63,13 +63,13 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033",Zee Thirai
 https://bit.ly/2Uq4rv125
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
-http://pelicanhosting.xyz:80/gfqonnad/7685216494/456813
+http://103.81.104.118/hls/stream9.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
-http://103.153.39.34:8000/play/a04h/index.m3u8
+http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
-http://visioncable2020.com:25461/moznu43/PA2443/714
+http://103.81.104.118/hls/stream5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
-https://idvd.multitvsolution.com/idvo/animalplaneteng_540p/index.m3u8
+http://103.81.104.118/hls/stream6.m3u8
 #EXTINF:-1 tvg-logo="https://is.gd/hTS1dS",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",NAT GEO Wild HD
@@ -131,9 +131,9 @@ http://14.199.164.20:4001/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
 http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
-http://rv.flysat.live/307220751221/307220751221/83890
+http://rv.imax.re:80/307202026125/307202026125/83890
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/43145
+http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/31750
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
 http://103.153.39.34:8000/play/a06h/index.m3u8
 
@@ -156,13 +156,9 @@ http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/33282
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports
 http://rv.imax.re:80/307206155225/307206155225/84029
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/33261
-#EXTINF:0 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="SPORTS",Sky Sports Cricket
-http://smart.hdtv112.com:8080/flussonicperveeti/uWRmys3E6r/20931
+http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMYdQAj.png"group-title="SPORTS",beIN Sport 1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/12/Olympicchannel-e1515173140414.jpg"group-title="SPORTS",Olympic
-http://104.218.60.227:83/91595487/07862755/336125.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="RELIGION",Makkah TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
 
