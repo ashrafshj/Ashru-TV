@@ -15,7 +15,7 @@ http://14.199.164.20:4001/play/a0p9/index.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vOL5sff5uxU/VdrhyD5kB7I/AAAAAAAAOwo/C86IZXlu-HU/s1",Mazhavil Manorama 
 http://rv.imax.re:80/307202026125/307202026125/83889
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers 
-https://luckonline.eu/live/KjPypddrq4/8p1pLrAVDh/727.m3u8
+http://104.218.60.227:83/91595487/07862755/343106.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
@@ -41,7 +41,7 @@ http://watchindia.net:8880/live/33253/72963/1300.m3u8
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
 http://bosstr.net:80/cat54/DpbYpXOhHn/5090
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png",Asianet Movies
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/9243.m3u8
+http://rv.imax.re:80/694012161735110/694012161735110/83886
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
 https://indo51.gcdn.co/MALYLAM-AsianetPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLvsbXbt/Screenshot-2021-04-27-14-36-11-379-com-not-kcvonline-1619601499754.png",KCV MOVIES
@@ -57,7 +57,7 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live1/chun
 #EXTINF:-1 tvg-logo="https://cutt.ly/jQxoYWz",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
-https://luckonline.eu/live/KjPypddrq4/8p1pLrAVDh/775.m3u8
+http://bosstr.net:80/cat54/DpbYpXOhHn/26998
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",Star Vijay HD
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/10174
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
@@ -144,7 +144,7 @@ http://103.153.39.34:8000/play/a06h/index.m3u8
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SPORTS",Star Sports 1 
 https://bit.ly/3hst185
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
-https://luckonline.eu/live/KjPypddrq4/8p1pLrAVDh/1371.m3u8
+https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/1371
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 http://103.81.104.118/hls/stream16.m3u8
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_1.png" group-title="SPORTS",Star Select 1
