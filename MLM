@@ -15,7 +15,7 @@ http://one.d4k4u.com:2082/6949003927915110/1y7gicb9l086jhc/241552
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama 
 https://indo51.gcdn.co/MALYLAM-MAZHAVILMANORAMA/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers 
-http://portal-nasaiptv.com:8080/elias/elias1234/26716
+http://nicefly.xyz:80/h21041003/651032140/274028
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
@@ -23,7 +23,7 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/10123
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali Arabia
 https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We
-http://one.d4k4u.com:2082/live/6949003927915110/1y7gicb9l086jhc/241592.ts
+http://14.199.164.20:4001/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/75/70/9a/75709aa35a72d142bad53a13a7cc7327.jpg",UBL TV
 https://cdn.logicwebs.in/hls/ublhdkey.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
@@ -47,7 +47,7 @@ https://indo51.gcdn.co/MALYLAM-AsianetPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLvsbXbt/Screenshot-2021-04-27-14-36-11-379-com-not-kcvonline-1619601499754.png",KCV MOVIES
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
 #EXTINF: -1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/mbo.jpg", MBO HD
-http://watchindia.net:8880/live/60275/20486/2156.m3u8
+http://watchindia.net:8880/live/60275/20486/2156.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jAMKVwM.png",Kite-Victers
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
@@ -57,7 +57,7 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live1/chun
 #EXTINF:-1 tvg-logo="https://cutt.ly/jQxoYWz",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
-http://one.d4k4u.com:2082/6949003927915110/1y7gicb9l086jhc/241579
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/10175
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",Star Vijay HD
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/10174
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
@@ -77,7 +77,7 @@ https://cutt.ly/PQ3KUYF
 #EXTINF:-1 tvg-logo="https://is.gd/hTS1dS",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",NAT GEO Wild HD
-http://mantul.biz.id:8888/syaiful2/syaiful2/10220
+http://one.d4k4u.com:2082/6949003927915110/1y7gicb9l086jhc/46853
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
 http://hottest.fit:8080/itzik/itzik3/34501
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
@@ -137,7 +137,7 @@ http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
 http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/154261
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
-http://mantul.biz.id:8888/syaiful2/syaiful2/8461
+http://nicefly.xyz:80/h21041003/651032140/260755
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
 http://103.153.39.34:8000/play/a06h/index.m3u8
 
@@ -146,9 +146,9 @@ https://bit.ly/3hst185
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
 https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/1371
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-http://173.199.120.51/hls/chss2.m3u8
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/10165
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_1.png" group-title="SPORTS",Star Select 1
-http://178.79.161.66/woh/index.m3u8?id=48110
+http://hottest.fit:8080/itzik/itzik3/12048
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
 http://appleiptv.com:25461/0357/0357/42949
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
