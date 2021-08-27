@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
+#EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png",Zee Keralam HD
 https://y5w8j4a9.ssl.hwcdn.net/zkeralamhd/tracks-v1a1/index.m3u8
