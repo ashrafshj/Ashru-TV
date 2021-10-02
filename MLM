@@ -13,7 +13,7 @@ http://homeplex.live:8080/4427hb1reh/QfCXQDjBTV/26695
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/01/MAZHAVILHD-185x278.jpg",Mazhavil Manorama HD
 https://rebrand.ly/mlmhd1
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama 
-http://www.luckonline.eu:80/Anil/FrCRlmpWHH/365
+http://62.176.93.133:8004/play/a03w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
 https://rebrand.ly/flwrs
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -36,12 +36,10 @@ http://62.176.93.133:8004/play/a03v
 http://62.176.93.133:8004/play/a03q
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama International
 http://62.176.93.133:8004/play/a03w
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg",Surya TV HD USA
-https://indo51.gcdn.co/MALYLAM-SuryaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
 http://bosstr.net:80/cat54/DpbYpXOhHn/5090
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png",Asianet Movies
-http://clientportal.link:80/ARopcevic/BOjHUm997/6251
+https://rebrand.ly/asntmovies
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
 http://c.proserver.in:8080/testm/testm/12054
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLvsbXbt/Screenshot-2021-04-27-14-36-11-379-com-not-kcvonline-1619601499754.png",KCV MOVIES
@@ -69,7 +67,7 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
-http://www.luckonline.eu:80/Anil/FrCRlmpWHH/620
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
@@ -77,9 +75,9 @@ http://rubeliptv.zapto.org:25461/ips7/44332277/349
 #EXTINF:-1 tvg-logo="https://is.gd/hTS1dS",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",NAT GEO Wild HD
-http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1637
+https://rebrand.ly/ngwild-hd
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
-http://eurotv.vip:80/60/60/51673
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/543
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
 http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png", Love Nature HD
@@ -96,7 +94,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"ENGLISH MOVIES",Star Movies  HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="ENGLISH MOVIES",Sony Pix HD
-http://rubeliptv.zapto.org:25461/ips7/44332277/926
+https://rebrand.ly/snypx-hd
 
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
@@ -130,19 +128,19 @@ https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="MUSIC",Sun Music HD
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="MUSIC",Isai Aruvi
-http://62.176.93.133:8004/play/a004
+http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/2412
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
 http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
 http://qqtv.nl:8080/shah/shah123/410614
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
-http://c.proserver.in:8080/testm/testm/244830
+https://rebrand.ly/jerry-1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
 http://103.153.39.34:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SPORTS",Star Sports 1 
-https://rebrand.ly/ss1-hd
+https://rebrand.ly/ss-hd1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
 http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1065
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
@@ -152,11 +150,11 @@ http://hello.exodus-2.xyz:8080/play/live.php?mac=00:1A:79:78:68:2D&stream=574127
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_1.png" group-title="SPORTS",Star Select 1
 http://rubeliptv.zapto.org:25461/ips7/44332277/179
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
-http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1315
+http://pakiptv.top:8880/123123/123123/8585
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
-http://www.luckonline.eu:80/Anil/FrCRlmpWHH/497
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-http://www.luckonline.eu:80/Anil/FrCRlmpWHH/513
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports
