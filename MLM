@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml"
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png",Zee Keralam HD
-https://live.picasotv.xyz/zeetv/index.php?c=0-9-129
+https://zee5-rds.herokuapp.com/?c=0-9-129
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/Asianet-HD-Logo-1-2.jpg",Asianet HD
 https://rebrand.ly/asnthd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Asianet%28TVchannel%29Logo.jpg",Asianet
@@ -15,7 +15,7 @@ https://rebrand.ly/mlmhd1
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama 
 https://rebrand.ly/mazhavilsd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
-https://rebrand.ly/flwrs
+rtsp://46.249.213.93/broadcast/indianstudentcinema-tablet.3gp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
@@ -135,7 +135,7 @@ http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/2412
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
 http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
-http://51.81.84.166:8880/live/54739/54739/290.m3u8
+https://indxtv.com/sun/sunnxt_mhdtv.m3u8?id=26573
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
 https://rebrand.ly/jerry-1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
