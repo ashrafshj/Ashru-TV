@@ -147,6 +147,8 @@ http://eurotv.vip:80/60/60/51530
 http://eurotv.vip:80/60/60/53259
 #EXTINF:0 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="SPORTS",Sky Sports Cricket
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIdPx79sCr4VGEyzwttdwXvSo-Bdrpnsktg&usqp=CAU" group-title="SPORTS",Sports LIVE 
+https://rebrand.ly/yuppipl
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_1.png" group-title="SPORTS",Star Select 1
 http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1125
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
