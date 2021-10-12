@@ -46,6 +46,8 @@ https://rebrand.ly/ASplus
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/06/images-1-7-1-185x278.png",Nee Cinema
 https://live.neestream.com/neestream_01/nee_cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/09/dreamtv-1-185x278.webp",Dream TV
+ https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jAMKVwM.png",Kite-Victers
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
