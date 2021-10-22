@@ -27,7 +27,7 @@ https://live.neestream.net/neestream_01/kairaliwe/index.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/05/ublhd-185x278.jpg",UBL TV
 https://cdn.logicwebs.in/hls/ublhdkey.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
-http://free.fullspeed.tv/query?url=https://www.youtube.com/watch?v=gJ52wWMr4Tg
+http://14.199.164.20:4001/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/darshana-tv-channel-logo-300x300.jpg",Darshana TV
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
