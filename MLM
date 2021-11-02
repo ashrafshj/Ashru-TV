@@ -15,7 +15,7 @@ https://rebrand.ly/mazhavil-hd
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama 
 https://rebrand.ly/mazhavil-sd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
-https://rebrand.ly/flowers-1
+https://rebrand.ly/flowers-2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
@@ -73,7 +73,7 @@ https://rebrand.ly/Animal-2
 #EXTINF:-1 tvg-logo="https://is.gd/hTS1dS",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",NAT GEO Wild HD
-https://rebrand.ly/wild-1
+https://rebrand.ly/wild-01
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
 http://nicefly.xyz:80/h21041003/651032140/246233
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
@@ -133,7 +133,7 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8258
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
 http://139.59.55.243/sunnxt/live.php?c=26573
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
-https://rebrand.ly/jerry-2
+https://rebrand.ly/jerry-3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
@@ -146,11 +146,11 @@ http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7870
 #EXTINF: -1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="SPORTS", Willow HD
 http://nicefly.xyz:80/h21041003/651032140/246246
 #EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png" group-title="SPORTS",Sports LIVE 
-https://rebrand.ly/sports-live
+https://rebrand.ly/live-2
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_1.png" group-title="SPORTS",Star Select 1
-http://thespeedmedia.watch:2086/0786/0786/91772
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7872
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
-http://thespeedmedia.watch:2086/0786/0786/91774
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7873
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
@@ -167,4 +167,4 @@ http://pyramidsiptv.com:8080/mohamed/mohamed123/80024
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="RELIGION",Makkah TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQqN-BwwycrSRYM_ElHRwmqF7BZvcTRSZBFh0nt0A=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGION",Ilmu TV
-https://rebrand.ly/lmu-tv
+https://rebrand.ly/ilmu-1
