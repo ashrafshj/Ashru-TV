@@ -3,17 +3,17 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png",Zee Keralam HD
 https://zee5-rds.herokuapp.com/?c=0-9-129
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/Asianet-HD-Logo-1-2.jpg",Asianet HD
-https://rebrand.ly/asianet-hd
+https://rebrand.ly/asianet-hd1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Asianet%28TVchannel%29Logo.jpg",Asianet
 https://rebrand.ly/asianet-sd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/53/fc/b7/53fcb74191dd34d3a251bf901b52117b.jpg",Surya TV HD
-https://rebrand.ly/surya-hd
+https://rebrand.ly/surya-fhd
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg",Surya TV
 https://rebrand.ly/surya-sd
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/01/MAZHAVILHD-185x278.jpg",Mazhavil Manorama HD
-https://rebrand.ly/mazhavil-hd
+https://rebrand.ly/mazhavil-hd1
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama 
-https://rebrand.ly/mazhavil-sd
+https://rebrand.ly/mazhavil 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
 https://rebrand.ly/flowers-2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -65,7 +65,7 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/1.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
-http://rv.flysat.live:80/307211171310/307211171310/83645
+https://rebrand.ly/Geographic-hd
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
@@ -75,7 +75,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",NAT GEO Wild HD
 https://rebrand.ly/wild-01
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
-http://nicefly.xyz:80/h21041003/651032140/246233
+https://rebrand.ly/travel-hd
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png", Love Nature HD
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
@@ -134,9 +134,9 @@ https://rebrand.ly/jerry-3
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SPORTS",Star Sports 1 
-https://rebrand.ly/ssports-hd
+https://rebrand.ly/ssports-hd1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
-http://nicefly.xyz:80/h21041003/651032140/246218
+https://tinyurl.com/ss-hdhindi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7870
 #EXTINF: -1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="SPORTS", Willow HD
@@ -144,9 +144,9 @@ http://nicefly.xyz:80/h21041003/651032140/246246
 #EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png" group-title="SPORTS",Sports LIVE 
 https://rebrand.ly/live-2
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="SPORTS",Star Select 1
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7872
+https://tinyurl.com/sselect-hd
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7873
+https://tinyurl.com/sselect-hd2
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
