@@ -42,7 +42,7 @@ http://nicefly.xyz:80/h21041003/651032140/246013
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/167
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLvsbXbt/Screenshot-2021-04-27-14-36-11-379-com-not-kcvonline-1619601499754.png",KCV MOVIES
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="https://tinyurl.com/3dsjpf4w",One TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/6upkb26w",One TV
 http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/06/images-1-7-1-185x278.png",Nee Cinema
 https://live.neestream.com/neestream_01/nee_cinema/tracks-v1a1/mono.m3u8
@@ -65,11 +65,11 @@ https://sneh-zee5tv-1.up.railway.app?c=0-9-224&m3u8
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
-https://feed.play.mv/live/10005200/2Lkn0sCJBz/1.m3u8
+https://tinyurl.com/disc-hd
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
 https://rebrand.ly/Geographic-hd
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
-https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+#EXTINF:-1 tvg-logo="https://assets.rstream.me/images/j/UeCAqrmAQX.png",Sony BBC Earth HD
+https://tinyurl.com/sony-bbc-hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
 https://tinyurl.com/animel-hd
 https://rebrand.ly/Animal-2
