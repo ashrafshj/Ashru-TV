@@ -98,7 +98,7 @@ https://tinyurl.com/sony-pix
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="NEWS",Media One
-https://live.neestream.com/neestream_01/mediaone/tracks-v1a1/mono.m3u8
+http://free.fullspeed.tv/query?url=https://www.youtube.com/watch?v=Bx-DLhILG8g
 #EXTINF:-1 tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" group-title="NEWS",24 News
 http://free.fullspeed.tv/query?url=https://www.youtube.com/watch?v=zcrUCvBD16k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
