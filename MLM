@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml"
+#EXTM3U url-tvg="https://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png",Zee Keralam HD
 https://zee5-rds.herokuapp.com/?c=0-9-129
