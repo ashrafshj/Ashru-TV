@@ -69,9 +69,9 @@ https://tinyurl.com/disc-hd
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
 https://rebrand.ly/Geographic-hd
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/j/UeCAqrmAQX.png",Sony BBC Earth HD
-https://tinyurl.com/sony-bbc-hd
+https://bit.ly/sonybbc-tamil
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
-https://tinyurl.com/animel-hd
+https://bit.ly/animal-tamil
 https://rebrand.ly/Animal-2
 #EXTINF:-1 tvg-logo="https://is.gd/hTS1dS",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
@@ -89,11 +89,11 @@ https://zee5-rds.herokuapp.com/?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP"group-title="HINDI MOVIES",Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://is.gd/Mbk2Se" group-title="ENGLISH MOVIES", &flix HD
-https://sneh-zee5tv-1.up.railway.app?c=0-9-channel_2105335046&m3u8
+http://ns561850.ip-54-39-158.net:8080/manu99/manu99/7252
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"ENGLISH MOVIES",Star Movies  HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="ENGLISH MOVIES",Sony Pix HD
-https://tinyurl.com/sony-pix
+https://bit.ly/sony-pix
 
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
@@ -141,17 +141,17 @@ https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SPORTS",Star Sports 1 
 https://rebrand.ly/ssports-hd1
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/ohdHWeJtjZ.png" group-title="SPORTS",Star Sports 1 Hindi
-https://tinyurl.com/ss-hdhindi
+https://bit.ly/ss-hindi-hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-https://tinyurl.com/ssports-2-hd
+https://bit.ly/ssports-2
 #EXTINF: -1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="SPORTS", Willow HD
 http://nicefly.xyz:80/h21041003/651032140/246246
 #EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png" group-title="SPORTS",Sports LIVE 
 https://rebrand.ly/live-2
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="SPORTS",Star Select 1
-https://tinyurl.com/sselect-hd
+https://bit.ly/ssselect-1
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
-https://tinyurl.com/sselect-hd2
+https://bit.ly/ssselect-2
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
@@ -166,6 +166,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5221
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80024
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="RELIGION",Makkah TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQqN-BwwycrSRYM_ElHRwmqF7BZvcTRSZBFh0nt0A=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGION",Ilmu TV
 https://rebrand.ly/ilmu-1
