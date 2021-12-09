@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png",Zee Keralam HD
-https://rebrand.ly/zee-keralam
+https://bit.ly/zkeralam
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/Asianet-HD-Logo-1-2.jpg",Asianet HD
 https://rebrand.ly/asianet-hd1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Asianet%28TVchannel%29Logo.jpg",Asianet
@@ -11,11 +11,11 @@ https://rebrand.ly/surya-fhd
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg",Surya TV
 https://rebrand.ly/Surya-tv
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/WYYWyNWeUy.png",Mazhavil Manorama HD
-https://rebrand.ly/mazhavil-hd1
+https://tinyurl.com/mazhavil-hd
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama 
 https://rebrand.ly/mazhavil 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
-https://rebrand.ly/flowers-2
+https://bit.ly/flowers-TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
@@ -55,9 +55,9 @@ https://live.neestream.net/neestream_01/safaritv/index.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://cutt.ly/jQxoYWz",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV 
-https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/37347
+https://tinyurl.com/sun-tata
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",Star Vijay HD
-https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/37345
+http://208.115.215.42/Vijay_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV 
 https://rebrand.ly/ktv-tata
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033",Zee Thirai
@@ -85,11 +85,11 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png"group-title="HINDI MOVIES",Zee Cinema
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://195.154.221.171/picons/andpictureshd.png",&pictures 
-https://zee5-rds.herokuapp.com/?c=0-9-tvpictureshd
+http://208.86.19.21:80/705.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP"group-title="HINDI MOVIES",Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://is.gd/Mbk2Se" group-title="ENGLISH MOVIES", &flix HD
-https://snehz5tv.herokuapp.com/?c=0-9-channel_2105335046
+http://103.157.210.165:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"ENGLISH MOVIES",Star Movies  HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="ENGLISH MOVIES",Sony Pix HD
@@ -134,9 +134,9 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8258
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
 http://139.59.55.243/sunnxt/live.php?c=26573
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
-https://rebrand.ly/jerry-3
+https://rebrand.ly/jerry-01
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
-https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+http://103.131.212.138:8000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SPORTS",Star Sports 1 
 https://rebrand.ly/ssports-hd1
@@ -153,19 +153,19 @@ https://bit.ly/ssselect-1
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
 https://bit.ly/ssselect-2
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+http://208.86.19.21:80/726.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+http://tvflixback0.hopto.org/712.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+http://208.86.19.21:80/740.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports
 http://rv.flysat.live:80/ams/ams123/84029
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5221
+http://208.86.19.21:80/610.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMYdQAj.png"group-title="SPORTS",beIN Sport 
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80024
+http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/2243 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="RELIGION",Makkah TV
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8?v=1605911909
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQqN-BwwycrSRYM_ElHRwmqF7BZvcTRSZBFh0nt0A=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGION",Ilmu TV
-https://rebrand.ly/ilmu-1
+https://rebrand.ly/ilmu
