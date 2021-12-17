@@ -35,7 +35,7 @@ https://live.neestream.net/neestream_01/jeevantv/index.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png", Middle East
 http://14.199.164.20:4001/play/a0k6/index.m3u8
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
-http://139.59.55.243/sunnxt/live.php?c=9019
+https://rebrand.ly/suryamovie
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png",Asianet Movies
 http://nicefly.xyz:80/h21041003/651032140/246013
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
@@ -55,7 +55,7 @@ https://live.neestream.net/neestream_01/safaritv/index.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://cutt.ly/jQxoYWz",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV 
-http://139.59.55.243/sunnxt/live.php?c=14020&e=.m3u8
+https://tinyurl.com/sun-tata
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",Star Vijay HD
 https://bit.ly/starvijay-hd
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV 
@@ -133,7 +133,7 @@ http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
 https://bit.ly/cartoon-network-tamil
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
-http://139.59.55.243/sunnxt/live.php?c=26573
+https://tinyurl.com/kochu-tv
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
 https://rebrand.ly/jerry-01
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
