@@ -104,8 +104,7 @@ https://utube.arapurayil.com/stream/UCup3etEdjyF1L3sRbU-rKLw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
 https://mmtvlive1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
-https://live.neestream.net/ne
-estream_01/mathrubhuminews/tracks-v1a1/mono.m3u8?token=693400
+https://live.neestream.net/neestream_01/mathrubhuminews/tracks-v1a1/mono.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/news18_kerala-1.png" group-title="NEWS",News 18
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5wweZXu.png" group-title="NEWS",Kairali News
@@ -165,6 +164,6 @@ http://208.86.19.21:80/610.stream/index.m3u8
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="RELIGION",Makkah TV
-http://m.live.net.sa:1935/live/quran/gmswf.m3u8?v=1605911909
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=aQWBPYyJ2Sk
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQqN-BwwycrSRYM_ElHRwmqF7BZvcTRSZBFh0nt0A=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGION",Ilmu TV
 https://rebrand.ly/ilmu
