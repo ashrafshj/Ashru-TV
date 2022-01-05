@@ -36,6 +36,8 @@ https://live.neestream.net/neestream_01/jeevantv/index.m3u8?token=693400
 https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png", Middle East
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/203
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg",Surya TV HD USA
+https://rebrand.ly/surya-usa
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
 https://rebrand.ly/suryamovies-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png",Asianet Movies
@@ -58,10 +60,10 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 http://195.201.82.32:5001/play/a01o
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",Star Vijay HD
 https://rebrand.ly/S-Vijay-hd
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png",Zee Tamil HD
+http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/225.ts
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV 
 https://rebrand.ly/K-tv-hd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033",Zee Thirai
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/155
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
@@ -79,7 +81,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",NAT GEO Wild HD
 https://rebrand.ly/Nat-Geo-Wild
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
-http://nomorecable.xyz:80/hahaiptv-/079652/48226
+https://durbinlive.com/live/jio?c=Travel_XP&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png", Love Nature HD
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
@@ -113,7 +115,7 @@ https://live.neestream.net/neestream_01/kairalinews/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1323664537770323968/vD4Ifa_b_400x400.jpg" group-title="NEWS",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
-https://tinyurl.com/bbc-news-hd
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="513" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png"group-title="NEWS",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
@@ -128,7 +130,7 @@ https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="MUSIC",Sun Music HD
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK HD+
 http://195.201.82.32:5001/play/a03d
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
 https://rebrand.ly/kochu-tv
@@ -152,7 +154,7 @@ https://durbinlive.com:443/live/jio?c=Jio_Football&q=auto&e=IshanJiotv.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="SPORTS",Star Select 1
 http://208.86.19.21:80/736.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
-http://208.86.19.21:80/737.stream/index.m3u8
+http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/200.ts
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
 http://208.86.19.21:80/726.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
@@ -167,6 +169,6 @@ http://208.86.19.21:80/610.stream/index.m3u8
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="RELIGION",Saudi Quran
-http://str24.l9574.com/694.stream/index.m3u8
+http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/1081.ts
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQqN-BwwycrSRYM_ElHRwmqF7BZvcTRSZBFh0nt0A=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGION",Ilmu TV
 https://rebrand.ly/ilmu
