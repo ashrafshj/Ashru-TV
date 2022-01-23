@@ -31,9 +31,9 @@ http://14.199.164.20:4001/play/a0k6/index.m3u8
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
 https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9019&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png",Asianet Movies
-https://rebrand.ly/asianet-movie
+https://rebrand.ly/asianet-movies
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/167
+https://rebrand.ly/asianet-plus
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/b25ldHYuY29tLm9uZXR2bmlsYW1idXJfc2NyZWVuXzFfMTU4NzYzNjkyNV8wODE/screen-1.jpg?fakeurl=1&type=.jpg",One TV
 http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/06/images-1-7-1-185x278.png",Nee Cinema
@@ -50,12 +50,6 @@ https://live.neestream.net/neestream_01/safaritv/index.m3u8?token=693400
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://cutt.ly/jQxoYWz",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
-#EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
-https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9019&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png",Asianet Movies
-https://rebrand.ly/asianet-movies
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
-https://rebrand.ly/asianet-plus
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
 https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=14020&e=.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV 
