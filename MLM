@@ -120,8 +120,8 @@ https://rebrand.ly/SS-HD-hindi
 #EXTINF: -1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="SPORTS", Willow HD
 http://nicefly.xyz:80/h21041003/651032140/246246
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="SPORTS",Star Select 1
-http://208.86.19.21:80/736.stream/index.m3u8
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
-http://208.86.19.21:80/726.stream/index.m3u8
+http://nicefly.xyz:80/h21041003/651032140/246211
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six HD
 http://live.flixhub.net/hls/sonysix.m3u8
