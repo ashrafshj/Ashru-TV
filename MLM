@@ -55,7 +55,7 @@ https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=26566&e=.m3u8
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
-http://asdd.cc:7444/live/1/1/2179.m3u8
+http://asdd.cc:7444/1/1/2079
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
 http://asdd.cc:7444/live/1/1/2169.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
