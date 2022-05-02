@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml"
 
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2015/08/Asianet-HD-Logo.jpg",Asianet HD
+https://bit.ly/asianet-Ln
+#EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png",Mazhavil Manorama HD
+https://rebrand.ly/MM-HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
@@ -14,6 +18,8 @@ https://cdn.logicwebs.in/hls/ublhdkey.m3u8
 https://live.neestream.net/neestream_01/jaihindtv/tracks-v1a1/mono.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
 https://live.neestream.net/neestream_01/jeevantv/index.m3u8?token=693400
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kzudV52.jpg",Yolo
+http://cdn.logicwebs.in/hls/yolo.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/8072.NextTv.in/en/1x1/208x208/test_pic1634796611072.webp",Next TV 
 https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
@@ -71,7 +77,7 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="NEWS",Media One
 https://live.neestream.net/neestream_01/mediaone/tracks-v1a1/mono.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" group-title="NEWS",24 News
-https://utube.arapurayil.com/stream/UCup3etEdjyF1L3sRbU-rKLw/master.m3u8
+https://yuppmedtaor.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/yupp_live_nim_https/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
 https://mmtvlive1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
@@ -105,10 +111,14 @@ http://103.153.39.36:8000/play/a01c
 https://rebrand.ly/starsports
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/ohdHWeJtjZ.png" group-title="SPORTS",Star Sports 1 Hindi
 https://rebrand.ly/SS-HD-hindi
+#EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/BFrSSMWxab.png" group-title="SPORTS",Star Sports 2 HD
+https://bit.ly/stars-hd2
 #EXTINF: -1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="SPORTS", Willow HD
-http://nicefly.xyz:80/h21041003/651032140/246246
+http://loga.ultratotal.ml/xls/ligota/index.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="SPORTS",Star Select 1
 http://103.153.39.36:8000/play/a018
+#EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/yTiRZUJMgP.png" group-title="SPORTS",Star Select 2
+https://bit.ly/sselect-2
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
 https://bit.ly/3upll-ten1
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
