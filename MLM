@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml"
 
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2015/08/Asianet-HD-Logo.jpg",Asianet HD
-https://bit.ly/asianet-Ln
+https://bit.ly/asianet-host
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png",Mazhavil Manorama HD
 https://rebrand.ly/MM-HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
