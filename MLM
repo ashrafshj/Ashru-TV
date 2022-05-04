@@ -15,7 +15,7 @@ https://live.neestream.net/neestream_01/kairalitv/tracks-v1a1/mono.m3u8?token=69
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali Arabia
 https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We
-http://103.199.161.254/Content/we/Live/Channel(We)/Stream(01)/index.m3u8
+https://live.neestream.net/neestream_01/kairaliwe/index.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/05/ublhd-185x278.jpg",UBL TV
 https://cdn.logicwebs.in/hls/ublhdkey.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
