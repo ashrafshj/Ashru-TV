@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2015/08/Asianet-HD-Logo.jpg",Asianet HD
 https://bit.ly/Asianet-tptv
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/92907-MazhavilManorama.jpg",Mazhavil Manorama
-http://14.199.164.20:4001/play/a0kd/index.m3u8
+https://bit.ly/mazhavilsd-stream
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg",Surya
 https://bit.ly/surya-stream
 #EXTINF:-1 tvg-https://i.ytimg.com/vi/OuBxiCpsDjE/maxresdefault_live.jpg",Flowers
@@ -43,7 +43,7 @@ https://pull-2752.5centscdn.com/abrout/darshana/liveout/darshana_720p/chunks.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w881DVW.png",Safari
 https://live.neestream.net/neestream_01/safaritv/index.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",DD Malayalam
-http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/Stream(01)/index.m3u8
+https://bit.ly/DDmalayalam-stream
 #EXTINF:-1 tvg-logo="https://cutt.ly/jQxoYWz",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
