@@ -5,7 +5,7 @@ https://bit.ly/Asianet-gas5
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/92907-MazhavilManorama.jpg",Mazhavil Manorama HD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Mazavali_Manorama_HD&q=400&e=.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg",Surya HD
-http://new-pro.tv:8080/mazen1/123456/84216
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2826
 #EXTINF:-1 tvg-https://i.ytimg.com/vi/OuBxiCpsDjE/maxresdefault_live.jpg",Flowers
 https://rebrand.ly/flowers-2mlm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -46,14 +46,12 @@ https://live.neestream.net/neestream_01/safaritv/index.m3u8?token=693400
 https://idvd.multitvsolution.com/idvo/ddmalayalam_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cutt.ly/jQxoYWz",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
-https://bit.ly/3uka-sun-hd
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
 https://bit.ly/3gfZgUV
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
-http://103.153.39.36:8000/play/a00x
+http://iptv.hdsindia.com:2574/udp/227.10.10.34:4640
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 http://103.153.39.36:8000/play/a015
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
@@ -102,8 +100,10 @@ http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
 https://rebrand.ly/jerry-01
+#EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2833
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
-http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=Cartoon_Network_Tamil&q=800&e=.m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c==Cartoon_Network_Tamil&q=400&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
 http://103.153.39.36:8000/play/a01c
 
@@ -112,13 +112,13 @@ https://rebrand.ly/starsports
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/ohdHWeJtjZ.png" group-title="SPORTS",Star Sports 1 Hindi
 https://rebrand.ly/SS-HD-hindi
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/BFrSSMWxab.png" group-title="SPORTS",Star Sports 2 HD
-http://new-pro.tv:8080/mazen1/123456/72042
-#EXTINF: -1 tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-title="SPORTS", Willow HD
-http://42.201.253.14:4090/play/2/index.m3u8
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2754
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="SPORTS",Super Sport
+https://exs4.gcdn.co/SS25/index.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="SPORTS",Star Select 1
-http://103.153.39.36:8000/play/a018
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/yTiRZUJMgP.png" group-title="SPORTS",Star Select 2
-http://new-pro.tv:8080/mazen1/123456/72045
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2751
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
 https://bit.ly/3upll-ten1
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
