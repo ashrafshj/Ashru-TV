@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml"
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Asianet%28TVchannel%29Logo.jpg",Asianet
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2015/08/Asianet-HD-Logo.jpg",Asianet HD
 https://b6fd.short.gy/AsianetHD
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/92907-MazhavilManorama.jpg",Mazhavil Manorama HD
 https://b6fd.short.gy/mazhavilHD
