@@ -8,7 +8,7 @@ https://b6fd.short.gy/mazhavilHD
 https://b6fd.short.gy/suryahd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title=" ENTERTAIMENT",Zee Keralam HD
 https://b6fd.short.gy/ZkeralamHD
-#EXTINF:-1 tvg-https://i.ytimg.com/vi/OuBxiCpsDjE/maxresdefault_live.jpg"group-title=" ENTERTAIMENT",Flowers
+#EXTINF:-1 tvg-https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/ca/af/8e/caaf8e19-b38d-5cb9-a8c8-5b777d4d82d4/source/512x512bb.jpg"group-title=" ENTERTAIMENT",Flowers
 https://b6fd.short.gy/flowers
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nBAXbOSIUuC2k-W099X68KEQ4MMDi3-r5jH2ZzLQ=s900-c-k-c0x00ffffff-no-rj"group-title=" ENTERTAIMENT",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master_2000.m3u8
@@ -41,27 +41,29 @@ https://b6fd.short.gy/Asianetmovies
 https://b6fd.short.gy/Wetv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
 http://144.76.83.26:8081/master_leno/apluse/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/b25ldHYuY29tLm9uZXR2bmlsYW1idXJfc2NyZWVuXzFfMTU4NzYzNjkyNV8wODE/screen-1.jpg?fakeurl=1&type=.jpg",One TV
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/b25ldHYuY29tLm9uZXR2bmlsYW1idXJfc2NyZWVuXzFfMTU4NzYzNjkyNV8wODE/screen-1.jpg?fakeurl=1&type=.jpg"group-title=" ENTERTAINMENT",One TV
 http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
-#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/06/images-1-7-1-185x278.png"group-title=" Movies",Nee Cinema
+#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/06/images-1-7-1-185x278.png"group-title=" MOVIES",Nee Cinema
 https://live.neestream.net/neestream_01/neecinema/tracks-v1a1/mono.m3u8?token=693400
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jAMKVwM.png",Kite-Victers
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Victers_TV_Logo.jpg"group-title=" SCHOOL",Kite-Victers
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png"group-title=" MOVIES",Yupp Thirai
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
+#EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:1400/0*UxBDcIM2GW1WSOUq"group-title=" DOCUMENTARY",Discovery HD
 https://b6fd.short.gy/DiscoveryHD
-#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
+#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg"group-title=" DOCUMENTARY",National Geographic
 https://b6fd.short.gy/NationalGeographic
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png"group-title=" DOCUMENTARY",Sony BBC Earth 
 https://b6fd.short.gy/SonyBBChd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg"group-title=" DOCUMENTARY",Animal Planet
 https://b6fd.short.gy/AnimalHD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",NAT GEO Wild HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png"group-title=" DOCUMENTARY",NAT GEO Wild HD
 https://b6fd.short.gy/WildHD
-#EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png", Love Nature HD
+#EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png"group-title=" DOCUMENTARY", Love Nature HD
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg"group-title=" TRAVEL",Travel XP HD
+https://b6fd.short.gy/Travelxp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png"group-title="MOVIES",Zee Cinema
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
@@ -70,7 +72,7 @@ https://bit.ly/3AMCxJmax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" MOVIES",Star Movies  HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title=" MOVIES",Sony Pix HD
-
+https://b6fd.short.gy/Sonypix
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="NEWS",Media One HD
 https://b6fd.short.gy/mediaone
 #EXTINF:-1 tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" group-title="NEWS",24 News HD
@@ -109,22 +111,22 @@ http://103.139.171.5:5001/jiotvplus/live.php?c==Cartoon_Netwk_Tamil&q=400&e=.m3u
 http://103.153.39.36:8000/play/a01c
 
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png" group-title="SPORTS",Star Sports 1 
-https://rebrand.ly/starsports
+https://b6fd.short.gy/StarSports1
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/ohdHWeJtjZ.png" group-title="SPORTS",Star Sports 1 Hindi
-https://rebrand.ly/SS-HD-hindi
+https://b6fd.short.gy/StarSports1hindi
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/BFrSSMWxab.png" group-title="SPORTS",Star Sports 2 HD
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2754
+https://b6fd.short.gy/StarSports2
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="SPORTS",Star Select 1
-
+https://b6fd.short.gy/StarsportsSL1
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/yTiRZUJMgP.png" group-title="SPORTS",Star Select 2
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2751
+https://b6fd.short.gy/StarsportsSL2
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1
-
+https://b6fd.short.gy/sonyten1
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six HD
-
+https://b6fd.short.gy/sonyten2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2fUaDBRgP0xrwNqC1QE42znf-WxHxmrVEL0bmRW88w&s" group-title="SPORTS",Sony Six HD
+https://b6fd.short.gy/sonysix
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sport
 http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png"  tvg-url="" group-title="RELIGION",Ahl Quran
-http://185.105.4.106:1935/live/Bahrain%20Quran/playlist.m3u8
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8?v=1605911909
