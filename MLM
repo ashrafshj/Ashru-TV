@@ -8,7 +8,7 @@ https://b6fd.short.gy/mazhavilHD
 https://b6fd.short.gy/suryahd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title=" ENTERTAIMENT",Zee Keralam HD
 https://b6fd.short.gy/ZkeralamHD
-#EXTINF:-1 tvg-https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/ca/af/8e/caaf8e19-b38d-5cb9-a8c8-5b777d4d82d4/source/512x512bb.jpg"group-title=" ENTERTAIMENT",Flowers
+#EXTINF:-1 tvg-https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title=" ENTERTAIMENT",Flowers
 https://b6fd.short.gy/flowers
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nBAXbOSIUuC2k-W099X68KEQ4MMDi3-r5jH2ZzLQ=s900-c-k-c0x00ffffff-no-rj"group-title=" ENTERTAIMENT",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master_2000.m3u8
@@ -41,7 +41,7 @@ https://b6fd.short.gy/Asianetmovies
 https://b6fd.short.gy/Wetv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
 http://144.76.83.26:8081/master_leno/apluse/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/b25ldHYuY29tLm9uZXR2bmlsYW1idXJfc2NyZWVuXzFfMTU4NzYzNjkyNV8wODE/screen-1.jpg?fakeurl=1&type=.jpg"group-title=" ENTERTAINMENT",One TV
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/b25ldHYuY29tLm9uZXR2bmlsYW1idXJfc2NyZWVuXzFfMTU4NzYzNjkyNV8wODE/screen-1.jpg?fakeurl=1&type=.jpg"group-title=" ENTERTAIMENT",One TV
 http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/06/images-1-7-1-185x278.png"group-title=" MOVIES",Nee Cinema
 https://live.neestream.net/neestream_01/neecinema/tracks-v1a1/mono.m3u8?token=693400
