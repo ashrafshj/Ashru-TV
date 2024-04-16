@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml"
+#EXTM3U url-tvg="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2015/08/Asianet-HD-Logo.jpg"group-title=" ENTERTAIMENT",Asianet HD
 https://b6fd.short.gy/AsianetHD
@@ -79,7 +79,7 @@ https://b6fd.short.gy/mediaone
 https://b6fd.short.gy/24news
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Manorama_News.svg/1200px-Manorama_News.svg.png" group-title="NEWS",Manorama News HD
 https://b6fd.short.gy/manorama
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n3GwS5AiD5wcCQcacdBVIqedZEtVm4H1EsLlxB0li41mA=s900-c-k-c0x00ffffff-no-rj" group-title="News",Mathrubhumi News
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n3GwS5AiD5wcCQcacdBVIqedZEtVm4H1EsLlxB0li41mA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",Mathrubhumi News
 https://b6fd.short.gy/mathrubhumi
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS",Asianet News HD
 https://b6fd.short.gy/Asianetnews
