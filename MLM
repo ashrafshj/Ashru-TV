@@ -1,8 +1,8 @@
-#EXTM3U url-tvg="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2015/08/Asianet-HD-Logo.jpg"group-title=" ENTERTAIMENT",Asianet HD
 https://b6fd.short.gy/AsianetHD
-#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/92907-MazhavilManorama.jpg"group-title=" ENTERTAIMENT",Mazhavil Manorama HD
+#EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title=" ENTERTAIMENT",Mazhavil Manorama HD
 https://b6fd.short.gy/mazhavilHD
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title=" ENTERTAIMENT",Surya HD
 https://b6fd.short.gy/suryahd
@@ -25,11 +25,15 @@ https://b6fd.short.gy/Darshana
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_ugnxUg8DnbPdU-p8E_CxgI3Lv4fqaYBWt2fQAO6OA&s"group-title=" ENTERTAIMENT",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DD_Malayalam_2023_logo.png"group-title=" ENTERTAIMENT",DD Malayalam
-http://iptv.hdsindia.com:2574/udp/227.10.10.237:4640
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png"group-title=" ENTERTAIMENT", Middle East
 https://b6fd.short.gy/MiddleEast
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXKQ205Nathhey1JSSdll-wL29WACo9PwewocJJ4S4Q&s"group-title=" ENTERTAIMENT",Asianet
+https://b6fd.short.gy/Asianet
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/92907-MazhavilManorama.jpg"group-title=" ENTERTAIMENT",Mazhavil Manorama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgPtkaODx8N6maZiM307xt7IqTrloDkseIxCrLRaAr_g&s"group-title=" ENTERTAIMENT",Kairali Arabia
-https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
+https://b6fd.short.gy/kairaliarabia
 #EXTINF:-1 tvg-logo="https://cutt.ly/jQxoYWz"group-title=" ENTERTAIMENT",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 
@@ -66,11 +70,11 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://b6fd.short.gy/Travelxp
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee-Cinema-HD.jpg"group-title="MOVIES",Zee Cinema HD
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.120.172.74:4100
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP"group-title=" MOVIES",Sony Max HD
-https://bit.ly/3AMCxJmax
+http://103.120.172.74:1150
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" MOVIES",Star Movies  HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+https://b6fd.short.gy/StarMovieshd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title=" MOVIES",Sony Pix HD
 https://b6fd.short.gy/Sonypix
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="NEWS",Media One HD
@@ -93,22 +97,21 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="MUSIC",MTV Beats HD
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC", 9XM
-
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/malayalam/Garshom_TV.png" group-title="MUSIC",Garshom TV
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="MUSIC",Sun Music HD
-http://uk1.zecast.com:1935/star-live/smusic/chun
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg" group-title="MUSIC",Isai Aruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
-https://rebrand.ly/jerry-
+https://b6fd.short.gy/tomjery
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2833
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
-http://103.139.171.5:5001/jiotvplus/live.php?c==Cartoon_Netwk_Tamil&q=400&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
-http://103.153.39.36:8000/play/a01c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="SPORTS",Star Sports1 HD 
 https://b6fd.short.gy/StarSports1
@@ -127,6 +130,6 @@ https://b6fd.short.gy/sonyten2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2fUaDBRgP0xrwNqC1QE42znf-WxHxmrVEL0bmRW88w&s" group-title="SPORTS",Sony Six HD
 https://b6fd.short.gy/sonysix
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sport
-http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+https://b6fd.short.gy/ptvsport
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png"  tvg-url="" group-title="RELIGION",Ahl Quran
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8?v=1605911909
