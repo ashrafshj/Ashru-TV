@@ -25,7 +25,7 @@ https://b6fd.short.gy/Darshana
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_ugnxUg8DnbPdU-p8E_CxgI3Lv4fqaYBWt2fQAO6OA&s"group-title=" ENTERTAIMENT",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DD_Malayalam_2023_logo.png"group-title=" ENTERTAIMENT",DD Malayalam
-http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+https://b6fd.short.gy/DDmalayalam
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png"group-title=" ENTERTAIMENT", Middle East
 https://b6fd.short.gy/MiddleEast
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXKQ205Nathhey1JSSdll-wL29WACo9PwewocJJ4S4Q&s"group-title=" ENTERTAIMENT",Asianet
@@ -85,6 +85,8 @@ https://b6fd.short.gy/24news
 https://b6fd.short.gy/manorama
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n3GwS5AiD5wcCQcacdBVIqedZEtVm4H1EsLlxB0li41mA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",Mathrubhumi News
 https://b6fd.short.gy/mathrubhumi
+#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2021/02/Kerala-Vision-News.jpg" group-title="NEWS",Keralavsion News
+https://b6fd.short.gy/keralavision
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS",Asianet News HD
 https://b6fd.short.gy/Asianetnews
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/news18_kerala-1.png" group-title="NEWS",News 18
