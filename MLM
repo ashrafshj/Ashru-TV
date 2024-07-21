@@ -17,9 +17,9 @@ https://b6fd.short.gy/kairali
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/743422000903790592/k_KIHXDs_400x400.jpg"group-title=" ENTERTAIMENT",Safari
 https://b6fd.short.gy/Safari
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg"group-title=" ENTERTAIMENT",Jaihind TV
-https://b6fd.short.gy/jaihind
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/JeevanTV.jpg"group-title=" ENTERTAIMENT",Jeevan TV  
-https://b6fd.short.gy/Jeevan
+
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/darshanatv-1-400x300.png"group-title=" ENTERTAIMENT",Darshana TV
 https://b6fd.short.gy/Darshana
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_ugnxUg8DnbPdU-p8E_CxgI3Lv4fqaYBWt2fQAO6OA&s"group-title=" ENTERTAIMENT",Kaumudy TV
@@ -29,16 +29,16 @@ https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png"group-title=" ENTERTAIMENT", Middle East
 https://b6fd.short.gy/MiddleEast
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXKQ205Nathhey1JSSdll-wL29WACo9PwewocJJ4S4Q&s"group-title=" ENTERTAIMENT",Asianet
-https://b6fd.short.gy/Asianet
+
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/92907-MazhavilManorama.jpg"group-title=" ENTERTAIMENT",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgPtkaODx8N6maZiM307xt7IqTrloDkseIxCrLRaAr_g&s"group-title=" ENTERTAIMENT",Kairali Arabia
-https://b6fd.short.gy/kairaliarabia
+
 #EXTINF:-1 tvg-logo="https://cutt.ly/jQxoYWz"group-title=" ENTERTAIMENT",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg"group-title=" MOVIES",Surya Movies HD
-https://b6fd.short.gy/suryamovies
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png"group-title=" MOVIES",Asianet Movies HD
 https://b6fd.short.gy/Asianetmovies
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kairali_WE_TV_Logo.png/640px-Kairali_WE_TV_Logo.png"group-title=" MOVIES",Kairali We
@@ -46,7 +46,7 @@ https://b6fd.short.gy/Asianetmovies
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/b25ldHYuY29tLm9uZXR2bmlsYW1idXJfc2NyZWVuXzFfMTU4NzYzNjkyNV8wODE/screen-1.jpg?fakeurl=1&type=.jpg"group-title=" ENTERTAIMENT",One TV
-http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0yOK-VNWryhH5NAyK8CTX5x_MCK9_594XhSjxleQkuQ&s"group-title=" MOVIES",Cinema 24/7
 https://b6fd.short.gy/cenema24/7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Victers_TV_Logo.jpg"group-title=" SCHOOL",Kite-Victers
@@ -108,7 +108,7 @@ https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0
 https://bit.ly/isaiaruvi2
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
-https://b6fd.short.gy/tomjery
+
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
