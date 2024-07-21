@@ -11,7 +11,7 @@ https://b6fd.short.gy/ZkeralamHD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title=" ENTERTAIMENT",Flowers
 https://b6fd.short.gy/flowers
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nBAXbOSIUuC2k-W099X68KEQ4MMDi3-r5jH2ZzLQ=s900-c-k-c0x00ffffff-no-rj"group-title=" ENTERTAIMENT",Amrita TV
-https://dr1zhpsuem5f4.cloudfront.net/master_2000.m3u8
+https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kNtX4loDkwdRCPr2plz99CPb22-Xx_UKIjlVT8ew=s900-c-k-c0x00ffffff-no-rj"group-title=" ENTERTAIMENT",Kairali TV
 https://b6fd.short.gy/kairali
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/743422000903790592/k_KIHXDs_400x400.jpg"group-title=" ENTERTAIMENT",Safari
@@ -25,7 +25,7 @@ https://b6fd.short.gy/Darshana
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_ugnxUg8DnbPdU-p8E_CxgI3Lv4fqaYBWt2fQAO6OA&s"group-title=" ENTERTAIMENT",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DD_Malayalam_2023_logo.png"group-title=" ENTERTAIMENT",DD Malayalam
-https://b6fd.short.gy/DDmalayalam
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png"group-title=" ENTERTAIMENT", Middle East
 https://b6fd.short.gy/MiddleEast
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXKQ205Nathhey1JSSdll-wL29WACo9PwewocJJ4S4Q&s"group-title=" ENTERTAIMENT",Asianet
@@ -42,7 +42,7 @@ https://b6fd.short.gy/suryamovies
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png"group-title=" MOVIES",Asianet Movies HD
 https://b6fd.short.gy/Asianetmovies
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kairali_WE_TV_Logo.png/640px-Kairali_WE_TV_Logo.png"group-title=" MOVIES",Kairali We
-https://b6fd.short.gy/Wetv
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/b25ldHYuY29tLm9uZXR2bmlsYW1idXJfc2NyZWVuXzFfMTU4NzYzNjkyNV8wODE/screen-1.jpg?fakeurl=1&type=.jpg"group-title=" ENTERTAIMENT",One TV
