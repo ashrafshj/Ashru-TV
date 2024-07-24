@@ -37,6 +37,16 @@ https://b6fd.short.gy/kairaliarabia
 #EXTINF:-1 tvg-logo="https://cutt.ly/jQxoYWz"group-title=" ENTERTAIMENT",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="NEWS",Media One HD
+https://b6fd.short.gy/mediaone
+#EXTINF:-1 tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" group-title="NEWS",24 News HD
+https://b6fd.short.gy/24news
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Manorama_News.svg/1200px-Manorama_News.svg.png" group-title="NEWS",Manorama News HD
+https://b6fd.short.gy/manorama
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n3GwS5AiD5wcCQcacdBVIqedZEtVm4H1EsLlxB0li41mA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",Mathrubhumi News
+https://b6fd.short.gy/mathrubhumi
+#EXTINF:-1 tvg-logo="https://bit.ly/3Wj9ABU" group-title="NEWS",Keralavsion News
+https://b6fd.short.gy/keralavision
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS",Asianet News HD
 https://b6fd.short.gy/Asianetnews
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/news18_kerala-1.png" group-title="NEWS",News 18
@@ -88,17 +98,6 @@ http://103.120.172.74:1150
 https://b6fd.short.gy/StarMovieshd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title=" MOVIES",Sony Pix HD
 https://b6fd.short.gy/Sonypix
-#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="NEWS",Media One HD
-https://b6fd.short.gy/mediaone
-#EXTINF:-1 tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" group-title="NEWS",24 News HD
-https://b6fd.short.gy/24news
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Manorama_News.svg/1200px-Manorama_News.svg.png" group-title="NEWS",Manorama News HD
-https://b6fd.short.gy/manorama
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n3GwS5AiD5wcCQcacdBVIqedZEtVm4H1EsLlxB0li41mA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",Mathrubhumi News
-https://b6fd.short.gy/mathrubhumi
-#EXTINF:-1 tvg-logo="https://bit.ly/3Wj9ABU" group-title="NEWS",Keralavsion News
-https://b6fd.short.gy/keralavision
-
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="MUSIC",MTV Beats HD
 https://b6fd.short.gy/MTVBeats
