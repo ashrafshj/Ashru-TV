@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
+#EXTM3U x-tvg-url="http://starshare.live:8080/xmltv.php?username=kavitha2025&password=8352729987
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSvQXgf5CvwYtSOey6486WOq3MnbR2J8V-w&s"group-title=" ENTERTAIMENT",Asianet HD
 https://b6fd.short.gy/AsianetHD
@@ -71,7 +71,7 @@ https://b6fd.short.gy/Asianetmovies
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0yOK-VNWryhH5NAyK8CTX5x_MCK9_594XhSjxleQkuQ&s"group-title=" MOVIES",Cinema 24/7
 https://b6fd.short.gy/cenema24/7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Victers_TV_Logo.jpg"group-title=" SCHOOL",Kite-Victers
-https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png"group-title=" MOVIES",Yupp Thirai
 
