@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://starshare.live:8080/xmltv.php?username=kavitha2025&password=8352729987"
-
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSvQXgf5CvwYtSOey6486WOq3MnbR2J8V-w&s"group-title=" ENTERTAIMENT",Asianet HD
 https://b6fd.short.gy/AsianetHD
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title=" ENTERTAIMENT",Mazhavil Manorama HD
