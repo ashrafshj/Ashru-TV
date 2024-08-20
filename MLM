@@ -36,6 +36,16 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://b6fd.short.gy/kairaliarabia
 #EXTINF:-1 tvg-logo="https://cutt.ly/jQxoYWz"group-title=" ENTERTAIMENT",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194403/1000x1000_SunTVHD_194403_8ad3d2a8-5344-4d5c-956c-ccbfb25b2431.png" group-title="ENTERTAINMENT",SUN TV HD
+https://b6fd.short.gy/sunhd
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Star-Vijay-HD_TV.jpg"group-title=" ENTERTAIMENT",Star Vijay HD
+https://b6fd.short.gy/StarVijayhd
+#EXTINF:-1 tvg-logo="https://vmax.vimitel.com/uploads/tv_image/zee-tv-hd.png"group-title=" ENTERTAIMENT",ZeeTv HD
+https://b6fd.short.gy/zeetv
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png ENTERTAIMENT",Sony HD
+https://b6fd.short.gy/sonyhd
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png ENTERTAIMENT",Colors HD
+https://b6fd.short.gy/colorshd
 
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="NEWS",Media One HD
 https://b6fd.short.gy/mediaone
@@ -90,10 +100,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png"group-title=" TRAVEL",Travel XP HD
 https://b6fd.short.gy/Travelxp
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee-Cinema-HD.jpg"group-title="MOVIES",Zee Cinema HD
-http://103.120.172.74:4100
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP"group-title=" MOVIES",Sony Max HD
-http://103.120.172.74:1150
+http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" MOVIES",Star Movies  HD
 https://b6fd.short.gy/StarMovieshd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title=" MOVIES",Sony Pix HD
