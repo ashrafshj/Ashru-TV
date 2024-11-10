@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml.gz"
+#EXTM3U x-tvg-url="http://serverinfo.one:8080/xmltv.php?username=5425798654290&password=7431790764235"
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSvQXgf5CvwYtSOey6486WOq3MnbR2J8V-w&s"group-title=" ENTERTAIMENT",Asianet HD
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title=" ENTERTAIMENT",Mazhavil Manorama HD
@@ -12,6 +12,7 @@ https://dr1zhpsuem5f4.cloudfront.net/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/743422000903790592/k_KIHXDs_400x400.jpg"group-title="",Safari
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg"group-title=" ENTERTAIMENT",Jaihind TV
+http://ktv.im:8080/live/678900/678900/81834.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/JeevanTV.jpg"group-title=" ENTERTAIMENT",Jeevan TV  
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/darshanatv-1-400x300.png"group-title="",Darshana TV
 http://ktv.im:8080/live/678900/678900/81851.ts
