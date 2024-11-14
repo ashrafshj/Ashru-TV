@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://serverinfo.one:8080/xmltv.php?username=5425798654290&password=7431790764235"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz","https://fhux.short.gy/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSvQXgf5CvwYtSOey6486WOq3MnbR2J8V-w&s"group-title=" ENTERTAIMENT",Asianet HD
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title=" ENTERTAIMENT",Mazhavil Manorama HD
