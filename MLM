@@ -47,7 +47,7 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/51851
 #EXTINF:-1 tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" group-title="",24 News HD
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2024/05/news-kerala-350x250.jpg" group-title="",News Malayalam
-
+https://bit.ly/newsmalayalam
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Manorama_News.svg/1200px-Manorama_News.svg.png" group-title="",Manorama News HD
 https://mmtvnews1.akamaized.net/v1/manifest/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/af4bb2ea-aa1e-4cd0-b225-179c5a6dc700/2.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n3GwS5AiD5wcCQcacdBVIqedZEtVm4H1EsLlxB0li41mA=s900-c-k-c0x00ffffff-no-rj" group-title="",Mathrubhumi News
