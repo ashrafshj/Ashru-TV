@@ -17,7 +17,7 @@ https://dr1zhpsuem5f4.cloudfront.net/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg"group-title="",Jaihind TV
 http://watchindia.net:8880/live/55901/63571/293.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/JeevanTV.jpg"group-title=" ENTERTAIMENT",Jeevan TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/JeevanTV.jpg"group-title="",Jeevan TV 
 http://surl.li/hxtbjy                
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/darshanatv-1-400x300.png"group-title="",Darshana TV
 http://xtv.ooo:8080/live/danyear12/am809100/380866.ts
