@@ -9,21 +9,22 @@ http://iptvplatinum.net:80/play/live.php?mac=00:1B:79:38:2A:1E&stream=1118176&ex
 http://familyip.vip/BC_168/index.m3u8?token=dd087e8b53616528957a2006641dd3b5          
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title="",Zee Keralam HD
 http://familyip.vip/BC_1204/index.m3u8?token=664c45798101e1f60740e483cd86085a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers
-http://starshare.fun:80/live/Sad41/Premium51/9030.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers TV
+http://xott.live:8080/live/Fahad/1234/380918.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers US
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nBAXbOSIUuC2k-W099X68KEQ4MMDi3-r5jH2ZzLQ=s900-c-k-c0x00ffffff-no-rj"group-title="",Amrita TV
 https://d2lzf5tle3ge1s.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kNtX4loDkwdRCPr2plz99CPb22-Xx_UKIjlVT8ew=s900-c-k-c0x00ffffff-no-rj"group-title="",Kairali TV
+http://xott.live:8080/live/Fahad/1234/380880.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/743422000903790592/k_KIHXDs_400x400.jpg"group-title="",Safari
-http://starshare.fun:80/live/Sad41/Premium51/4067.ts
+http://xott.live:8080/live/Fahad/1234/380898.ts
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/darshanatv-1-400x300.png"group-title="",Darshana TV
 https://cdn-2.pishow.tv/live/1453/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg"group-title="",Jaihind TV
 http://iptvplatinum.net:80/play/live.php?mac=00:1B:79:38:2A:1E&stream=155826&extension=ts&play_token=piOekCbDvS#mag-live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/JeevanTV.jpg"group-title="",Jeevan TV 
-http://starshare.fun:80/live/Sad41/Premium51/85920.ts           
+http://xott.live:8080/live/Fahad/1234/380892.ts        
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_ugnxUg8DnbPdU-p8E_CxgI3Lv4fqaYBWt2fQAO6OA&s"group-title="",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png"group-title="", Middle East
@@ -83,14 +84,14 @@ http://xtv.ooo:8080/live/danyear12/am809100/206285.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg"group-title="",Animal Planet
 http://tv.cloudcdn.me/live.ts?channelId=151&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png"group-title="",NAT GEO Wild HD
-http://starshare.fun:80/live/Sad41/Premium51/98875.ts
+http://iptvplatinum.net:80/play/live.php?mac=00:1B:79:38:2A:1E&stream=155741&extension=ts&play_token=43z47qBC7A
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png"group-title="", Love Nature HD
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png"group-title="",Travel XP HD
-https://bit.ly/Travel-xp
+http://xott.live:8080/live/Fahad/1234/380937.ts
 
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg"group-title=" MOVIES",Surya Movies HD
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg"group-title="",Surya Movies HD
 http://familyip.vip/BC_1208/mpegts?token=c92e4b14b410d5af7bc977c0ea26cf0b
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png"group-title=" MOVIES",Asianet Movies HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png"group-title="",Asianet Movies HD
 http://familyip.vip/BC_1224/index.m3u8?token=d9ea2718167838633f90737711445dc1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0yOK-VNWryhH5NAyK8CTX5x_MCK9_594XhSjxleQkuQ&s"group-title=" MOVIES",Cinema 24/7
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/380.png"group-title=" MOVIES",KTV HD
