@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz","https://fhux.short.gy/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSvQXgf5CvwYtSOey6486WOq3MnbR2J8V-w&s"group-title="",Asianet HD
-http://217.20.112.199/asianet/index.m3u8?view=tnm3u-addedby=tnm3u
+http://217.20.112.199/asianet/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="",Mazhavil Manorama HD
 https://bit.ly/mazhavilHD
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/53/fc/b7/53fcb74191dd34d3a251bf901b52117b.jpg"group-title="",Surya HD
@@ -11,7 +11,6 @@ http://thksmom.shop/BC_1204/index.m3u8?token=c2ac2e42a0a98044d027585d58cfe688
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHzr8J6QE7Q8eMle-zOq1r7h1y1kPBblgdg&s"group-title="",N TV HD
 https://mars.streambridge.cloud/ntv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers TV
-http://thksmom.shop/BC_1240/index.m3u8?token=c97451266296c800c5d10be0e725d513
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers US
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nBAXbOSIUuC2k-W099X68KEQ4MMDi3-r5jH2ZzLQ=s900-c-k-c0x00ffffff-no-rj"group-title="",Amrita TV
@@ -36,7 +35,7 @@ http://thksmom.shop/BCC_1288/index.m3u8?token=5c27581bd155a1f18d09e2e76a6be7aa
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Mazhavil_Manorama_Logo.png"group-title="",Mazhavil Manorama
 http://thksmom.shop/BC_1232/index.m3u8?token=e309a5438482d54585755dbf49c0e7f2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Surya_TV_logo.png"group-title="",Surya TV
-http://thksmom.shop/BC_168/index.m3u8?token=5649d5b415473965db9851aa2fd95815
+http://thksmom.shop/BC_168/index.m3u8?token=f87549248f8b505ee784d35803e05cde
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgPtkaODx8N6maZiM307xt7IqTrloDkseIxCrLRaAr_g&s"group-title="",Kairali Arabia
 #EXTINF:-1 tvg-logo="https://kcltv.com/images/logo.jpg"group-title="",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
