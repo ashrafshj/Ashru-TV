@@ -99,7 +99,7 @@ http://tv.cloudcdn.me/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"",Star Movies  HD
 http://tv.cloudcdn.me/live.ts?channelId=162&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="",Sony Pix HD
-http://iptvplatinum.net:80/play/live.php?mac=00:1B:79:38:2A:1E&stream=156004&extension=ts&play_token=g5BMLkcqpm
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2820.ts
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="MUSIC",MTV Beats HD
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="", 9XM
