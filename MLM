@@ -65,10 +65,9 @@ https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca14
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1323664537770323968/vD4Ifa_b_400x400.jpg" group-title="",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="",BBC News
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFXVk3fZ7HzpRbOYFBXwnuzqm4D78ooxjaGgqZ_l_hpg&s"group-title="",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFXVk3fZ7HzpRbOYFBXwnuzqm4D78ooxjaGgqZ_l_hpg&s"group-title="",Al Jazeera News
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kairali_WE_TV_Logo.png/640px-Kairali_WE_TV_Logo.png"group-title=" MOVIES",Kairali We
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/b25ldHYuY29tLm9uZXR2bmlsYW1idXJfc2NyZWVuXzFfMTU4NzYzNjkyNV8wODE/screen-1.jpg?fakeurl=1&type=.jpg"group-title=" ENTERTAIMENT",One TV
@@ -82,9 +81,9 @@ http://thksmom.shop/BC_216/index.m3u8?token=aeff6b6240a763de33cb65d3494807f3
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png"group-title="",Sony BBC Earth 
 http://thksmom.shop/IN_SONYBBCHD/index.m3u8?token=c8193716182b219d713172af8d42484a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg"group-title="",Animal Planet
-http://tv.cloudcdn.me/live.ts?channelId=151&uid=4280&deviceMac=00:1A:79:17:C1:7F
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png"group-title="",NAT GEO Wild HD
-http://live.tivimate.online:8080/live/omsainet0006/omsainet9090/212459.ts
+http://live.tivimate.online:8080/live/omsainet0006/omsainet9090/138965.ts
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png"group-title="", Love Nature HD
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png"group-title="",Travel XP HD
 http://nicolea-kalie.ibackup-01.com:80/live/TV-217352975/565672051314/229865.ts
@@ -118,7 +117,7 @@ http://thksmom.shop/tojVOD24/7/index.m3u8?token=4080f9682a21a284d05d7c415714abcd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="SPORTS",Star Sports1 HD 
-http://starshare.cx:80/live/home123/home123/211.ts
+https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/ohdHWeJtjZ.png" group-title="SPORTS",Star Sports 1 HD
 http://starshare.cx:80/live/home123/home123/9397.ts
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/BFrSSMWxab.png" group-title="SPORTS",Star Sports 2 HD
@@ -127,10 +126,11 @@ http://starshare.cx:80/live/home123/home123/239.ts
 http://starshare.cx:80/live/home123/home123/238.ts
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/yTiRZUJMgP.png" group-title="SPORTS",Star Select 2 HD
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1 HD
-http://starshare.cx:80/live/home123/home123/154.ts
+http://nicolea-kalie.ibackup-01.com:80/live/TV-217352975/565672051314/229883.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2 HD
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2fUaDBRgP0xrwNqC1QE42znf-WxHxmrVEL0bmRW88w&s" group-title="SPORTS",Sony Six HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sport
+http://66.102.120.18:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="https://indiantraditionalgames.files.wordpress.com/2013/03/labaddi-733208.jpg" group-title="SPORTS", Kabadi
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png"  tvg-url="" group-title="",Ahl Quran
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
