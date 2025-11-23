@@ -11,6 +11,7 @@ http://87.255.35.150:18502/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHzr8J6QE7Q8eMle-zOq1r7h1y1kPBblgdg&s"group-title="",N TV HD
 https://mars.streambridge.cloud/ntv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers TV
+http://93.119.105.61/play/live.php?extension=ts&mac=00:1A:79:00:28:53&play_token=FPh4kuMnod&stream=443062
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers US
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nBAXbOSIUuC2k-W099X68KEQ4MMDi3-r5jH2ZzLQ=s900-c-k-c0x00ffffff-no-rj"group-title="",Amrita TV
@@ -123,7 +124,7 @@ http://starshare.cx:80/live/home123/home123/9397.ts
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/BFrSSMWxab.png" group-title="SPORTS",Star Sports 2 HD
 http://starshare.cx:80/live/home123/home123/239.ts
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="SPORTS",Star Select 1 HD
-http://starshare.cx:80/live/home123/home123/238.ts
+http://87.255.35.150:18828
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/yTiRZUJMgP.png" group-title="SPORTS",Star Select 2 HD
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="SPORTS",Sony Ten 1 HD
 http://nicolea-kalie.ibackup-01.com:80/live/TV-217352975/565672051314/229883.ts
