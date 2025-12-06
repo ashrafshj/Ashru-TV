@@ -85,13 +85,13 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:1400/0*UxBDcIM2GW1WSOUq"group-title="",Discovery HD
 http://tv.cloudcdn.me/live.ts?channelId=164&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/national-geographic-hd.png"group-title="",National Geographic HD
-http://thksmom.shop/BC_216/index.m3u8?token=aeff6b6240a763de33cb65d3494807f3
+http://119.152.240.15:8000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png"group-title="",Sony BBC Earth 
 http://thksmom.shop/IN_SONYBBCHD/index.m3u8?token=c8193716182b219d713172af8d42484a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg"group-title="",Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png"group-title="",NAT GEO Wild HD
-https://bit.ly/wild-hd1
+http://103.182.170.32:8888/play/a01r
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png"group-title="", Love Nature HD
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png"group-title="",Travel XP HD
 http://nicolea-kalie.ibackup-01.com:80/live/TV-217352975/565672051314/229865.ts
@@ -105,10 +105,12 @@ http://tv.cloudcdn.me/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"",Star Movies  HD
 http://tv.cloudcdn.me/live.ts?channelId=162&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="",Sony Pix HD
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2820.ts
+http://ctv.sungohd.com:18495
 
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/mtvbeats.jpg" group-title="MUSIC",MTV Beats HD
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="", 9XM
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="",MTV HD
+http://87.255.35.150:18901
+#EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="",9X Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/malayalam/Garshom_TV.png" group-title="",Garshom TV
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFzE4m0b0KtP373eyFiAiIt4Ag5XBaXGuF4DM3dRwPZA&s" group-title="",Isai Aruvi
@@ -121,18 +123,23 @@ http://thksmom.shop/tojVOD24/7/index.m3u8?token=4080f9682a21a284d05d7c415714abcd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="",Star Sports1 HD 
+http://ctv.sungohd.com:18891
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/ohdHWeJtjZ.png" group-title="",Star Sports 1 HD
 https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/BFrSSMWxab.png" group-title="",Star Sports 2 HD
 http://87.255.35.150:18828
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="",Star Select 1 HD
+http://ctv.sungohd.com:18893
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/yTiRZUJMgP.png" group-title="",Star Select 2 HD
+http://ctv.sungohd.com:18952
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="",Sony Ten 1 HD
-http://nicolea-kalie.ibackup-01.com:80/live/TV-217352975/565672051314/229883.ts
+http://87.255.35.150:18926
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="",Sony Ten 2 HD
+http://87.255.35.150:18927
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2fUaDBRgP0xrwNqC1QE42znf-WxHxmrVEL0bmRW88w&s" group-title="SPORTS",Sony Six HD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="",PTV Sport
-http://66.102.120.18:8000/play/a04w/index.m3u8
+http://87.255.35.150:18818
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="",T Sports 
+http://fr.uvitech.eu/1/_.php?_=Ali130225_Cpyej2JL56Xy_1136
 #EXTINF:-1 tvg-logo="https://indiantraditionalgames.files.wordpress.com/2013/03/labaddi-733208.jpg" group-title="SPORTS", Kabadi
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png"  tvg-url="" group-title="",Ahl Quran
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
