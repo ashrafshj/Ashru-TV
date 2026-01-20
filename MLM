@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSvQXgf5CvwYtSOey6486WOq3MnbR2J8V-w&s"group-title="",Asianet HD
-http://87.255.35.150:18551
+http://217.20.112.199/asianet/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="",Mazhavil Manorama HD
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6654/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/53/fc/b7/53fcb74191dd34d3a251bf901b52117b.jpg"group-title="",Surya HD
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8    
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title="",Zee Keralam HD
-http://87.255.35.150:18502/
+http://thksmom.shop/BC_1204/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHzr8J6QE7Q8eMle-zOq1r7h1y1kPBblgdg&s"group-title="",N TV HD
 https://mars.streambridge.cloud/ntv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers TV
@@ -83,13 +83,13 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png"group-title=" MOVIES",Yupp Thirai
 
 #EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:1400/0*UxBDcIM2GW1WSOUq"group-title="",Discovery HD
-http://tv.cloudcdn.me/live.ts?channelId=164&uid=4280&deviceMac=00:1A:79:17:C1:7F
+https://bit.ly/Discovery_HD
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/national-geographic-hd.png"group-title="",National Geographic HD
-http://119.152.240.15:8000/play/a0i2/index.m3u8
+https://bit.ly/National-geogr
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png"group-title="",Sony BBC Earth 
 http://thksmom.shop/IN_SONYBBCHD/index.m3u8?token=c8193716182b219d713172af8d42484a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg"group-title="",Animal Planet
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg"group-title="",Animal Planet HD
+https://bit.ly/animal_Hd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png"group-title="",NAT GEO Wild HD
 http://103.182.170.32:8888/play/a01r
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png"group-title="", Love Nature HD
