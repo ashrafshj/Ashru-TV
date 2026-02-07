@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSvQXgf5CvwYtSOey6486WOq3MnbR2J8V-w&s"group-title="",Asianet HD
 http://217.20.112.199/asianet/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="",Mazhavil Manorama HD
-http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6654/index.m3u8
+https://cdn-7.pishow.tv/live/1129/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/53/fc/b7/53fcb74191dd34d3a251bf901b52117b.jpg"group-title="",Surya HD
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8    
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title="",Zee Keralam HD
@@ -29,7 +29,7 @@ https://cdn-3.pishow.tv/live/1467/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_ugnxUg8DnbPdU-p8E_CxgI3Lv4fqaYBWt2fQAO6OA&s"group-title="",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png"group-title="", Middle East
-https://bit.ly/asianet-md
+http://iptvplatinum.net:80/play/live.php?mac=00:1B:79:38:2A:1E&stream=1528397&extension=ts&play_token=OKncMxqipn
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg"group-title="",Surya Movies HD
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6653/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png"group-title="",Asianet Movies HD
@@ -37,13 +37,13 @@ http://nicolea-kalie.ibackup-01.com:80/TV-217352975/565672051314/219248
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Mazhavil_Manorama_Logo.png"group-title="",Mazhavil Manorama IN
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg"group-title=" ENTERTAIMENT",Surya HD
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXKQ205Nathhey1JSSdll-wL29WACo9PwewocJJ4S4Q&s"group-title="",Asianet
-http://thksmom.shop/BCC_1288/index.m3u8?token=5c27581bd155a1f18d09e2e76a6be7aa
+http://watchindia.net:8880/live/52323/64902/3730.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Mazhavil_Manorama_Logo.png"group-title="",Mazhavil Manorama
-http://thksmom.shop/BC_1232/index.m3u8?token=e309a5438482d54585755dbf49c0e7f2
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Surya_TV_logo.png"group-title="",Surya TV
-http://thksmom.shop/BC_168/index.m3u8?token=f87549248f8b505ee784d35803e05cde
+http://watchindia.net:8880/live/52323/64902/2322.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgPtkaODx8N6maZiM307xt7IqTrloDkseIxCrLRaAr_g&s"group-title="",Kairali Arabia
-https://bit.ly/kairal-arabia
+http://iptvplatinum.net:80/play/live.php?mac=00:1B:79:38:2A:1E&stream=155838&extension=ts&play_token=cVDKNGXhvC 
 #EXTINF:-1 tvg-logo="https://kcltv.com/images/logo.jpg"group-title="",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOcGtmqdmp1hn6Gby0QovjWPaF4p4s668wA&s"group-title="",Kozhikodevision
@@ -77,6 +77,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFXVk3fZ7HzpRbOYFBXwnuzqm4D78ooxjaGgqZ_l_hpg&s"group-title="",Al Jazeera News
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kairali_WE_TV_Logo.png/640px-Kairali_WE_TV_Logo.png"group-title=" MOVIES",Kairali We
+https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/b25ldHYuY29tLm9uZXR2bmlsYW1idXJfc2NyZWVuXzFfMTU4NzYzNjkyNV8wODE/screen-1.jpg?fakeurl=1&type=.jpg"group-title=" ENTERTAIMENT",One TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Victers_TV_Logo.jpg"group-title=" SCHOOL",Kite-Victers
@@ -124,15 +125,15 @@ http://tv.zapping.life:8080/Richardtv847/wjR2TtxYES/162845
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="",Star Sports1 HD 
-http://ctv.sungohd.com:18891
+http://watchindia.net:8880/live/52323/64902/2232.ts
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/ohdHWeJtjZ.png" group-title="",Star Sports 1 HD
 https://d5.merichunidya.com:1686/hls/starhindi.m3u8?md5=2sBDNQTdsUt4Upqy8th30A&expires=1769268617
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/BFrSSMWxab.png" group-title="",Star Sports 2 HD
-http://87.255.35.150:18828
+http://watchindia.net:8880/live/52323/64902/1069.ts
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="",Star Select 1 HD
-http://ctv.sungohd.com:18893
+http://watchindia.net:8880/live/52323/64902/1070.ts
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/yTiRZUJMgP.png" group-title="",Star Select 2 HD
-http://ctv.sungohd.com:18952
+http://watchindia.net:8880/live/52323/64902/1071.ts
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="",Sony Ten 1 HD
 http://87.255.35.150:18926
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="",Sony Ten 2 HD
