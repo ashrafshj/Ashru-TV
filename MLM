@@ -7,25 +7,25 @@ http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6654/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/53/fc/b7/53fcb74191dd34d3a251bf901b52117b.jpg"group-title="",Surya HD
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8    
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title="",Zee Keralam HD
-http://thksmom.shop/BC_1204/index.m3u8?token=c2ac2e42a0a98044d027585d58cfe688
+https://bit.ly/Zee-keralam
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHzr8J6QE7Q8eMle-zOq1r7h1y1kPBblgdg&s"group-title="",N TV HD
 https://mars.streambridge.cloud/ntv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers TV
-http://thksmom.shop/BC_1240/index.m3u8?token=02b8fc13194e5b57825ea854826a3486
+https://bit.ly/Flowers-in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers US
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nBAXbOSIUuC2k-W099X68KEQ4MMDi3-r5jH2ZzLQ=s900-c-k-c0x00ffffff-no-rj"group-title="",Amrita TV
-http://nicolea-kalie.ibackup-01.com:80/TV-217352975/565672051314/229758
+https://ddash74r36xqp.cloudfront.net/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kNtX4loDkwdRCPr2plz99CPb22-Xx_UKIjlVT8ew=s900-c-k-c0x00ffffff-no-rj"group-title="",Kairali TV
-http://thksmom.shop/BC_1238/mpegts?token=f43679a9d7634586b74fd558a47ed5d8
+https://mumt01.tangotv.in/KAIRALI/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/743422000903790592/k_KIHXDs_400x400.jpg"group-title="",Safari
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/darshanatv-1-400x300.png"group-title="",Darshana TV
-https://bit.ly/DarshanaTv
+https://mumt04.tangotv.in/DARSHANATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg"group-title="",Jaihind TV
-http://nicolea-kalie.ibackup-01.com:80/TV-217352975/565672051314/229779
+https://bit.ly/jaihind1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/JeevanTV.jpg"group-title="",Jeevan TV  
-http://thksmom.shop/BC_336/mpegts?token=3727c5c44b1a653508c41bf17dd20e92
+https://cdn-3.pishow.tv/live/1467/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_ugnxUg8DnbPdU-p8E_CxgI3Lv4fqaYBWt2fQAO6OA&s"group-title="",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png"group-title="", Middle East
@@ -59,7 +59,7 @@ https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" group-title="",24 News HD
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2024/05/news-kerala-350x250.jpg" group-title="",News Malayalam
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8
+https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reporter_TV_2023.jpg" group-title="",Reporter News
 https://segment.yuppcdn.net/050522/reporter/050522/reporter_1800/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Manorama_News.svg/1200px-Manorama_News.svg.png" group-title="",Manorama News HD
@@ -67,7 +67,7 @@ https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n3GwS5AiD5wcCQcacdBVIqedZEtVm4H1EsLlxB0li41mA=s900-c-k-c0x00ffffff-no-rj" group-title="",Mathrubhumi News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3Wj9ABU" group-title="",Keralavsion News
-https://ythls.armelin.one/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
+https://youtu.be/3446A6FzW3o
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="",Asianet News HD
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1323664537770323968/vD4Ifa_b_400x400.jpg" group-title="",India Today
@@ -91,8 +91,9 @@ http://thksmom.shop/IN_SONYBBCHD/index.m3u8?token=c8193716182b219d713172af8d4248
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg"group-title="",Animal Planet HD
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png"group-title="",NAT GEO Wild HD
-http://103.182.170.32:8888/play/a01r
+https://bit.ly/Wild-UHD
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png"group-title="", Love Nature HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=-W-Hab4e1BO
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png"group-title="",Travel XP HD
 http://nicolea-kalie.ibackup-01.com:80/live/TV-217352975/565672051314/229865.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qtgiu0b.png"group-title="",4K Travel
