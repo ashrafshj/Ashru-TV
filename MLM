@@ -86,15 +86,15 @@ https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png"group-title=" MOVIES",Yupp Thirai
 
 #EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:1400/0*UxBDcIM2GW1WSOUq"group-title="",Discovery HD
-http://tv.cloudcdn.me/live.ts?channelId=164&uid=4280&deviceMac=00:1A:79:17:C1:7F
+http://116229191157.rsc.cdn77.cc/58eab44776cce29a3ffa1c2459824dff300e6084e61a9a1e99ed7299f25e9a24ca86b2ad5bad/mono.m3u8?token=7884661ff6bca33b1d937c9884cfd02d
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/national-geographic-hd.png"group-title="",National Geographic HD
-https://bit.ly/National-Geographic1
+http://119.152.240.15:8000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png"group-title="",Sony BBC Earth 
 https://bit.ly/bbcerath
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg"group-title="",Animal Planet HD
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+http://116229191157.rsc.cdn77.cc/58eab44776cce29a3ffa1c245c8557f13e14559afe3d910ea7e331c5af24ed2dcf88b3a751a80e89f50696/mono.m3u8?token=3072b6867d3589759f709d72eb960d55
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png"group-title="",NAT GEO Wild HD
-https://bit.ly/Wild-UHD
+http://217.20.112.199:8888/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png"group-title="", Love Nature HD
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png"group-title="",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -108,7 +108,7 @@ http://tv.cloudcdn.me/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"",Star Movies  HD
 http://tv.cloudcdn.me/live.ts?channelId=162&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="",Sony Pix HD
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2820.ts
+http://116229191157.rsc.cdn77.cc/58eab44776cce29a3ffa1c244e8450e50f315dbedb62c443c2bf7b9cfc5f902ecf/mono.m3u8?token=efda692f42362adbf28cdf9bf145d23e
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="",MTV HD
 #EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="",9X Jalwa
@@ -125,21 +125,21 @@ http://zuhu.xyz:80/live/saulofont/J5Y3fWs2hRja/720472.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="",Star Sports1 HD 
-http://watchindia.net:8880/live/52323/64902/2232.ts
+http://exa_edge_2skyd.cdn77.me/58eab44776cce29a3ffa1c244e9f5fee0c086a84eb20bc3ec1bd7390f95f9129c882b8a659/mono.m3u8?token=77efe49432518307abdd220d5ec16324
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/ohdHWeJtjZ.png" group-title="",Star Sports 1 HD
 https://d5.merichunidya.com:1686/hls/starhindi.m3u8?md5=2sBDNQTdsUt4Upqy8th30A&expires=1769268617
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/BFrSSMWxab.png" group-title="",Star Sports 2 HD
-http://watchindia.net:8880/live/52323/64902/1069.ts
+http://116229191157.rsc.cdn77.cc/58eab44776cce29a3ffa1c244e9f5fee0c086a84eb20bc3ec2bd7390f95f9129c882b8a659/mono.m3u8?token=97c66f494019a5c268c149a599be3ef0
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="",Star Select 1 HD
-http://watchindia.net:8880/live/52323/64902/1070.ts
+http://116229191157.rsc.cdn77.cc/58eab44776cce29a3ffa1c244e9f5fee0c086a84eb20a71f9ce920dd8328982dcf88b3a751a80e89f50696/mono.m3u8?token=83a90628e14e57ba5bc84582f2142e2a
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/yTiRZUJMgP.png" group-title="",Star Select 2 HD
-http://watchindia.net:8880/live/52323/64902/1071.ts
+http://116229191157.rsc.cdn77.cc/58eab44776cce29a3ffa1c244e9f5fee0c086a84eb20a71f9ce920dd83289b2dcf88b3a751a80e89f50696/mono.m3u8?token=8cdc9370ee6d4d3f6041f9cf89de9070
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="",Sony Ten 1 HD
-http://87.255.35.150:18926
+http://116229191157.rsc.cdn77.cc/58eab44776cce29a3ffa1c2449ae70ad6e483cc4ac6bc14dc3b57199/mono.m3u8?token=cb7812473249bf31e522f26245248480
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="",Sony Ten 2 HD
-http://87.255.35.150:18927
+http://116229191157.rsc.cdn77.cc/58eab44776cce29a3ffa1c2449ae70ae6e483cc4ac6bc14dc3b57199/mono.m3u8?token=d4bec0ce04977a6c6137af41ff8f41b7
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2fUaDBRgP0xrwNqC1QE42znf-WxHxmrVEL0bmRW88w&s" group-title="",Sony Six HD
-http://87.255.35.150:18818
+http://116229191157.rsc.cdn77.cc/58eab44776cce29a3ffa1c2449ae70a96e483cc4ac6bc14dc3b57199/mono.m3u8?token=5e285b8774387134626a38029a97fe18
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="",T Sports 
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://indiantraditionalgames.files.wordpress.com/2013/03/labaddi-733208.jpg" group-title="SPORTS", Kabadi
