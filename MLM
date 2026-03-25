@@ -35,7 +35,7 @@ http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281754&extens
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title="",Zee Keralam HD
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281758&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHzr8J6QE7Q8eMle-zOq1r7h1y1kPBblgdg&s"group-title="",N TV HD
-https://mars.streambridge.cloud/ntv/live/playlist.m3u8
+https://stream.logichost.in/NTV/live/chunklist_w1420234415.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers TV
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281737&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers US
@@ -57,7 +57,7 @@ https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png"group-title="", Middle East
 https://bit.ly/as-middle
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg"group-title="",Surya Movies HD
-http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6653/index.m3u8
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6652/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png"group-title="",Asianet Movies HD
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=742828&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kairali_WE_TV_Logo.png/640px-Kairali_WE_TV_Logo.png"group-title=" MOVIES",Kairali We
@@ -89,18 +89,18 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:1400/0*UxBDcIM2GW1WSOUq"group-title="",Discovery HD
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281661&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/national-geographic-hd.png"group-title="",National Geographic HD
-http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281665&extension=ts&play_token=
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png"group-title="",Sony BBC Earth 
-http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281655&extension=ts&play_token=
+http://116.90.120.151:8000/play/a0in/index.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png"group-title="",Sony BBC Earth HD
+http://116.90.120.151:8000/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg"group-title="",Animal Planet HD
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281653&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png"group-title="",NAT GEO Wild HD
-http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281666&extension=ts&play_token=
+http://116.90.120.151:8000/play/a0ie/index.m3u8
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png"group-title="", Love Nature HD
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png"group-title="",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qtgiu0b.png"group-title="",4K Travel
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/7795fec0-9bad-4bd4-9650-5eb1af955ee4/1.m3u8
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0yOK-VNWryhH5NAyK8CTX5x_MCK9_594XhSjxleQkuQ&s"group-title=" MOVIES",Cinema 24/7
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/380.png"group-title=" MOVIES",KTV HD
@@ -109,18 +109,17 @@ http://tv.cloudcdn.me/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"",Star Movies  HD
 http://tv.cloudcdn.me/live.ts?channelId=162&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="",Sony Pix HD
-http://116229191157.rsc.cdn77.cc/58eab44776cce29a3ffa1c244e8450e50f315dbedb62c443c2bf7b9cfc5f902ecf/mono.m3u8?token=efda692f42362adbf28cdf9bf145d23e
+http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=843899&extension=ts&play_token=
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="",MTV HD
 #EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="",9X Jalwa
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/malayalam/Garshom_TV.png" group-title="",Garshom TV
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFzE4m0b0KtP373eyFiAiIt4Ag5XBaXGuF4DM3dRwPZA&s" group-title="",Isai Aruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="",Tom & Jerry
-http://zuhu.xyz:80/live/saulofont/J5Y3fWs2hRja/720472.ts
+http://vipqutnnapi.top:8080/live/VIP01571708409037004/adaac3364e63/144283.ts
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
@@ -128,8 +127,9 @@ http://zuhu.xyz:80/live/saulofont/J5Y3fWs2hRja/720472.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="",Star Sports1 HD 
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281630&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/ohdHWeJtjZ.png" group-title="",Star Sports 1 HD
-https://d5.merichunidya.com:1686/hls/starhindi.m3u8?md5=2sBDNQTdsUt4Upqy8th30A&expires=1769268617
+http://116.90.120.151:8000/play/a0je/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/BFrSSMWxab.png" group-title="",Star Sports 2 HD
+http://116.90.120.151:8000/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="",Star Select 1 HD
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/yTiRZUJMgP.png" group-title="",Star Select 2 HD
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="",Sony Ten 1 HD
