@@ -128,8 +128,8 @@ http://vipqutnnapi.top:8080/live/VIP01571708409037004/adaac3364e63/144283.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgyfiQaiXbhgA-bT8fHfjUA7GrFeGGDjwJXQ&s" group-title="",Star Sports1 HD 
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281630&extension=ts&play_token=
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGq-NU_4rFvyce9BQJN0Nf9JVNw3kWd9VccA&s" group-title="",Star Sports 1 HD
-http://geotv.space:8880/live/00998877/44332211/607419.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGq-NU_4rFvyce9BQJN0Nf9JVNw3kWd9VccA&s" group-title="",Star Sports 1 Hindi HD
+http://172.110.220.197/live/543416701/557623231/607419.m3u8?token=aDNqNEVpcnB6aHQyWk41
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/27239498611.png" group-title="",Star Sports 2 HD
 http://45.155.90.43:8080/live/00998877/44332211/907114.m3u8?token=NHp5MG5hQnVvSGpDNzhX
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="",Star Select 1 HD
