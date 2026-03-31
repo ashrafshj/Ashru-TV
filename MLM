@@ -56,8 +56,10 @@ https://cdn-3.pishow.tv/live/1467/master.m3u8
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png"group-title="", Middle East
 https://bit.ly/as-middle
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"group-title=" MOVIES",Cinema 24/7
+http://geotv.space:8880/live/00998877/44332211/828497.ts
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg"group-title="",Surya Movies HD
-http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6652/index.m3u8
+http://geotv.space:8880/live/00998877/44332211/324918.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png"group-title="",Asianet Movies HD
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=742828&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2024/01/Kairali-WE-TV-Logo.png"group-title=" MOVIES",Kairali We
@@ -65,7 +67,7 @@ https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Mazhavil_Manorama_Logo.png"group-title="",Mazhavil Manorama IN
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg"group-title=" ENTERTAIMENT",Surya HD
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXKQ205Nathhey1JSSdll-wL29WACo9PwewocJJ4S4Q&s"group-title="",Asianet
-http://45.155.90.44/live/00998877/44332211/179360.m3u8?token=WEhMVFRnQmdoT0lhWFlv
+http://geotv.space:8880/live/00998877/44332211/179360.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Mazhavil_Manorama_Logo.png"group-title="",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Surya_TV_logo.png"group-title="",Surya TV
@@ -78,6 +80,7 @@ http://tv.6giptv.net:8080/live/P4B9TB9xR8/humongous2tonight/9027.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOcGtmqdmp1hn6Gby0QovjWPaF4p4s668wA&s"group-title="",Kozhikodevision
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194403/1000x1000_SunTVHD_194403_8ad3d2a8-5344-4d5c-956c-ccbfb25b2431.png" group-title="ENTERTAINMENT",SUN TV HD
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/496.png"group-title=" ENTERTAIMENT",Star Vijay HD
+http://geotv.space:8880/live/00998877/44332211/179321.ts
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/674.png"group-title=" ENTERTAIMENT",Colors Tamil HD
 http://tv.6giptv.net:8080/live/P4B9TB9xR8/humongous2tonight/5886.ts
 #EXTINF:-1 tvg-logo="https://vmax.vimitel.com/uploads/tv_image/zee-tv-hd.png"group-title=" ENTERTAIMENT",ZeeTv HD
@@ -90,7 +93,7 @@ http://tv.6giptv.net:8080/live/P4B9TB9xR8/humongous2tonight/5886.ts
 
 #EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:1400/0*UxBDcIM2GW1WSOUq"group-title="",Discovery HD
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281661&extension=ts&play_token=
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/national-geographic-hd.png"group-title="",National Geographic HD
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/cdfc71bd179f433e34864aa1d5b5b688.png"group-title="",National Geographic HD
 https://freelivtv.xyz/oppu/m3u.php?id=206285&e=.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png"group-title="",Sony BBC Earth HD
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281655&extension=ts&play_token=
@@ -100,11 +103,10 @@ http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281653&extens
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281666&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png"group-title="", Love Nature HD
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png"group-title="",Travel XP HD
-https://freelivtv.xyz/oppu/m3u.php?id=206281&e=.m3u8
+http://tv.6giptv.net:8080/live/P4B9TB9xR8/humongous2tonight/143205.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qtgiu0b.png"group-title="",4K Travel
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0yOK-VNWryhH5NAyK8CTX5x_MCK9_594XhSjxleQkuQ&s"group-title=" MOVIES",Cinema 24/7
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/380.png"group-title=" MOVIES",KTV HD
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP"group-title="",Sony Max HD
 http://tv.cloudcdn.me/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1:7F
@@ -129,10 +131,11 @@ http://vipqutnnapi.top:8080/live/VIP01571708409037004/adaac3364e63/144283.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgyfiQaiXbhgA-bT8fHfjUA7GrFeGGDjwJXQ&s" group-title="",Star Sports1 HD 
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281630&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGq-NU_4rFvyce9BQJN0Nf9JVNw3kWd9VccA&s" group-title="",Star Sports 1 Hindi HD
-http://172.110.220.197/live/543416701/557623231/607419.m3u8?token=aDNqNEVpcnB6aHQyWk41
+http://geotv.space:8880/live/00998877/44332211/607419.ts
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/27239498611.png" group-title="",Star Sports 2 HD
-http://45.155.90.43:8080/live/00998877/44332211/907114.m3u8?token=NHp5MG5hQnVvSGpDNzhX
+http://geotv.space:8880/live/00998877/44332211/907114.ts
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="",Star Select 1 HD
+http://geotv.space:8880/live/00998877/44332211/907120.ts
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/yTiRZUJMgP.png" group-title="",Star Select 2 HD
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="",Sony Ten 1 HD
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="",Sony Ten 2 HD
