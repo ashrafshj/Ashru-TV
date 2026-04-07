@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2024/05/news-kerala-350x250.jpg" group-title="",News Malayalam
-https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8
+https://cdn-3.pishow.tv/live/1629/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="",Media One HD
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/12/24news_logo.png" group-title="",24 News HD
