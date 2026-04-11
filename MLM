@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2024/05/news-kerala-350x250.jpg" group-title="",News Malayalam
-https://mumt03.tangotv.in/NEWSMALAYALAM24X7/tracks-v1a1/mono.m3u8
+https://cdn-3.pishow.tv/live/1629/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="",Media One HD
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/12/24news_logo.png" group-title="",24 News HD
@@ -89,15 +89,15 @@ http://ptuf.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png"group-title=" MOVIES",Yupp Thirai
 
 #EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:1400/0*UxBDcIM2GW1WSOUq"group-title="",Discovery HD
-http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281661&extension=ts&play_token=
+http://103.157.248.140:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/cdfc71bd179f433e34864aa1d5b5b688.png"group-title="",National Geographic HD
-http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281665&extension=ts&play_token= 
+http://103.157.248.140:8000/play/a012/index.m3u8 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png"group-title="",Sony BBC Earth HD
-http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281655&extension=ts&play_token=
+http://103.157.248.140:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg"group-title="",Animal Planet HD
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281653&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png"group-title="",NAT GEO Wild HD
-http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281666&extension=ts&play_token=
+http://103.157.248.140:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png"group-title="", Love Nature HD
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png"group-title="",Travel XP HD
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
@@ -128,10 +128,11 @@ http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=947730&extens
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgyfiQaiXbhgA-bT8fHfjUA7GrFeGGDjwJXQ&s" group-title="",Star Sports1 HD 
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281630&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGq-NU_4rFvyce9BQJN0Nf9JVNw3kWd9VccA&s" group-title="",Star Sports 1 Hindi HD
-http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=689569&extension=ts&play_token= 
+http://103.157.248.140:8000/play/a01m/index.m3u8 
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/27239498611.png" group-title="",Star Sports 2 HD
 http://line.boom-ott.ru/play/live.php?mac=00:1A:79:00:77:78&stream=281632&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="",Star Select 1 HD
+http://103.157.248.140:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/yTiRZUJMgP.png" group-title="",Star Select 2 HD
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="",Sony Ten 1 HD
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="",Sony Ten 2 HD
