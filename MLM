@@ -35,7 +35,7 @@ https://stream.logichost.in/NTV/live/chunklist_w1420234415.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers US
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/amrita_tv.png"group-title="",Amrita TV
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e8c1375787d09c2bc90f7e4ba420ea50.png"group-title="",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kNtX4loDkwdRCPr2plz99CPb22-Xx_UKIjlVT8ew=s900-c-k-c0x00ffffff-no-rj"group-title="",Kairali TV
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
@@ -49,7 +49,7 @@ https://cdn-3.pishow.tv/live/1467/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_ugnxUg8DnbPdU-p8E_CxgI3Lv4fqaYBWt2fQAO6OA&s"group-title="",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png"group-title="", Middle East
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in_arabia.png"group-title="",Kairali Arabia
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kairali-arabia-white.png"group-title="",Kairali Arabia
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"group-title="",Cinema 24/7
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg"group-title="",Surya Movies HD
@@ -68,6 +68,7 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194403/1000x1000_SunTVHD_194403_8ad3d2a8-5344-4d5c-956c-ccbfb25b2431.png" group-title="",SUN TV HD
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/496.png"group-title=" ",Star Vijay HD
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/674.png"group-title="", Colors Tamil HD
+http://202.70.146.135:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="https://vmax.vimitel.com/uploads/tv_image/zee-tv-hd.png"group-title=" ENTERTAIMENT",ZeeTv HD
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png"group-title=" ENTERTAIMENT",Sony HD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVxN2ZN/Colors-HD.png"group-title=" ENTERTAIMENT",Colors HD
@@ -83,11 +84,11 @@ http://103.157.248.140:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png"group-title="",Sony BBC Earth HD
 http://202.70.146.135:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg"group-title="",Animal Planet HD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png"group-title="",NAT GEO Wild HD
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png"group-title="",NAT GEO Wild HD
 http://103.157.248.140:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png"group-title="", Love Nature HD
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png"group-title="",Travel XP HD
-http://maxotts.maxdigitaltv.com/x-media/C279/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qtgiu0b.png"group-title="",4K Travel
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/380.png"group-title=" MOVIES",KTV HD
@@ -122,7 +123,7 @@ http://202.70.146.135:8000/play/a01e/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="",Star Select 1 HD
 http://103.157.248.140:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.rstream.me/images/t/yTiRZUJMgP.png" group-title="",Star Select 2 HD
+#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/11/Star-Sports-Select-HD-2-1.png" group-title="",Star Select 2 HD
 http://202.70.146.135:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="",Sony Ten 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
