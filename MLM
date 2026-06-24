@@ -114,7 +114,7 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/IMG_6227.png" group-title="FIFA World Cup", Live Sports-1 
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/IMG_6227.png" group-title="FIFA World Cup", Live Sports-2
-http://193.239.186.231/ZDF/index.m3u8
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgyfiQaiXbhgA-bT8fHfjUA7GrFeGGDjwJXQ&s" group-title="",Star Sports1 HD 
 http://103.157.248.140:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGq-NU_4rFvyce9BQJN0Nf9JVNw3kWd9VccA&s" group-title="",Star Sports 1 Hindi HD
