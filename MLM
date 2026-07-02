@@ -116,7 +116,7 @@ http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/IMG_6227.png" group-title="FIFA World Cup", Live Sports-2
 http://202.70.146.135:8000/play/a126/index.m3u8
 #EXTINF:-1 tvg-logo="https://statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/IMG_6227.png" group-title="FIFA World Cup", Live Sports-3
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+https://ts.hsztxc.cfd/v/bde65819746354f90fe3130d51db3f0a/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgyfiQaiXbhgA-bT8fHfjUA7GrFeGGDjwJXQ&s" group-title="",Star Sports1 HD 
 http://103.253.18.58:8000/play/a00m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGq-NU_4rFvyce9BQJN0Nf9JVNw3kWd9VccA&s" group-title="",Star Sports 1 Hindi HD
@@ -132,7 +132,8 @@ http://202.70.146.135:8000/play/a03e/index.m3u8
 http://202.70.146.135:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2fUaDBRgP0xrwNqC1QE42znf-WxHxmrVEL0bmRW88w&s" group-title="",Sony Six HD
 http://202.70.146.135:8000/play/a09r/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="",T Sports
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7fbf0410e7b133f9bf8e6468dfe3996e.png"group-title="",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-logo="https://indiantraditionalgames.files.wordpress.com/2013/03/labaddi-733208.jpg" group-title="SPORTS", Kabadi
-#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png"  tvg-url="" group-title="",Ahl Quran
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-CoBtcfqa0hRsN580-eXpuqA-t240x240.jpg"  tvg-url="" group-title="",Ahl Quran
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
