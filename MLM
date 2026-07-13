@@ -25,7 +25,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFXVk3fZ7HzpRbOYFBXwnuzqm4D78ooxjaGgqZ_l_hpg&s"group-title="",Al Jazeera News
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/09/Asianet-hd-logo.png"group-title="",Asianet HD
-http://103.157.248.140:8000/play/a00s/index.m3u8
+https://s.ipl2026.workers.dev/live.m3u8?id=443
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="",Mazhavil Manorama HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/53/fc/b7/53fcb74191dd34d3a251bf901b52117b.jpg"group-title="",Surya HD
