@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2024/05/news-kerala-350x250.jpg" group-title="",News Malayalam
-#EXTVLCOPT:http-referrer=https://jp.ipl2026.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://jp.ipl2026.workers.dev/
 https://s.ipl2026.workers.dev/live.m3u8?id=3184
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="",Media One HD
 #EXTVLCOPT:http-referrer=https://jp.ipl2026.workers.dev/
