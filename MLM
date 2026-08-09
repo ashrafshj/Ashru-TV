@@ -31,7 +31,7 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="",Mazhavil Manorama HD
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/53/fc/b7/53fcb74191dd34d3a251bf901b52117b.jpg"group-title="",Surya HD
-https://my-iptv-proxy-9chm.onrender.com/?id=900
+https://s.ipl2026.workers.dev/live.m3u8?id=900|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title="",Zee Keralam HD
 #EXTVLCOPT:http-referrer=https://jp.ipl2026.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
