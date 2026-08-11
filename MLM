@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2024/05/news-kerala-350x250.jpg" group-title="",News Malayalam
-https://bit.ly/4xunzEl
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cdb96065-b754-4c59-93c0-fe73f482439e/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="",Media One HD
 https://mumt01.tangotv.in/O5aw8Zn3MEDIAONETV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/12/24news_logo.png" group-title="",24 News HD
@@ -31,17 +31,10 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="",Mazhavil Manorama HD
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/53/fc/b7/53fcb74191dd34d3a251bf901b52117b.jpg"group-title="",Surya HD
-https://s.ipl2026.workers.dev/live.m3u8?id=900|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title="",Zee Keralam HD
-#EXTVLCOPT:http-referrer=https://jp.ipl2026.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://s.ipl2026.workers.dev/live.m3u8?id=1641
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHzr8J6QE7Q8eMle-zOq1r7h1y1kPBblgdg&s"group-title="",N TV HD
 https://stream.logichost.in/NTV/live/chunklist_w1420234415.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-https://bit.ly/4wIQUuD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers US
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e8c1375787d09c2bc90f7e4ba420ea50.png"group-title="",Amrita TV
