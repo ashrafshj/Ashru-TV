@@ -35,6 +35,9 @@ https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/ind
 #EXTVLCOPT:http-referrer=https://mini.allinonereborn.site/
 https://mini.allinonereborn.site/jtv-plus/Surya_HD_MOB/WDVLive/index.mpd?
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title="",Zee Keralam HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhoomtv.net/
+https://bhoomtv.net/geo/live.mpd?wid=1641JP&vtoken=st=1786477349~exp=1786478009~data=7b098b11c06442e53a3cca17bf52017694e33:d550:2286:eb03:3b11~hmac=f391e8a5e645ee67cef86a59573e67f1ed014f547965a39631b076d29b87
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHzr8J6QE7Q8eMle-zOq1r7h1y1kPBblgdg&s"group-title="",N TV HD
 https://stream.logichost.in/NTV/live/chunklist_w1420234415.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers TV
