@@ -34,7 +34,7 @@ https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://bhoomtv.net/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"54ce8446ac9e412591bba4de574760d5":"3815b3c373a62ea63e522ba5427bdc7c"}
+#KODIPROP:inputstream.adaptive.license_key="54ce8446ac9e412591bba4de574760d5":"3815b3c373a62ea63e522ba5427bdc7c"
 https://my-iptv-proxy-9chm.onrender.com/sury.php
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title="",Zee Keralam HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
