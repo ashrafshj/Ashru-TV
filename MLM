@@ -29,7 +29,7 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/53/fc/b7/53fcb74191dd34d3a251bf901b52117b.jpg"group-title="",Surya HD 
-https://s.ipl2026.workers.dev/live.m3u8?id=900|User-Agent=Mozilla/5.0...|Referer=https://jp.ipl2026.workers.dev/|Origin=https://jp.ipl2026.workers.dev
+http://webotv.watch:8880/live/t6ag8G3r/uGrmXQ5/4540719.ts
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="",Mazhavil Manorama HD
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title="",Zee Keralam HD
@@ -41,7 +41,7 @@ http://webotv.watch:8880/live/t6ag8G3r/uGrmXQ5/4540693.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers US
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e8c1375787d09c2bc90f7e4ba420ea50.png"group-title="",Amrita TV
-https://ddash74r36xqp.cloudfront.net/master_2000.m3u8
+https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kNtX4loDkwdRCPr2plz99CPb22-Xx_UKIjlVT8ew=s900-c-k-c0x00ffffff-no-rj"group-title="",Kairali TV
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/743422000903790592/k_KIHXDs_400x400.jpg"group-title="",Safari
@@ -51,7 +51,7 @@ https://mumt04.tangotv.in/m18aqlK4DARSHANATV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg"group-title="",Jaihind TV
 https://bit.ly/jaihind-yub
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/JeevanTV.jpg"group-title="",Jeevan TV  
-https://yupp-tv.keralive.workers.dev/120723/smil:jeevan.smil/chunklist_b1928000.m3u8
+https://yupp-tv.keralive.workers.dev/120723/smil:jeevan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_ugnxUg8DnbPdU-p8E_CxgI3Lv4fqaYBWt2fQAO6OA&s"group-title="",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png"group-title="", Middle East
@@ -90,15 +90,15 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/yupp-thirai.png"group-title=" MOVIES",Yupp Thirai
 
 #EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:1400/0*UxBDcIM2GW1WSOUq"group-title="",Discovery HD
-http://103.253.18.58:8000/play/a01r
+http://66.102.126.10:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/cdfc71bd179f433e34864aa1d5b5b688.png"group-title="",National Geographic HD
-http://103.253.18.58:8000/play/a01l
+http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png"group-title="",Sony BBC Earth HD
 http://66.102.126.10:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg"group-title="",Animal Planet HD
 http://66.102.126.10:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png"group-title="",NAT GEO Wild HD
-http://103.253.18.58:8000/play/a04d
+http://202.70.146.135:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png"group-title="", Love Nature HD
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png"group-title="",Travel XP HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qtgiu0b.png"group-title="",4K Travel
@@ -107,9 +107,9 @@ http://103.253.18.58:8000/play/a04d
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP"group-title="",Sony Max HD
 http://66.102.126.10:8000/play/a071/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"",Star Movies  HD
-http://103.253.18.58:8000/play/a01x
+http://202.70.146.135:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/214x0-icon.png" group-title="",Sony Pix HD
-http://103.253.18.58:8000/play/a01v
+http://66.102.126.10:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="",MTV HD
 #EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="",9X Jalwa
@@ -124,7 +124,7 @@ http://mundo2.vip:80/live/MentorA2025/MentorA2025/366256.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgyfiQaiXbhgA-bT8fHfjUA7GrFeGGDjwJXQ&s" group-title="",Star Sports1 HD 
-http://103.253.18.58:8000/play/a00m
+http://202.70.146.135:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGq-NU_4rFvyce9BQJN0Nf9JVNw3kWd9VccA&s" group-title="",Star Sports 1 Hindi HD
 http://66.102.126.10:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/27239498611.png" group-title="",Star Sports 2 HD
