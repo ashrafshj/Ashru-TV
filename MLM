@@ -66,7 +66,7 @@ http://hsneu.com:8080/live/NurettinAkar/pJEF0qtO/1443600.ts
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2024/01/Kairali-WE-TV-Logo.png"group-title="",Kairali We
-https://mumt01.tangotv.in/O5aw8Zn3WETV/tracks-v2a1/mono.m3u8
+https://streams.tangotv.in/WETV/ORIGIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Mazhavil_Manorama_Logo.png"group-title="",Mazhavil Manorama IN
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg"group-title="",Surya HD USA
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXKQ205Nathhey1JSSdll-wL29WACo9PwewocJJ4S4Q&s"group-title="",Asianet HD USA
@@ -113,6 +113,7 @@ http://66.102.126.10:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="",MTV HD
 #EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="",9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/garshom-black.png" group-title="",Garshom TV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFzE4m0b0KtP373eyFiAiIt4Ag5XBaXGuF4DM3dRwPZA&s" group-title="",Isai Aruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
