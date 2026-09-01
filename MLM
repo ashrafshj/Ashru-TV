@@ -9,7 +9,7 @@ https://mumt01.tangotv.in/O5aw8Zn3MEDIAONETV/tracks-v1a1/mono.m3u8
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqg5zFU4c8A_YR4dewvAiMsY3qNe_VOjKNFnmo_-PCPQ&s=10" group-title="",Amrita News Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://my-iptv-proxy.onrender.com/stream.php?url=https://youtu.be/4Ng7A95vHT0
+https://ashru-tv.onrender.com/youtube.php?url=https://youtu.be/4Ng7A95vHT0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reporter_TV_2023.jpg" group-title="",Reporter News
 https://segment.yuppcdn.net/050522/reporter/050522/reporter_1800/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/Mathrubhumi%20News.in.png" group-title="",Mathrubhumi News
