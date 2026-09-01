@@ -1,23 +1,23 @@
 <?php
 $url = $_GET['url'] ?? 'https://www.youtube.com/watch?v=4Ng7A95vHT0';
 
-// YouTube m3u8 extract ചെയ്യാനുള്ള പൊതുവായ API വഴി
-$apiUrl = "https://pipe-m3u8.vercel.app/api?url=" . urlencode($url);
-
 $ch = curl_init();
-curl_setopt($ch, CURLOPT_URL, $apiUrl);
+curl_setopt($ch, CURLOPT_URL, $url);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-$m3u8 = trim(curl_exec($ch));
+curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+$html = curl_exec($ch);
 curl_close($ch);
 
-if (!empty($m3u8) && filter_var($m3u8, FILTER_VALIDATE_URL)) {
+if (preg_match('/"hlsManifestUrl":"([^"]+)"/', $html, $matches)) {
+    $m3u8 = str_replace('\/', '/', $matches[1]);
+    header("Location: " . $m3u8);
+    exit();
+} elseif (preg_match('/hlsManifestUrl\\\\":\\\\"(.*?)\\\\"/', $html, $matches)) {
+    $m3u8 = str_replace(['\/', '\\"'], ['/', ''], $matches[1]);
     header("Location: " . $m3u8);
     exit();
 } else {
-    // ആൾട്ടർനേറ്റീവ് API വഴി
-    $altApi = "https://yt-m3u8.onrender.com/live?url=" . urlencode($url);
-    header("Location: " . $altApi);
-    exit();
+    http_response_code(404);
+    echo "Unable to fetch live stream link.";
 }
 ?>
