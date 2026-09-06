@@ -2,9 +2,12 @@
 
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2024/05/news-kerala-350x250.jpg" group-title="",News Malayalam
 https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="",Media One HD
+#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="",Media One
 https://mumt01.tangotv.in/O5aw8Zn3MEDIAONETV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="",Media One HD
+https://yt-live-proxy.npashru.workers.dev/mediaone
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/12/24news_logo.png" group-title="",24 News HD
+https://yt-live-proxy.npashru.workers.dev/24news
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/12/24news_logo.png" group-title="",24 News
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqg5zFU4c8A_YR4dewvAiMsY3qNe_VOjKNFnmo_-PCPQ&s=10" group-title="",Amrita News Live
@@ -32,15 +35,15 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/53/fc/b7/53fcb74191dd34d3a251bf901b52117b.jpg"group-title="",Surya HD 
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373394
+https://yt-live-proxy.npashru.workers.dev/sunsurya
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="",Mazhavil Manorama HD
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title="",Zee Keralam HD
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373388
+https://yt-live-proxy.npashru.workers.dev/zeekeralam
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHzr8J6QE7Q8eMle-zOq1r7h1y1kPBblgdg&s"group-title="",N TV HD
 https://stream.logichost.in/NTV/live/chunklist_w1420234415.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers TV
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=908579
+https://yt-live-proxy.npashru.workers.dev/flowers
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers US
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e8c1375787d09c2bc90f7e4ba420ea50.png"group-title="",Amrita TV
@@ -61,10 +64,10 @@ https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png"group-title="", Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kairali-arabia-white.png"group-title="",Kairali Arabia
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373380
+https://yt-live-proxy.npashru.workers.dev/kairaliarabia
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"group-title="",Cinema 24/7
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg"group-title="",Surya Movies HD
-https://ranapkx.site/RANAPK33k/TVD/play.php?id=373395
+https://yt-live-proxy.npashru.workers.dev/suryamovies
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png"group-title="",Asianet Movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
