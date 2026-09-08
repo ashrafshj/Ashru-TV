@@ -105,6 +105,7 @@ http://66.102.126.10:8000/play/a001/index.m3u8
 http://202.70.146.135:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png"group-title="", Love Nature HD
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png"group-title="",Travel XP HD
+http://103.155.18.186:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qtgiu0b.png"group-title="",4K Travel
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/380.png"group-title=" MOVIES",KTV HD
