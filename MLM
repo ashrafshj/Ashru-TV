@@ -2,13 +2,13 @@
 
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2024/05/news-kerala-350x250.jpg" group-title="",News Malayalam
 https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/media_one-1.png" group-title="",Media One
+#EXTINF:-1 tvg-logo="https://www.mediaoneonline.com/h-upload/2023/04/05/1361353-1399625-mediaone-2.webp" group-title="",Media One
 https://mumt01.tangotv.in/O5aw8Zn3MEDIAONETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DvZHyCMyjeVizO_xndOdJozTIVTBbyH7YLQaSO3y9s2fHzc2l2rEkoY&s=10" group-title="",Media One HD
 https://yt-live-proxy.npashru.workers.dev/mediaone
 #EXTINF:-1 tvg-logo="https://imagesvs.oneindia.com/ml/img/2021/10/twentyfor-1-1633347123.jpg" group-title="",24 News HD
 https://yt-live-proxy.npashru.workers.dev/24news
-#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/12/24news_logo.png" group-title="",24 News
+#EXTINF:-1 tvg-logo="https://imagesvs.oneindia.com/ml/img/2021/10/twentyfor-1-1633347123.jpg" group-title="",24 News
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reporter_TV_2023.jpg" group-title="",Reporter News
 https://segment.yuppcdn.net/050522/reporter/050522/reporter_1800/chunks.m3u8
@@ -18,9 +18,9 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://yt-live-proxy.npashru.workers.dev/keralavision
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/BIG-TV-Malayalam.jpg" group-title="",Bigtv Malayalam
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2017/05/manorama_news4-335x251.png" group-title="",Manorama News HD
+#EXTINF:-1 tvg-logo="https://turrinoad.com/wp-content/uploads/2022/11/14.png" group-title="",Manorama News HD
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="",Asianet News HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/3/asianet-logo-png_seeklogo-319058.png" group-title="",Asianet News HD
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1323664537770323968/vD4Ifa_b_400x400.jpg" group-title="",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
@@ -48,7 +48,7 @@ https://ddash74r36xqp.cloudfront.net/master.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/743422000903790592/k_KIHXDs_400x400.jpg"group-title="",Safari
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/darshanatv-1-400x300.png"group-title="",Darshana TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Agx-qcA0IXrwbgMEclVYTTcp2Viv7Sj6ZFWb5TY48kOqL2XoA-zB78Rx&s=10"group-title="",Darshana TV
 https://yuppparoriglin.akamaized.net/181224/smil:darshanatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 https://mumt04.tangotv.in/m18aqlK4DARSHANATV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg"group-title="",Jaihind TV
