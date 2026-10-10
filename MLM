@@ -5,9 +5,9 @@ https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/mast
 #EXTINF:-1 tvg-logo="https://www.mediaoneonline.com/h-upload/2023/04/05/1361353-1399625-mediaone-2.webp" group-title="",Media One
 https://mumt01.tangotv.in/O5aw8Zn3MEDIAONETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DvZHyCMyjeVizO_xndOdJozTIVTBbyH7YLQaSO3y9s2fHzc2l2rEkoY&s=10" group-title="",Media One HD
-https://yt-live-proxy.npashru.workers.dev/mediaone
+https://cdn.pishow.tv/ott/live/1481/master.m3u8
 #EXTINF:-1 tvg-logo="https://imagesvs.oneindia.com/ml/img/2021/10/twentyfor-1-1633347123.jpg" group-title="",24 News HD
-https://yt-live-proxy.npashru.workers.dev/24news
+https://d1rc86nwwc9fag.cloudfront.net/110322/channel24dev/110322/channel24_1800/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imagesvs.oneindia.com/ml/img/2021/10/twentyfor-1-1633347123.jpg" group-title="",24 News
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reporter_TV_2023.jpg" group-title="",Reporter News
@@ -35,13 +35,13 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/53/fc/b7/53fcb74191dd34d3a251bf901b52117b.jpg"group-title="",Surya FHD 
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/53/fc/b7/53fcb74191dd34d3a251bf901b52117b.jpg"group-title="",Surya HD 
-https://yt-live-proxy.npashru.workers.dev/sunsurya
+http://d4-smart-d4.it.com:80/live/marouane291023/9e1hq6uiv9/277189.ts
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="",Mazhavil Manorama FHD
 https://mmtv-mazhavil.vgcdn.net/vglive-sk-268476/686269C50000FBC09C95-p01080.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png"group-title="",Mazhavil Manorama HD
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png"group-title="",Zee Keralam HD
-https://yt-live-proxy.npashru.workers.dev/zeekeralam
+http://d4-smart-d4.it.com:80/live/marouane291023/9e1hq6uiv9/277195.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHzr8J6QE7Q8eMle-zOq1r7h1y1kPBblgdg&s"group-title="",N TV HD
 https://stream.logichost.in/NTV/live/chunklist_w1420234415.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Flowers_TV_2023_logo.png"group-title="",Flowers TV
@@ -70,7 +70,7 @@ https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg"group-title="",Surya Movies HD
 http://d4-smart-d4.it.com:80/live/marouane291023/9e1hq6uiv9/277188.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png"group-title="",Asianet Movies HD
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2024/01/Kairali-WE-TV-Logo.png"group-title="",Kairali We
 https://streams.tangotv.in/WETV/ORIGIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXKQ205Nathhey1JSSdll-wL29WACo9PwewocJJ4S4Q&s"group-title="",Asianet HD USA
